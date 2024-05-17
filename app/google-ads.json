@@ -1,0 +1,165 @@
+{
+    "GoogleAdsData": {
+      "LogoAndData": {
+        "title": "Give Yourself a Chance to Make Your Dreams Come True",
+        "image": "/unideb-logo.png",
+        "landingImage": "/web landing.jpg",
+        "mobLandingImage": "/web landing mob.jpg",
+        "desc": "To all UAE Students, make your European Study dream come true! Applications for September Intake are open at the University of Debrecen"
+      },
+  
+      "BenefitsData": [
+        {
+          
+          "title": "The Benefits of Studying at the University of Debrecen",
+          "desc": "The University of Debrecen is the largest comprehensive university in Central Europe. It is the ideal study destination for students aspiring to study in Europe. If you want a European degree with quality education, the University of Debrecen is the place to go!",
+          "bullets": [
+            "One of the Best Medical Schools in Europe.",
+            "Accredited and Globally Recognized Study Programs.",
+            "Affordable Tuition Fees.",
+            "Exchange Programs."
+          ]
+        },
+        {
+          "title": "How is the University of Debrecen South Asia Regional Office the Best for You?",
+          "desc": "At the University of Debrecen South Asia Regional Office, we have a team of experts who will guide you through the process of securing admission with ease. You will experience a tailored service that includes the following steps:",
+          "bullets": [
+            "Program Selection",
+            "Document Assessment",
+            "Examination Preparation",
+            "Visa Filing",
+            "Post Arrival Support"
+          ]
+        }
+      ],
+
+      "Overview": {
+        "students": "30K+",
+        "international": "7300+",
+        "faculties": "13",
+        "campuses": "8"
+      },
+  
+      "TestimonialData": [
+        {
+          "image": "/roshan.png",
+          "name": "Roshan Jijo",
+          "desc": "This past one year has been one of the best moments in my life.",
+          "program": "BSc, Public Health"
+        },
+        {
+          "image": "/marvi.png",
+          "name": "Marvi",
+          "desc": "The medical school of the Univeristy of Debrecen is counted in World’s best medical institutes.",
+          "program": "Molecular Medicine, PhD"
+        },
+        {
+          "image": "/AlNasr.png",
+          "name": "Al Nasar Ahmed",
+          "desc": "This is really an afforabdable option to get European experience along with a quality education.",
+          "program": "Molecular Biology, MSc"
+        },
+        {
+          "image": "/noman.png",
+          "name": "Noman Khan",
+          "desc": "My favorite place in Debrecen is the Nagyerdi Park",
+          "program": "Public Health, BSc"
+        }
+      ],
+
+      "CarouselDataLarge": [
+        {
+          "image": "/campuslife1.jpg"
+        },
+        {
+          "image": "/campuslife2.jpg"
+        }
+      ],
+      "CarouselDataSmall": [
+        "/campuslifemob1.jpg",
+        "/campuslifemob2.jpg",
+        "/campuslifemob3.jpg",
+        "/campuslifemob5.jpg",
+        "/campuslifemob6.jpg"
+      ],
+
+      "StudyProgramData": [
+        {
+          "image": "/foundation.jpg",
+          "title": "Foundation Program"
+        },
+        {
+          "image": "/undergraduate.jpg",
+          "title": "Undergraduate Program"
+        },
+        {
+          "image": "/graduate.jpg",
+          "title": "Graduate Study Program"
+        },
+        {
+          "image": "/Medical.jpg",
+          "title": "Medical Program"
+        },
+        {
+          "image": "/PHD.jpg",
+          "title": "PhD / Doctoral Program"
+        }
+      ],
+
+      "AccreditationsData":{
+        "title": "Globally Recognized Programs with Mulitple Accreditations",
+        "desc": "Programs Accredited by:",
+        "bullets": [
+            "World Health Organization (WHO)",
+            "State Education Department (NY, USA)",
+            "Medical Board of California",
+            "Medical Councils of India",
+            "General Medical Council (UK)",
+            "European Federation of National Engineering Associations (FEANI)"
+        ]
+    },
+
+      "Why": [
+        {
+          "bullets": [
+            "Academic Excellence",
+            "State of the Art Facilities",
+            "Research Oppurtunities",
+            "Global Recognition",
+            "Supportive Environment"
+          ]
+        }
+      ],
+
+      "FooterData": [
+        {
+            "country": "INDIA",
+            "office": "Chennai Office",
+            "address": "Room No: 3C situated at 3rd Floor, Gee Gee Emerald, No 312, Nungambakkam High Road, Chennai, Tamil Nadu - 600034",
+            "phone": "+12345689",
+            "email": "can.chennai@canapprove.com"
+        },
+        {
+            "country": "CANADA",
+            "office": "Head Office",
+            "address": "Suite 500, 666 Burrard Street, Vancouver, British Columbia,V6C 3P6, Canada",
+            "phone": "+123456789",
+            "email": "info@canapprove.com"
+        },
+        {
+            "country": "DUBAI",
+            "office": "Corporate Office",
+            "address": "Office No- 403, 317-1B ST. Khalid Bin Al Waleed Road – Al Mankhool, Bank Street Building, Near UBL Bank, Dubai, UAE.",
+            "phone": "+123456789",
+            "email": "helpdesk@canapprove.com"
+        },
+        {
+            "country": "INDIA",
+            "office": "Administrative Office",
+            "address": "2nd Floor, No 1334/4, LTL Building, Avinashi Road, Peelamedu, Coimbatore, Tamil Nadu-641004, India",
+            "phone": "+123456789",
+            "email": "can.coimbatore@canapprove.com"
+        }
+      ]
+    }
+}
