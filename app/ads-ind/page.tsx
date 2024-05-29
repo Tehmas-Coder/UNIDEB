@@ -1,10 +1,28 @@
 "use client";
-import React, { useEffect } from "react";
+import React, { useRef, useState, Component, useEffect } from "react";
+import { GoogleAdsData } from "../google-ads.json";
+import Accordion from "@/components/newcomponents/accordion/accordion";
+import Map from "@/components/map/Map";
+import TesCarousel from "@/components/newcomponents/testemonialcarousels/Carousel";
+import Reviews from "@/components/newcomponents/reviews/Reviews";
 import TagManager, { TagManagerArgs } from "react-gtm-module";
+import emailjs from "@emailjs/browser";
 import Link from "next/link";
+import { GiGraduateCap } from "react-icons/gi";
+import { TiBrush } from "react-icons/ti";
+import { FcGlobe } from "react-icons/fc";
+import { FaTools } from "react-icons/fa";
+import { FaBuildingColumns } from "react-icons/fa6";
+import AdsCarousel from "@/components/newcomponents/adscarousel/AdsCarousel";
 import { FaStar } from "react-icons/fa";
 
 const AdsInd = () => {
+  const gtmId = process.env.NEXT_PUBLIC_GTM_ID || "";
+
+  const tagManagerArgs: TagManagerArgs = {
+    gtmId,
+  };
+
   useEffect(() => {
     const script = document.createElement("script");
     script.type = "text/javascript";
@@ -16,12 +34,6 @@ const AdsInd = () => {
       document.body.removeChild(script);
     };
   }, []);
-
-  const gtmId = process.env.NEXT_PUBLIC_GTM_ID || "";
-
-  const tagManagerArgs: TagManagerArgs = {
-    gtmId,
-  };
 
   useEffect(() => {
     TagManager.initialize(tagManagerArgs);
@@ -44,16 +56,17 @@ const AdsInd = () => {
                 <div className="absolute inset-0 bg-black opacity-10"></div>
               </div>
             </div>
-            <div className="absolute bottom-10 left-8 w-2/4 hidden sm:block">
-              <Link href={"#meeting"}>
-                <button className="bg-[#155744] border-2 border-black p-5 w-3/5 rounded-2xl mt-10 text-[#F5B418] text-2xl lg:text-3xl font-semibold">
-                  Apply Now
-                </button>
-              </Link>
-            </div>
+
             <div className="md:hidden">
-              <img className="" alt="mob_pic" src="/mob  for sch.jpg" />
+              <img className="" src="/mob  for sch.jpg" />
             </div>
+          </div>
+          <div className="bg-[#F5B418] flex justify-center sm:hidden p-4">
+            <Link href="#meeting">
+              <button className="bg-[#155744] text-white py-3 px-8 rounded-md">
+                Apply Now
+              </button>
+            </Link>
           </div>
 
           {/* ------------------------------------------------------------------Benefits------------------------------------------------------------ */}
@@ -110,7 +123,7 @@ const AdsInd = () => {
             </div>
 
             <div className="flex justify-center sm:hidden">
-              <Link href={"#meeting"}>
+              <Link href="#meeting">
                 <button className="bg-[#155744] p-4 w-52 rounded-lg mt-10 text-white text-lg">
                   Apply Now
                 </button>
@@ -120,7 +133,7 @@ const AdsInd = () => {
 
           <div className="hidden sm:block">
             <div className="flex justify-center mb-5">
-              <Link href={"#meeting"}>
+              <Link href="#meeting">
                 <button className="bg-[#155744] hover:scale-105 hover:bg-[#F5B418] transition transform duration-500 p-4 w-52 rounded-lg mt-10 text-white text-lg">
                   Apply Now
                 </button>
@@ -176,7 +189,7 @@ const AdsInd = () => {
             </p>
 
             <div className="hidden sm:block">
-              <Link href={"#meeting"}>
+              <Link href="#meeting">
                 <button className="bg-[#155744] hover:scale-105 hover:bg-white hover:text-black transition transform duration-500 p-4 w-52 rounded-lg mt-10 text-white text-lg">
                   Apply Now
                 </button>
@@ -184,7 +197,7 @@ const AdsInd = () => {
             </div>
 
             <div className="sm:hidden">
-              <Link href={"#meeting"}>
+              <Link href="#meeting">
                 <button className="bg-[#155744] p-4 w-52 rounded-lg mt-10 text-white text-lg">
                   Apply Now
                 </button>
@@ -198,8 +211,8 @@ const AdsInd = () => {
             <h1 className="text-center text-3xl md:text-4xl lg:text-5xl text-[#114c3a] font-bold my-4">
               INTERNATIONAL STUDENTS TESTIMONIALS
             </h1>
-            <div className="lg:flex flex-wrap justify-around w-full p-10">
-              <div className="lg:w-2/5 rounded-2xl mb-6 md:mb-16] lg:mb-5">
+            <div className="lg:flex justify-between w-full p-10">
+              <div className="lg:w-1/5 rounded-2xl mb-6 md:mb-16] lg:mb-0">
                 <div className="border-t-8 border-black rounded-2xl w-full border-b-8">
                   <iframe
                     className="w-full rounded-lg aspect-video"
@@ -208,7 +221,7 @@ const AdsInd = () => {
                 </div>
               </div>
 
-              <div className="lg:w-2/5 rounded-2xl mb-6 md:mb-16 lg:mb-5">
+              <div className="lg:w-1/5 rounded-2xl mb-6 md:mb-16 lg:mb-0">
                 <div className="border-t-8 border-black rounded-2xl w-full border-b-8">
                   <iframe
                     className="w-full rounded-lg aspect-video"
@@ -217,7 +230,7 @@ const AdsInd = () => {
                 </div>
               </div>
 
-              <div className="lg:w-2/5 rounded-2xl mb-6 md:mb-16 lg:mb-5">
+              <div className="lg:w-1/5 rounded-2xl mb-6 md:mb-16 lg:mb-0">
                 <div className="border-t-8 border-black rounded-2xl w-full border-b-8">
                   <iframe
                     className="w-full rounded-lg aspect-video"
@@ -226,7 +239,7 @@ const AdsInd = () => {
                 </div>
               </div>
 
-              <div className="lg:w-2/5 rounded-2xl mb-6 md:mb-16 lg:mb-5">
+              <div className="lg:w-1/5 rounded-2xl">
                 <div className="border-t-8 border-black rounded-2xl w-full border-b-8">
                   <iframe
                     className="w-full rounded-lg aspect-video"
@@ -238,7 +251,7 @@ const AdsInd = () => {
 
             <div className="hidden sm:block">
               <div className="flex justify-center mb-5">
-                <Link href={"#meeting"}>
+                <Link href="#meeting">
                   <button className="bg-[#155744] hover:scale-105 hover:bg-[#F5B418] transition transform duration-500 p-4 w-52 rounded-lg mt-10 text-white text-lg">
                     Apply Now
                   </button>
@@ -247,15 +260,13 @@ const AdsInd = () => {
             </div>
 
             <div className="flex justify-center mb-5 sm:hidden">
-              <Link href={"#meeting"}>
-                <button className="bg-[#155744] p-4 w-52 rounded-lg mt-10 text-white text-lg">
+              <Link href="#meeting">
+                <button className="bg-[#155744] p-4 w-52 rounded-lg sm:mt-10 text-white text-lg">
                   Apply Now
                 </button>
               </Link>
             </div>
           </div>
-
-          {/* --------------------------------------------------------------------Book a Meeting-------------------------------------------------------------- */}
 
           <div
             id="meeting"
