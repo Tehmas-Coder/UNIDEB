@@ -27,7 +27,7 @@ const MapComponent: React.FC<MapComponentProps> = ({ location, height }) => {
   return (
     <MapContainer
       style={{
-        height: "600px",
+        height: "400px",
         width: "100%",
         zIndex: 0,
       }}

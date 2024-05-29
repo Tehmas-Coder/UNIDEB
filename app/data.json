@@ -7,21 +7,7 @@
       "admissionsOpen": "Admissions Open"
     },
 
-    "EventsData2": [
-      {
-        "title": "title"
-      }
-    ],
-
     "EventsData": [
-      {
-        "title": "May Medicine Entrance Examination",
-        "description": "The applicants for the Medical and Health Sciences programs who are based in the UAE will have their entrance exam on May 26th. The venue and other details will be updated soon.",
-        "year": "2024",
-        "month": "May",
-        "date": "26",
-        "location": "Dubai, UAE"
-      },
       {
         "title": "GEMS Career Fair",
         "description": "Representatives from the university will be attending the GEMS Career Fair in Dubai with the aim of guiding prospective students. The event is scheduled for June 13th from 9:30 am to 3:30 pm.",

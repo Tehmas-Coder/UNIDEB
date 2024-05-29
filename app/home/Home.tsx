@@ -20,6 +20,21 @@ import { ImCross } from "react-icons/im";
 export const metadata: Metadata = {};
 
 const Home: React.FC = () => {
+  const MapLocation = [
+    {
+      organizationName: "University of Debrecen, Regional Office",
+      representative: "Mr. Asghar Aftab",
+      address: "Level 42, Emirates Towers Sheikh Zayed Road Dubai, UAE",
+      tel: "+971 50 844 8119",
+      mobile: "+971 50 844 8119",
+      email: "southasia@reps.unideb.hu",
+      website: "https://southasia.edu.unideb.hu/",
+      Timing: "10:00 AM-6:00 PM",
+      lat: "25.21",
+      long: "55.28",
+    },
+  ];
+
   const Images = [
     {
       url1: "",
@@ -584,7 +599,18 @@ const Home: React.FC = () => {
 
           <div className="lg:flex justify-center my-5">
             <div className="lg:w-[700px] px-4 lg:mt-8 lg:mr-10">
-              <Map />
+              {/* <Map /> */}
+
+              {/* <MapComponent location={MapLocation} height="60vh" /> */}
+
+              <div className="cursor-pointer h-64">
+                <img
+                  src="/HomePageMap.png"
+                  alt="map"
+                  className="h-full w-full object-cover"
+                />
+              </div>
+
               <h2 className="text-[#155744] text-lg font-bold text-center my-10">
                 UNIVERSITY OF DEBRECEN SOUTH ASIA REGIONAL OFFICE
               </h2>
