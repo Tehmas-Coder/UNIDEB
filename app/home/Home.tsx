@@ -57,6 +57,7 @@ const Home: React.FC = () => {
   const [isHoveredGS, setIsHoveredGS] = useState(false);
   const [isHoveredMS, setIsHoveredMS] = useState(false);
   const [isHoveredPhD, setIsHoveredPhD] = useState(false);
+  const [showPopup, setShowPopup] = useState(false);
 
   function restoreBg() {
     setImage(Images[0].url1); // Change the URL to default
@@ -73,16 +74,14 @@ const Home: React.FC = () => {
     setIsHoveredCampus(!isHoveredCampus);
   };
 
-  const [showPopup, setShowPopup] = useState(false);
+  // useEffect(() => {
+  //   const timer = setTimeout(() => {
+  //     setShowPopup(true);
+  //   }, 3000);
 
-  useEffect(() => {
-    const timer = setTimeout(() => {
-      setShowPopup(true);
-    }, 3000); // Display the popup after 3 second
-
-    // Clean up the timer to prevent memory leaks
-    return () => clearTimeout(timer);
-  }, []);
+  //   // Clean up the timer to prevent memory leaks
+  //   return () => clearTimeout(timer);
+  // }, []);
 
   const handleClosePopup = () => {
     setShowPopup(false);

@@ -9,14 +9,6 @@
 
     "EventsData": [
       {
-        "title": "GEMS Career Fair",
-        "description": "Representatives from the university will be attending the GEMS Career Fair in Dubai with the aim of guiding prospective students. The event is scheduled for June 13th from 9:30 am to 3:30 pm.",
-        "year": "2024",
-        "month": "June",
-        "date": "13",
-        "location": "Dubai, UAE"
-      },
-      {
         "title": "May Medicine Entrance Examination",
         "description": "The applicants for the Medical and Health Sciences programs who are based in the UAE will have their last entrance exam on May 30th.",
         "year": "2024",
@@ -9957,6 +9949,14 @@
           "yellowheading": "",
           "links": {},
           "text": "There is no designated deadline for the scholarship application. Applications can be submitted continuously until the scholarship budget and program seat capacities allow. However, the official application deadlines for all University of Debrecen International Degree Programs apply (15 June, 2024).",
+          "bullets": []
+        },
+        {
+          "heading": "",
+          "subheading": "",
+          "yellowheading": "! Deadline extended until 30 June 2024 !",
+          "links": {},
+          "text": "",
           "bullets": []
         },
         {
