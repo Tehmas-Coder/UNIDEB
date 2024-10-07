@@ -1,0 +1,172 @@
+{
+  "DeadlinesData": {
+    "title": "Upcoming Deadlines",
+    "tab1": "Deadlines of Intakes",
+    "text1": [
+      {
+        "heading": "January intake",
+        "textwithheading": "application deadline: 1 November 2024",
+        "data": [
+          {
+            "data-title": "",
+            "data-desc": "",
+            "desc-link": ""
+          }
+        ],
+        "contentA": "Medical programs (only Basic Medicine Course II): 1st November",
+        "contentB": "Other non-medical programs, PhD program: 15th November"
+      },
+      {
+        "heading": "February intake",
+        "textwithheading": "application deadline: 15 November 2024",
+        "data": [
+          {
+            "data-title": "Join Preparatory Course for Agriculture, Engineering, IT and Science undergraduate programs!",
+            "data-desc": "",
+            "description": [
+              {
+                "name": "Intensive Foundation Semester Program!",
+                "link": ""
+              }
+            ]
+          },
+          {
+            "data-title": "Join our MSc programs!",
+            "data-desc": "Agriculture Programs",
+            "description": [
+              {
+                "name": "Animal Husbandry Engineering, MSc",
+                "link": ""
+              }
+            ]
+          },
+          {
+            "data-title": "",
+            "data-desc": "",
+            "description": [
+              {
+                "name": "Agricultural Environmental Management Engineering, MSc",
+                "link": ""
+              }
+            ]
+          },
+          {
+            "data-title": "",
+            "data-desc": "",
+            "description": [
+              {
+                "name": "Agricultural Water Management Engineering, MSc",
+                "link": ""
+              }
+            ]
+          },
+          {
+            "data-title": "",
+            "data-desc": "",
+            "description": [
+              {
+                "name": "Food Safety and Quality Engineering, MSc",
+                "link": ""
+              }
+            ]
+          },
+          {
+            "data-title": "",
+            "data-desc": "",
+            "description": [
+              {
+                "name": "Plant Protection, MSc",
+                "link": ""
+              }
+            ]
+          },
+          {
+            "data-title": "",
+            "data-desc": "",
+            "description": [
+              {
+                "name": "Rural Development Engineering, MSc",
+                "link": ""
+              }
+            ]
+          },
+          {
+            "data-title": "",
+            "data-desc": "",
+            "description": [
+              {
+                "name": "",
+                "link": ""
+              }
+            ]
+          },
+          {
+            "data-title": "",
+            "data-desc": "",
+            "description": [
+              {
+                "name": "",
+                "link": ""
+              }
+            ]
+          },
+          {
+            "data-title": "",
+            "data-desc": "",
+            "description": [
+              {
+                "name": "",
+                "link": ""
+              }
+            ]
+          },
+          {
+            "data-title": "",
+            "data-desc": "",
+            "description": [
+              {
+                "name": "",
+                "link": ""
+              }
+            ]
+          },
+          {
+            "data-title": "",
+            "data-desc": "",
+            "description": [
+              {
+                "name": "",
+                "link": ""
+              }
+            ]
+          }
+        ],
+        "contentA": "Medical programs (only Basic Medicine Course II): 1st November",
+        "contentB": "Other non-medical programs, PhD program: 15th November"
+      }
+    ],
+    "tab2": "Deadlines of Scholarship Programs",
+    "text2": [
+      {
+        "heading": "UD International Scholarship Program",
+        "content": "Application Deadline: 31st March, 2024"
+      },
+      {
+        "heading": "Stipendium Hungaricum Scholarship Program",
+        "content": "Application Deadline: January 15, 2024"
+      },
+      {
+        "heading": "Scholarship for Christian Young People (SCYP) Program",
+        "content": "Application deadline: January 10, 2024"
+      },
+      {
+        "heading": "Erasmus+ Program (2023 - 24)",
+        "content": "Application Deadline: 15 March, 2023"
+      },
+      {
+        "heading": "Diaspora Scholarship",
+        "content": "Application Deadline: January 31, 2024"
+      }
+    ]
+  }
+}

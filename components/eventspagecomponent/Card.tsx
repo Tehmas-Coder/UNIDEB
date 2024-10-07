@@ -41,7 +41,7 @@ const Card = () => {
                 className="flex md:w-1/3 lg:w-1/4 my-4 group"
               >
                 <div
-                  className={`w-20 sm:w-[94px] xl:w-16 h-20 sm:h-16 ${
+                  className={`w-20 sm:w-[140px] xl:w-[75px] h-20 sm:h-[75px] ${
                     hoveredIndex === index
                       ? "bg-[rgba(245,180,24,1)] rotate-x-180 scale-x-[-1] transition-transform"
                       : "bg-[#114c3a]"

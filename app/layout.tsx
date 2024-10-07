@@ -4,6 +4,7 @@ import { Inter } from "next/font/google";
 import Header from "@/components/common/header/Header";
 import Footer from "@/components/common/footer/Footer";
 import ScrollToTop from "@/components/scrolltotop/ScrollToTop";
+import Whatsapp from "@/components/whatsapp/whatsapp";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -49,6 +50,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
         <main className={inter.className} style={{ flex: "1" }}>
           {children}
           <ScrollToTop />
+          <Whatsapp />
         </main>
         <Footer />
       </body>

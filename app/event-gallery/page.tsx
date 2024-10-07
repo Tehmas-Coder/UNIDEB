@@ -321,23 +321,6 @@ const Page = () => {
 
   return (
     <>
-      {/* {previewImageIndex !== null && (
-        <div className="fixed top-0 left-0 w-full h-full bg-black bg-opacity-75 z-50 flex justify-center items-center">
-          <div className="relative">
-            <button
-              onClick={closeCarousel}
-              className="absolute top-2 right-2 text-white text-lg focus:outline-none"
-            >
-              Close
-            </button>
-            <EventGalleryCarousel
-              images={imagesExpo}
-              initialIndex={previewImageIndex !== null ? previewImageIndex : 0}
-            />
-          </div>
-        </div>
-      )} */}
-
       <div className="flex flex-col items-center mb-2 px-12">
         <h1 className="lg:text-[50px] text-[35px] font-bold text-[#F5B418] my-10">
           Events Gallery
@@ -435,57 +418,6 @@ const Page = () => {
             </div>
           </Panel>
         </Collapse>
-
-        {/* {previewImageIndex !== null && (
-          <div className="fixed top-0 left-0 w-full h-full bg-black bg-opacity-75 z-50 flex justify-center items-center">
-            <div className="relative">
-              <button
-                onClick={closeCarousel}
-                className="absolute top-2 right-2 text-white text-lg focus:outline-none"
-              >
-                Close
-              </button>
-              <EventGalleryCarousel
-                images={imagesExpo}
-                initialIndex={previewImageIndex}
-              />
-            </div>
-          </div>
-        )} */}
-
-        {/* {previewImageIndex !== null && (
-          <div className="fixed top-0 left-0 w-full h-full bg-black bg-opacity-75 z-50 flex justify-center items-center">
-            <div className="relative">
-              <button
-                onClick={closeCarousel}
-                className="absolute top-2 right-2 text-white text-lg focus:outline-none"
-              >
-                Close
-              </button>
-              <EventGalleryCarousel
-                images={imagesInfo}
-                initialIndex={previewImageIndex}
-              />
-            </div>
-          </div>
-        )} */}
-
-        {/* {previewImageIndex !== null && (
-          <div className="fixed top-0 left-0 w-full h-full bg-black bg-opacity-75 z-50 flex justify-center items-center">
-            <div className="relative">
-              <button
-                onClick={closeCarousel}
-                className="absolute top-2 right-2 text-white text-lg focus:outline-none"
-              >
-                Close
-              </button>
-              <EventGalleryCarousel
-                images={imagesEvents}
-                initialIndex={previewImageIndex}
-              />
-            </div>
-          </div>
-        )} */}
       </div>
     </>
   );

@@ -30,18 +30,20 @@ const ScrollToTop = () => {
   };
 
   return (
-    <div
-      className={`fixed bottom-10 right-10 transition-opacity ${
-        isVisible ? "opacity-100" : "opacity-0"
-      }`}
-    >
-      <button
-        onClick={scrollToTop}
-        className="text-red-400 hover:text-red-600 hover:scale-110 duration-300"
+    <>
+      <div
+        className={`fixed bottom-10 right-10 transition-opacity ${
+          isVisible ? "opacity-100" : "opacity-0"
+        }`}
       >
-        <BiUpArrowCircle size={44} />
-      </button>
-    </div>
+        <button
+          onClick={scrollToTop}
+          className="text-red-400 hover:text-red-600 hover:scale-110 duration-300"
+        >
+          <BiUpArrowCircle size={44} />
+        </button>
+      </div>
+    </>
   );
 };
 

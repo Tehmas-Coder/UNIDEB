@@ -9,12 +9,28 @@
 
     "EventsData": [
       {
-        "title": "May Medicine Entrance Examination",
-        "description": "The applicants for the Medical and Health Sciences programs who are based in the UAE will have their last entrance exam on May 30th.",
+        "title": "Futures Abroad Educational Expo",
+        "description": "University of Debrecen representatives will attend the Futures Abroad Educational Expo in Abu Dhabi to connect with prospective students.",
         "year": "2024",
-        "month": "June",
-        "date": "30",
+        "month": "Oct",
+        "date": "11",
         "location": "Dubai, UAE"
+      },
+      {
+        "title": "Futures Abroad Educational Expo",
+        "description": "University of Debrecen representatives will attend the Futures Abroad Educational Expo in Abu Dhabi to connect with prospective students.",
+        "year": "2024",
+        "month": "Oct",
+        "date": "12",
+        "location": "Abu Dhabi, UAE"
+      },
+      {
+        "title": "Futures Abroad Educational Expo",
+        "description": "Representatives from the University of Debrecen will attend the Futures Abroad Educational Expo in Qatar to assist potential students.",
+        "year": "2024",
+        "month": "Oct",
+        "date": "14",
+        "location": "Qatar"
       }
     ],
     "Overview": {
@@ -95,15 +111,27 @@
     "Deadlines": [
       {
         "date": "15",
-        "month": "MAY",
+        "month": "NOV",
         "discipline": "PhD",
         "program": "Programs"
       },
       {
         "date": "15",
-        "month": "JUNE",
-        "discipline": "Other",
+        "month": "NOV",
+        "discipline": "Non-Medical",
         "program": "Programs"
+      },
+      {
+        "date": "15",
+        "month": "NOV",
+        "discipline": "Graduate",
+        "program": "Programs"
+      },
+      {
+        "date": "01",
+        "month": "NOV",
+        "discipline": "Medical",
+        "program": "Programs (only BMC II)"
       }
     ]
   },
@@ -1917,6 +1945,231 @@
                 "bullets": []
               }
             ]
+          },
+          {
+            "title": "Postgraduate Diploma in Lean Engineer",
+            "text": [
+              {
+                "heading": "Postgraduate Diploma in Lean Engineer",
+                "context": "",
+                "bullets": []
+              },
+              {
+                "heading": "Faculty: ",
+                "context": "Engineering",
+                "bullets": []
+              },
+              {
+                "heading": "Academic discipline: ",
+                "context": "Engineering Science ",
+                "bullets": []
+              },
+              {
+                "heading": "Qualification: ",
+                "context": "Lean Engineer",
+                "bullets": []
+              },
+              {
+                "heading": "Starting date: ",
+                "context": "September / February",
+                "bullets": []
+              },
+              {
+                "heading": "Language requirements: ",
+                "context": "English language proficiency (TOEFL 547 /IELTS 6.0/oral examination)",
+                "bullets": []
+              },
+              {
+                "heading": "Academic requirements: ",
+                "context": "At least bachelor’s degree in: Mechanical Engineering, Computer Science Engineering, Mechatronics Engineering, Architecture, Civil Engineering, Electrical Engineering, Chemical Engineering, Bioengineering, Environmental Engineering, or Management Engineering",
+                "bullets": []
+              },
+              {
+                "heading": "Duration: ",
+                "context": "2 semesters",
+                "bullets": []
+              },
+              {
+                "heading": "ECTS credits: ",
+                "context": "60",
+                "bullets": []
+              },
+              {
+                "heading": "Tuition fee: ",
+                "context": "7,500 USD",
+                "bullets": []
+              },
+              {
+                "heading": "Other fees: ",
+                "context": "application fee 150 USD, entrance procedure fee 350 USD",
+                "bullets": []
+              },
+              {
+                "heading": "Short description: ",
+                "context": "The fundamental objective of the training is to provide the participating professionals with a general professional knowledge of the subject, based on which they can learn about the Lean Philosophy. By applying the philosophy, losses can be made visible and thus eliminated, and the production process can be adapted to customer needs. The Lean methodology combines recognized practices of international quality development. By applying it, the processes of the organization are improved in the areas of production, administration and strategy development. Lean organizations deliver their products faster and more accurately and are able to keep their costs lower than their competitors, thus their market position is constantly improving. Lean is a system consisting of technical and management fields. Having acquired these skills, graduates will be able to build and operate lean systems.",
+                "bullets": []
+              },
+              {
+                "heading": "Lecture, seminar: ",
+                "context": "53%",
+                "bullets": []
+              },
+              {
+                "heading": "Practice: ",
+                "context": "47%",
+                "bullets": []
+              }
+            ]
+          },
+          {
+            "title": "Postgraduate Diploma in Lean Manager",
+            "text": [
+              {
+                "heading": "Postgraduate Diploma in Lean Manager",
+                "context": "",
+                "bullets": []
+              },
+              {
+                "heading": "Faculty: ",
+                "context": "Engineering",
+                "bullets": []
+              },
+              {
+                "heading": "Academic discipline: ",
+                "context": "Engineering Science ",
+                "bullets": []
+              },
+              {
+                "heading": "Qualification: ",
+                "context": "Lean Manager",
+                "bullets": []
+              },
+              {
+                "heading": "Starting date: ",
+                "context": "September / February",
+                "bullets": []
+              },
+              {
+                "heading": "Language requirements: ",
+                "context": "English language proficiency (TOEFL 547 /IELTS 6.0/oral examination)",
+                "bullets": []
+              },
+              {
+                "heading": "Academic requirements: ",
+                "context": "At least bachelor’s degree in a non-engineering field (e.g. Technical Management, Economics, Science or Informatics).",
+                "bullets": []
+              },
+              {
+                "heading": "Duration: ",
+                "context": "2 semesters",
+                "bullets": []
+              },
+              {
+                "heading": "ECTS credits: ",
+                "context": "60",
+                "bullets": []
+              },
+              {
+                "heading": "Tuition fee: ",
+                "context": "7,500 USD",
+                "bullets": []
+              },
+              {
+                "heading": "Other fees: ",
+                "context": "application fee 150 USD, entrance procedure fee 350 USD",
+                "bullets": []
+              },
+              {
+                "heading": "Short description: ",
+                "context": "The fundamental goal of the course is to train lean professionals who are able to integrate the principles and methods of lean management into the company’s strategy and operational practices. Students will acquire the professional skills needed for effective and efficient lean transformation, which will help them to continuously improve the company’s operational and business performance increasing competitiveness in a rapidly changing business environment. Graduates will be able to design and operate lean production and service systems, develop lean corporate structures, apply lean methods and techniques, and integrate continuous improvement into corporate culture.",
+                "bullets": []
+              },
+              {
+                "heading": "Lecture, seminar: ",
+                "context": "53%",
+                "bullets": []
+              },
+              {
+                "heading": "Practice: ",
+                "context": "47%",
+                "bullets": []
+              }
+            ]
+          },
+          {
+            "title": "Postgraduate Diploma in Strategic Engineering and Sustainability Leadership",
+            "text": [
+              {
+                "heading": "Postgraduate Diploma in Strategic Engineering and Sustainability Leadership",
+                "context": "",
+                "bullets": []
+              },
+              {
+                "heading": "Faculty: ",
+                "context": "Engineering",
+                "bullets": []
+              },
+              {
+                "heading": "Academic discipline: ",
+                "context": "Engineering Science ",
+                "bullets": []
+              },
+              {
+                "heading": "Qualification: ",
+                "context": "Strategic Engineering and Sustainability Manager",
+                "bullets": []
+              },
+              {
+                "heading": "Starting date: ",
+                "context": "September",
+                "bullets": []
+              },
+              {
+                "heading": "Language requirements: ",
+                "context": "English language proficiency (TOEFL 547 /IELTS 6.0/oral examination)",
+                "bullets": []
+              },
+              {
+                "heading": "Academic requirements: ",
+                "context": "at least a bachelor’s degree with the following requirements: a) professional engineering qualification, or b) in the case of no professional engineering qualification: qualification in the fields of technical studies, Economics, Science, or Informatics; or qualification as an English teacher - in the case of other qualifications, 3 years of relevant leadership experience is required",
+                "bullets": []
+              },
+              {
+                "heading": "Duration: ",
+                "context": "2 semesters",
+                "bullets": []
+              },
+              {
+                "heading": "ECTS credits: ",
+                "context": "60",
+                "bullets": []
+              },
+              {
+                "heading": "Tuition fee: ",
+                "context": "7,500 USD",
+                "bullets": []
+              },
+              {
+                "heading": "Other fees: ",
+                "context": "application fee 150 USD, entrance procedure fee 350 USD",
+                "bullets": []
+              },
+              {
+                "heading": "Short description: ",
+                "context": "The fundamental aim of the training is to provide the participants with general professional knowledge of strategic management, to build on this knowledge in order to understand and apply a wide range of factors that influence organizational management, and to use the resources available to them in order to run the company effectively. With these skills, graduates will be able to build and operate integrated systems. Moreover, the training aims to prepare participants for leadership roles in an international working environment at a technical company operating in Hungary or abroad and to make them competitive in the international labour market.",
+                "bullets": []
+              },
+              {
+                "heading": "Lecture, seminar: ",
+                "context": "35%",
+                "bullets": []
+              },
+              {
+                "heading": "Practice: ",
+                "context": "65%",
+                "bullets": []
+              }
+            ]
           }
         ]
       },
@@ -2836,7 +3089,7 @@
               },
               {
                 "heading": "Starting date: ",
-                "context": "September/February",
+                "context": "September",
                 "bullets": []
               },
               {
@@ -2986,7 +3239,7 @@
               },
               {
                 "heading": "Starting date: ",
-                "context": "September/February",
+                "context": "September",
                 "bullets": []
               },
               {
@@ -9405,17 +9658,17 @@
       "title": "Deadlines of Intakes",
       "text": [
         {
-          "heading": "September 2024/2025 Intake:",
-          "context": "",
-          "bullets": ["PhD programs: 15th May", "All other programs: 15th June"]
-        },
-        {
-          "heading": "January/February 2023/2024 Intake:",
+          "heading": "January/February 2024/2025 Intake:",
           "context": "",
           "bullets": [
             "Medical programs (only Basic Medicine Course II): 1st November",
-            "Other non-medical programs, PhD program: 15th November"
+            "Other non-medical programs,Graduate programs, PhD programs: 15th November"
           ]
+        },
+        {
+          "heading": "September 2024/2025 Intake:",
+          "context": "",
+          "bullets": ["PhD programs: 15th May", "All other programs: 15th June"]
         }
       ]
     },
@@ -9425,27 +9678,27 @@
         {
           "heading": "UD International Scholarship Program",
           "context": "",
-          "bullets": ["Application Deadline: 31st March, 2024"]
+          "bullets": ["Application Deadline: 30th June, 2024"]
         },
         {
           "heading": "Stipendium Hungaricum Scholarship Program",
           "context": "",
-          "bullets": ["Application Deadline: January 15, 2024"]
+          "bullets": ["Not announced yet"]
         },
         {
           "heading": "Scholarship for Christian Young People (SCYP) Program",
           "context": "",
-          "bullets": ["Application deadline: January 10, 2024"]
+          "bullets": ["Not announced yet"]
         },
         {
           "heading": "Erasmus+ Program (2024 - 25)",
           "context": "",
-          "bullets": ["Application Deadline: January 26, 2024"]
+          "bullets": ["Not announced yet"]
         },
         {
           "heading": "Diaspora Scholarship",
           "context": "",
-          "bullets": ["Application Deadline: January 31, 2024"]
+          "bullets": ["Not announced yet"]
         }
       ]
     }

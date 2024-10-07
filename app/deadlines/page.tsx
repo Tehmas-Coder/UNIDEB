@@ -2,6 +2,7 @@ import React from "react";
 import data from "../data.json";
 import TabsComponent from "@/components/applicationpagecomponent/Tabscomponent";
 import { Metadata } from "next";
+import DeadlinesComponent from "@/components/deadlinescomponent/DeadlinesComponent";
 
 export const metadata: Metadata = {
   title: "University of Debrecen Programs Deadlines",
@@ -38,7 +39,7 @@ const App: React.FC = () => {
         </h1>
 
         <div className="flex justify-center items-center pt-4">
-          <TabsComponent data={data.DeadlinePageData} />
+          <DeadlinesComponent />
         </div>
       </div>
     </>

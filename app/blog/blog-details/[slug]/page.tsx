@@ -65,24 +65,6 @@ const ArticleDetailPage = ({ params }: { params: { slug: string } }) => {
 
   const { slug } = params;
 
-  // const [showScrollButton, setShowScrollButton] = useState(false);
-  // useEffect(() => {
-  //   const handleScroll = () => {
-  //     if (window.scrollY > 300) {
-  //       setShowScrollButton(true);
-  //     } else {
-  //       setShowScrollButton(false);
-  //     }
-  //   };
-
-  //   window.addEventListener("scroll", handleScroll);
-
-  //   return () => {
-  //     window.removeEventListener("scroll", handleScroll);
-  //   };
-  // }, []);
-  // const { id } = params;
-
   let article = null;
 
   if (slug) {
@@ -108,7 +90,7 @@ const ArticleDetailPage = ({ params }: { params: { slug: string } }) => {
 
   return (
     <div className="font-nunito mx-4 lg:mx-10">
-      <div className="flex my-4 ml-6">
+      <div className="flex my-4 sm:ml-6">
         <h2 className="text-[18px] font-normal text-[#f5b418] flex items-center mt-2">
           <Link
             href={"/blog"}
@@ -119,7 +101,7 @@ const ArticleDetailPage = ({ params }: { params: { slug: string } }) => {
           </Link>
         </h2>
       </div>
-      <div className="lg:flex items-center justify-between p-6">
+      <div className="lg:flex items-center justify-between sm:p-6">
         <div className="flex-1">
           <h1 className="lg:text-[50px] text-[30px] font-extrabold lg:leading-[60px] text-[#f5b418] font-nunito">
             {article.title}
@@ -169,7 +151,7 @@ const ArticleDetailPage = ({ params }: { params: { slug: string } }) => {
         </div>
       </div>
 
-      <div className="px-8 text-[18px] text-[#64686d] leading-7 pr-1 lg:pt-10">
+      <div className="sm:px-8 text-[18px] text-[#64686d] leading-7 pr-1 lg:pt-10">
         {article.content.map((section, index) => (
           <div key={index} className="mb-4">
             {section.heading && (
@@ -210,10 +192,18 @@ const ArticleDetailPage = ({ params }: { params: { slug: string } }) => {
                 </ul>
               )}
             </div>
+            <div>
+              {section?.images &&
+                section?.images.map((images, index) => (
+                  <div key={index} className="flex justify-center">
+                    <img src={images} alt="blog image" />
+                  </div>
+                ))}
+            </div>
           </div>
         ))}
       </div>
-      <div className="lg:mx-[10%] mx-4 pb-10 pt-6">
+      <div className="lg:mx-[10%] mx-4 pb-10 pt-6 flex flex-col justify-center items-center">
         <h1 className="text-[35px] pb-8 font-extrabold text-[#f5b418] underline flex justify-center lg:justify-start">
           Leave a Reply
         </h1>

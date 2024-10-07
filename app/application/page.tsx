@@ -27,24 +27,6 @@ interface ApplicationGroup {
 interface TabsComponentProps {
   data: ApplicationGroup[];
 }
-// export const metadata: Metadata = {
-//   title: "University of Debrecen Southasia Application and Admission",
-//   description:
-//     "Explore 80+ degree programs in English at University of Debrecen, covering Application, Admission, and Entrance Exam/Interview details. Exam topics &amp; sample tests, local representatives, and deadlines for September 2024/2025 intake: PhD programs - May 15th, others - June 15th for January/February ... The application deadline for the September intake: Bachelor’s and master’s programs - June 15th, PhD programs - May 15th.",
-//   keywords:
-//     "University of Debrecen, Southasia, Application, Admission, Entrance Exam, Interview dates, venues, requirements, Exam topics, sample tests, local representatives, deadlines, September",
-//   robots: "index, follow",
-//   formatDetection: { telephone: false },
-//   viewport:
-//     "initial-scale=1.0, maximum-scale=1.0, user-scalable=0, width=device-width",
-//   authors: [
-//     {
-//       name: "University of Debrecen Southasia",
-//       url: "https://www.facebook.com/UODHROSA/",
-//     },
-//   ],
-//   publisher: "https://www.facebook.com/UODHROSA/",
-// };
 
 const App: React.FC = () => {
   const [activeTab, setActiveTab] = useState(0);

@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "set PORT=3000 && set HOSTNAME=0.0.0.0 && next dev",
+    "dev": "set PORT=4000 && set HOSTNAME=0.0.0.0 && next dev",
     "build": "next build",
     "sitemap": "next-sitemap",
-    "start:dev": "set PORT=3000 && set HOSTNAME=0.0.0.0 && next start",
+    "start:dev": "set PORT=4000 && set HOSTNAME=0.0.0.0 && next start",
     "start": "node server.js",
     "lint": "next lint"
   },
