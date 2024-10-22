@@ -1,7 +1,22 @@
 {
   "data": [
     {
-      "id": "27",
+      "id": "29",
+      "date": "6",
+      "month": "Nov",
+      "year": "2024",
+      "desc": "Representatives from the University of Debrecen will attend the GroupL Education Annual Career Fair at Beacon International School. This event will take place from 12:00 PM to 2:00 PM and aims to connect with students interested in exploring career opportunities.",
+      "title": "GroupL Education Annual Career Fair – Beacon International School",
+      "city": "UAE",
+      "country": "UAE",
+      "days": "1 Day",
+      "SEOdesc": "",
+      "SEOkeywords": "",
+      "images": [],
+      "video": ""
+    },
+    {
+      "id": "28",
       "date": "3-5",
       "month": "Nov",
       "year": "2024",
@@ -16,14 +31,29 @@
       "video": ""
     },
     {
-      "id": "26",
+      "id": "27",
       "date": "2",
       "month": "Nov",
       "year": "2024",
-      "desc": "Representatives from the University of Debrecen will attend ICEF taking place in Berlin. This B2B event will serve as an excellent platform to connect with potential technology enthusiasts.   ",
+      "desc": "Representatives from the University of Debrecen will attend ICEF taking place in Berlin. This B2B event will serve as an excellent platform to connect with potential technology enthusiasts.",
       "title": "ICEF – Berlin, Germany ",
       "city": "Berlin",
       "country": "Germany",
+      "days": "1 Day",
+      "SEOdesc": "",
+      "SEOkeywords": "",
+      "images": [],
+      "video": ""
+    },
+    {
+      "id": "26",
+      "date": "22",
+      "month": "Oct",
+      "year": "2024",
+      "desc": "Representatives from the University of Debrecen will be visiting Al Safa Community School to brief the students about the university of Debrecen.",
+      "title": "Visit to Al Safa Community School",
+      "city": "Dubai",
+      "country": "UAE",
       "days": "1 Day",
       "SEOdesc": "",
       "SEOkeywords": "",

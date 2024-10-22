@@ -9,28 +9,28 @@
 
     "EventsData": [
       {
-        "title": "Futures Abroad Educational Expo",
-        "description": "University of Debrecen representatives will attend the Futures Abroad Educational Expo in Abu Dhabi to connect with prospective students.",
+        "title": "ICEF",
+        "description": "Representatives from the University of Debrecen will attend ICEF taking place in Berlin. This B2B event will serve as an excellent platform to connect with potential technology enthusiasts.",
         "year": "2024",
-        "month": "Oct",
-        "date": "11",
-        "location": "Dubai, UAE"
+        "month": "Nov",
+        "date": "2",
+        "location": "Berlin, Germany"
       },
       {
-        "title": "Futures Abroad Educational Expo",
-        "description": "University of Debrecen representatives will attend the Futures Abroad Educational Expo in Abu Dhabi to connect with prospective students.",
+        "title": "ICEF",
+        "description": "The University of Debrecen team will attend the ICEF Berlin, a B2B student recruitment event. This event will provide an opportunity to engage with a diverse audience and build connections.",
         "year": "2024",
-        "month": "Oct",
-        "date": "12",
-        "location": "Abu Dhabi, UAE"
+        "month": "Nov",
+        "date": "3-5",
+        "location": "Berlin, Germany"
       },
       {
-        "title": "Futures Abroad Educational Expo",
-        "description": "Representatives from the University of Debrecen will attend the Futures Abroad Educational Expo in Qatar to assist potential students.",
+        "title": "GroupL Education Annual Career Fair",
+        "description": "Representatives from the University of Debrecen will attend the GroupL Education Annual Career Fair at Beacon International School. This event will take place from 12:00 PM to 2:00 PM and aims to connect with students interested in exploring career opportunities.",
         "year": "2024",
-        "month": "Oct",
-        "date": "14",
-        "location": "Qatar"
+        "month": "Nov",
+        "date": "6",
+        "location": "UAE"
       }
     ],
     "Overview": {
