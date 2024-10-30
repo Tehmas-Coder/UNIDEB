@@ -103,6 +103,18 @@
           "Timing": "",
           "lat": "22.31",
           "long": "73.16"
+        },
+        {
+          "organizationName": "University of Debrecen South Asia Regional Office ",
+          "representative": "Asghar Aftab Khan",
+          "address": "Emirates Towers - Level 42 - Sheikh Zayed Rd - Trade Centre - Trade Centre 2, Dubai - United Arab Emirates",
+          "tel": "+971(0)43132353",
+          "mobile": "00971508448119",
+          "email": "india@reps.unideb.hu",
+          "website": "https://southasia.edu.unideb.hu",
+          "Timing": "",
+          "lat": "",
+          "long": ""
         }
       ]
     },
@@ -144,6 +156,18 @@
           "Timing": "",
           "lat": "25.25",
           "long": "55.30"
+        },
+        {
+          "organizationName": "University of Debrecen South Asia Regional Office ",
+          "representative": "Laiba Obaid",
+          "address": "Emirates Towers - Level 42 - Sheikh Zayed Rd - Trade Centre - Trade Centre 2, Dubai - United Arab Emirates",
+          "tel": "+971(0)43132353",
+          "mobile": "00971508448119",
+          "email": "india@reps.unideb.hu",
+          "website": "https://southasia.edu.unideb.hu",
+          "Timing": "",
+          "lat": "",
+          "long": ""
         }
       ]
     },
@@ -197,6 +221,35 @@
           "Timing": "",
           "lat": "23.80",
           "long": "90.42"
+        },
+        {
+          "organizationName": "University of Debrecen South Asia Regional Office ",
+          "representative": "Fatima Asghar",
+          "address": "Emirates Towers - Level 42 - Sheikh Zayed Rd - Trade Centre - Trade Centre 2, Dubai - United Arab Emirates",
+          "tel": "+971 504096118",
+          "mobile": "",
+          "email": "bangladesh.admissions@reps.unideb.hu",
+          "website": "https://southasia.edu.unideb.hu",
+          "Timing": "",
+          "lat": "",
+          "long": ""
+        }
+      ]
+    },
+    {
+      "country": "Nepal",
+      "locations": [
+        {
+          "organizationName": "University of Debrecen Southasia Regional Office",
+          "representative": "Fatima Asghar",
+          "address": "Emirates Towers - Level 42 - Sheikh Zayed Rd - Trade Centre - Trade Centre 2, Dubai - United Arab Emirates",
+          "tel": "+971 504096118",
+          "mobile": "",
+          "email": "bangladesh.admissions@reps.unideb.hu",
+          "website": "https://southasia.edu.unideb.hu/",
+          "Timing": "10:00 AM - 6:00 PM",
+          "lat": "",
+          "long": ""
         }
       ]
     }
