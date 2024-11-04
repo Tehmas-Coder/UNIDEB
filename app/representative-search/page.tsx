@@ -43,10 +43,10 @@ const RepresentativeSearch: React.FC = () => {
                 <div>
                   {/* Sort locations alphabetically by organizationName */}
                   {countryData.locations
-                    .slice() // Create a copy of the array to avoid mutating the original
-                    .sort((a, b) =>
-                      a.organizationName.localeCompare(b.organizationName)
-                    )
+                    // .slice() // Create a copy of the array to avoid mutating the original
+                    // .sort((a, b) =>
+                    //   a.organizationName.localeCompare(b.organizationName)
+                    // )
                     .map((location, index) => (
                       <div
                         className="my-4 font-nunito text-[#114c3a]"
