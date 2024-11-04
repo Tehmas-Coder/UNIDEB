@@ -25,10 +25,10 @@ const TesCarousel = () => {
       program: "Molecular Biology, MSc",
     },
     {
-      image: "/noman.png",
-      name: "Noman Khan",
-      desc: "My favorite place in Debrecen is the Nagyerdi Park",
-      program: "Public Health, BSc",
+      image: "/Kazi Mahfuzur Rehman.png",
+      name: "Kazi Mahfuzur Rahman",
+      desc: "I recently received my student visa for Hungary and will be attending the University of Debrecen, the oldest and most prestigious public university in the country.",
+      program: "Mechatronics Engineering, BSc",
     },
   ];
 
@@ -78,8 +78,8 @@ const TesCarousel = () => {
                     ></img>
                   </div>
 
-                  <div className="flex flex-col justify-center items-center gap-4 p-4">
-                    <p className=" italic w-3/4">&quot;{data.desc}&quot;</p>
+                  <div className="flex flex-col justify-center items-center gap-2 p-3">
+                    <p className=" italic w-4/5">&quot;{data.desc}&quot;</p>
                     <p className="font-bold text-xl">{data.name}</p>
                     <p>{data.program}</p>
                   </div>
