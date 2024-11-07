@@ -51,8 +51,8 @@ const Card: React.FC<CardProps> = ({ card }) => {
       <p className="px-6 pt-2 text-[18px] font-normal text-[#F5B418] cursor-pointer hover:text-[#144438]">
         {card.date}
       </p>
-      <div className="px-6 pb-8 pt-2">
-        <h2 className="leading-[35px] font-extrabold text-[#F5B418] text-[28px] hover:text-[#144438] cursor-pointer mb-2">
+      <div className="px-4 pb-8 pt-2">
+        <h2 className="leading-[35px] font-extrabold md:h-36 text-[#F5B418] text-[26px] hover:text-[#144438] cursor-pointer mb-2">
           {card.title}
         </h2>
 
