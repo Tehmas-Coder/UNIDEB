@@ -32,7 +32,7 @@ const DeadlinesComponent = () => {
 
       {activeTab === "tab1" && (
         <div className="ml-10">
-          <div className="my-5">
+          {/* <div className="my-5">
             <h1 className="my-5">
               January intake -{" "}
               <span className="text-red-600">
@@ -45,9 +45,38 @@ const DeadlinesComponent = () => {
               </h2>
               <p className="text-[#F5B418] text-lg">Basic Medicine Course II</p>
             </div>
+          </div> */}
+
+          <div>
+            <div>
+              <h2 className="my-3 font-semibold text-xl text-[#155744]">
+                For January/February 2024/2025 intake:
+              </h2>
+              <ul>
+                <li className="list-disc">
+                  Medical programs (only Basic Medicine Course II): 1st November
+                  2024
+                </li>
+                <li className="list-disc">
+                  Other non-medical programs, PhD program: 15th November 2024
+                </li>
+              </ul>
+            </div>
+
+            <div>
+              <h2 className="my-3 font-semibold text-xl text-[#155744]">
+                For September 2025/2026 intake:
+              </h2>
+              <ul>
+                <li className="list-disc">PhD programs: 15th May 2025</li>
+                <li className="list-disc">
+                  All other programs: 15th June 2025
+                </li>
+              </ul>
+            </div>
           </div>
 
-          <div className="my-5">
+          {/* <div className="my-5">
             <h1 className="my-5">
               February intake -{" "}
               <span className="text-red-600">
@@ -180,9 +209,6 @@ const DeadlinesComponent = () => {
                     </Link>
                     <p className="text-[#F5B418] text-lg">
                       Postgraduate Diploma in Artificial Intelligence{" "}
-                      {/* <span className="text-red-500 text-base">
-                        Extended application deadline until 30 November
-                      </span> */}
                     </p>
                     <p className="text-[#F5B418] text-lg">Data Science, MSc</p>
                   </div>
@@ -229,10 +255,10 @@ const DeadlinesComponent = () => {
                 </div>
               </div>
             </div>
-          </div>
-          <button className="p-3 bg-[#F5B418] text-[#155744] font-semibold">
+          </div> */}
+          {/* <button className="p-3 bg-[#F5B418] text-[#155744] font-semibold">
             APPLY HERE!
-          </button>
+          </button> */}
         </div>
       )}
 
@@ -252,7 +278,8 @@ const DeadlinesComponent = () => {
               Stipendium Hungaricum Scholarship Program
             </h2>
             <ul className="list-disc px-6 text-lg">
-              <li>Not announced yet</li>
+              <li>Applications start date: 15th November, 2024</li>
+              <li>Application Deadline: 15th January, 2025</li>
             </ul>
           </div>
 

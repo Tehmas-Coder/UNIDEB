@@ -17,7 +17,7 @@ const UniDetails = () => {
       >
         {HomePageData.UniDetails.admissionsOpen} <br />
         <span className="text-md lg:text-2xl font-normal">
-          For Feburary 2025 Intake
+          For September 2025 Intake
         </span>
       </h1>
       <div className="">

@@ -1,5 +1,5 @@
 import TopNavBar from "@/components/header/TopNavBar";
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import CarouselComp from "@/components/carousel/Carousel";
 import { Metadata } from "next";
 import TesCarousel from "@/components/newcomponents/testemonialcarousels/Carousel";
@@ -18,14 +18,14 @@ export const metadata: Metadata = {};
 const Home: React.FC = () => {
   const [showPopup, setShowPopup] = useState(false);
 
-  // useEffect(() => {
-  //   const timer = setTimeout(() => {
-  //     setShowPopup(true);
-  //   }, 3000);
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setShowPopup(true);
+    }, 3000);
 
-  //   // Clean up the timer to prevent memory leaks
-  //   return () => clearTimeout(timer);
-  // }, []);
+    // Clean up the timer to prevent memory leaks
+    return () => clearTimeout(timer);
+  }, []);
 
   const handleClosePopup = () => {
     setShowPopup(false);
@@ -95,10 +95,10 @@ const Home: React.FC = () => {
             >
               <ImCross />
             </button>
-            <a href="/ads-ind">
+            <a>
               <div>
                 <img
-                  src="/PopUpImage.jpeg"
+                  src="/Stipendium PopUp Image.jpeg"
                   alt="Popup Image"
                   className="h-[200px] md:h-[400px] w-[700px]"
                 />
@@ -106,9 +106,9 @@ const Home: React.FC = () => {
             </a>
             <div className="mt-5">
               <p className="text-[#114c3a] text-2xl">
-                For more info on UD International Scholarship,
+                For more info on Stipendium Hungaricum,
                 <span className="font-bold text-[#F5B418]">
-                  <a href="/scholarship/#0"> click here</a>
+                  <a href="/scholarship/#1"> click here</a>
                 </span>
               </p>
             </div>

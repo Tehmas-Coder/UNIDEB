@@ -71,13 +71,13 @@ const page = () => {
           {scholarshipData.map((scholarship, index) => (
             <div key={index} id={index.toString()}>
               <DynamicContentRender data={scholarship} />
-              <div className="sm:my-5">
+              {/* <div className="sm:my-5">
                 <a href={scholarship.apply_link}>
-                  <button className="bg-[#F5B418] hover:bg-[#155744] text-[#155744] hover:text-[#F5B418] text-lg font-semibold p-3 sm:p-0 sm:py-5 sm:px-16 rounded-2xl duration-300 hover:scale-110">
+                  <button className="bg-[#F5B418] hover:bg-[#155744] text-[#155744] hover:text-[#F5B418] text-lg font-semibold p-3 sm:p-0 sm:py-3 sm:px-16 rounded-2xl duration-300 hover:scale-110">
                     Apply Now
                   </button>
                 </a>
-              </div>
+              </div> */}
             </div>
           ))}
         </div>

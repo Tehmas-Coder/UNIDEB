@@ -9,28 +9,12 @@
 
     "EventsData": [
       {
-        "title": "College Counsellor Training Morning - Deira International School",
-        "description": "The representatives of the University of Debrecen will participate in this event, allowing it to solidify its position as a preferred choice for students seeking quality higher education in Europe, while also expanding our outreach efforts to connect with prospective students and their advisors.",
+        "title": "University Fair by UniHawk",
+        "description": "Representatives from the University of Debrecen will attend the University Fair hosted by UniHawk at Riyadh Schools, King Salman Hall & RS Gym. This event will provide an opportunity to connect with students interested in learning more about academic programs at the University of Debrecen.",
         "year": "2024",
         "month": "Nov",
-        "date": "8",
-        "location": "Dubai, UAE"
-      },
-      {
-        "title": "GEMS Wellington Academy",
-        "description": "The representatives of the University of Debrecen are excited to participate in the Get Into Medicine Event at GEMS Wellington Academy on November 9th! With over 1300 registered attendees, we anticipate a bustling atmosphere as we connect with students eager to explore opportunities in the medical field.",
-        "year": "2024",
-        "month": "Nov",
-        "date": "9",
-        "location": "Dubai, UAE"
-      },
-      {
-        "title": "Meet and Greet with Top Universities",
-        "description": "The representatives of the university of Debrecen will attend the “Meet and Greet Event” organised by the partner UniHawk in Bahrain, on Saturday 16th November 2024.",
-        "year": "2024",
-        "month": "Nov",
-        "date": "16",
-        "location": "Bahrain"
+        "date": "26-27",
+        "location": "Riyadh, SA"
       }
     ],
     "Overview": {
@@ -111,27 +95,15 @@
     "Deadlines": [
       {
         "date": "15",
-        "month": "NOV",
+        "month": "MAY",
         "discipline": "PhD",
         "program": "Programs"
       },
       {
         "date": "15",
-        "month": "NOV",
-        "discipline": "Non-Medical",
+        "month": "JUNE",
+        "discipline": "All Other",
         "program": "Programs"
-      },
-      {
-        "date": "15",
-        "month": "NOV",
-        "discipline": "Graduate",
-        "program": "Programs"
-      },
-      {
-        "date": "01",
-        "month": "NOV",
-        "discipline": "Medical",
-        "program": "Programs (only BMC II)"
       }
     ]
   },
@@ -10258,7 +10230,7 @@
           "bullets": [
             "Before submitting your application, please read the current Call for Application carefully (stipendiumhungaricum.hu),",
             "In case you are interested contact the sending partner in your country;",
-            "With the help of the application guide submit all the necessary application documents to the online application system of Tempus Public Foundation (TPF). The application platform will be open from November 2021.",
+            "With the help of the application guide submit all the necessary application documents to the online application system of Tempus Public Foundation (TPF). The application platform will be open from November 15, 2024.",
             "Select the University of Debrecen",
             "You are entitled to apply for two programmes. "
           ]
@@ -10294,10 +10266,10 @@
             "The University of Debrecen is a government supported public research university.",
             "Our campus is located in a natural forest area that is under international environmental protection.",
             "We offer internationally competitive degrees widely recognized, even outside the European Economic Area (EEA) countries.",
-            "29,000 students",
-            "6,500 international students",
+            "30,000 students",
+            "7000 international students",
             "from over 110 countries",
-            "14 faculties",
+            "13 faculties",
             "8 campuses",
             "500+ research labs",
             "Strategic partnership with plenty of local and multinational enterprises in the field of research, innovation and production",

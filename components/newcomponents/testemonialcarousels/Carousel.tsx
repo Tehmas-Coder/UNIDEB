@@ -28,7 +28,7 @@ const TesCarousel = () => {
       image: "/Kazi Mahfuzur Rehman.png",
       name: "Kazi Mahfuzur Rahman",
       desc: "I recently received my student visa for Hungary and will be attending the University of Debrecen, the oldest and most prestigious public university in the country.",
-      program: "Mechatronics Engineering, BSc",
+      program: "LLM",
     },
   ];
 
