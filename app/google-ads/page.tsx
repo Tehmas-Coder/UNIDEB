@@ -1,7 +1,26 @@
+"use client";
 import BenefitsCard from "@/components/googleadspagecomponents/BenefitsCard";
 import TestimonialsCard from "@/components/googleadspagecomponents/TestimonialsCard";
-import { Form } from "antd";
+import { Form, Input, Checkbox, Button, Select } from "antd";
+import type { FormProps } from "antd";
 import React from "react";
+
+type FieldType = {
+  username?: string;
+  email?: string;
+  CGPA?: string;
+  country?: string;
+  preferredProgram?: string;
+  studyLevel?: string;
+};
+
+const onFinish: FormProps<FieldType>["onFinish"] = (values) => {
+  console.log("Success:", values);
+};
+
+const onFinishFailed: FormProps<FieldType>["onFinishFailed"] = (errorInfo) => {
+  console.log("Failed:", errorInfo);
+};
 
 const page = () => {
   return (
@@ -25,7 +44,109 @@ const page = () => {
             </p>
           </div>
 
-          <div className="w-1/2"></div>
+          <div className="w-1/2 p-20">
+            <div className="bg-white p-5 rounded-lg">
+              <p className="text-center mb-4 text-3xl font-bold text-[#114c3a]">
+                Apply Now
+              </p>
+              <Form
+                name="basic"
+                onFinish={onFinish}
+                onFinishFailed={onFinishFailed}
+              >
+                <Form.Item<FieldType>
+                  name="username"
+                  rules={[
+                    { required: true, message: "Please enter your name" },
+                  ]}
+                >
+                  <Input placeholder="Full Name" />
+                </Form.Item>
+
+                <Form.Item<FieldType>
+                  name="email"
+                  rules={[{ required: true, message: "Please enter email" }]}
+                >
+                  <Input placeholder="Email" />
+                </Form.Item>
+
+                <div className="flex">
+                  <Form.Item<FieldType>
+                    name="CGPA"
+                    rules={[{ required: true, message: "CGPA is required" }]}
+                    className="w-1/2 mr-1"
+                  >
+                    <Input placeholder="CGPA" />
+                  </Form.Item>
+
+                  <Form.Item<FieldType>
+                    name="country"
+                    rules={[
+                      { required: true, message: "Please enter country" },
+                    ]}
+                    className="w-1/2 ml-1"
+                  >
+                    <Input placeholder="Country" />
+                  </Form.Item>
+                </div>
+
+                <Form.Item<FieldType>
+                  name="preferredProgram"
+                  rules={[{ required: true, message: "Please select one" }]}
+                >
+                  <Select placeholder="Preferred Program">
+                    <Select.Option value="Engineering">
+                      Engineering Program
+                    </Select.Option>
+                    <Select.Option value="Business">
+                      Business Program
+                    </Select.Option>
+                    <Select.Option value="Medical">
+                      Agriculture Program
+                    </Select.Option>
+                    <Select.Option value="Medical">
+                      Health Sciences Program
+                    </Select.Option>
+                    <Select.Option value="Medical">
+                      Medical Degree Program (Medical, Dentistry, Pharmacy )
+                    </Select.Option>
+                    <Select.Option value="Medical">
+                      Humanities Program
+                    </Select.Option>
+                    <Select.Option value="Medical">IT Program</Select.Option>
+                    <Select.Option value="Medical">Music Program</Select.Option>
+                    <Select.Option value="Medical">
+                      Science Program
+                    </Select.Option>
+                    <Select.Option value="Medical">Law Program</Select.Option>
+                  </Select>
+                </Form.Item>
+
+                <Form.Item<FieldType>
+                  name="studyLevel"
+                  rules={[{ required: true, message: "Please select one" }]}
+                >
+                  <Select placeholder="Study Level">
+                    <Select.Option value="Bachelors">Bachelor's</Select.Option>
+                    <Select.Option value="Masters">Master's</Select.Option>
+                    <Select.Option value="PhD/Doctoral">
+                      PhD/Doctoral
+                    </Select.Option>
+                  </Select>
+                </Form.Item>
+
+                <Form.Item label={null}>
+                  <Button
+                    type="primary"
+                    htmlType="submit"
+                    className="bg-[#114c3a] w-full p-2"
+                  >
+                    Submit
+                  </Button>
+                </Form.Item>
+              </Form>
+            </div>
+          </div>
         </div>
       </div>
 
