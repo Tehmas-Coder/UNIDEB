@@ -47,7 +47,7 @@ const UpcomingEvents = () => {
                   </div>
                   <div className="mt-4 text-white font-bold text-[16px]">
                     <h1>{event.title}</h1>
-                    <p className="text-sm italic group-hover:block hidden w-[220px] transition-all text-gray-300 duration-700 mt-4">
+                    <p className="text-sm italic group-hover:block hidden w-[225px] transition-all text-gray-300 duration-700 mt-4">
                       {event.description}
                     </p>
                   </div>

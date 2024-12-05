@@ -9,12 +9,12 @@
 
     "EventsData": [
       {
-        "title": "University Fair by UniHawk",
-        "description": "Representatives from the University of Debrecen will attend the University Fair hosted by UniHawk at Riyadh Schools, King Salman Hall & RS Gym. This event will provide an opportunity to connect with students interested in learning more about academic programs at the University of Debrecen.",
-        "year": "2024",
-        "month": "Nov",
-        "date": "26-27",
-        "location": "Riyadh, SA"
+        "title": "WSD Annual University Fair – GEMS Winchester School Dubai",
+        "description": "Representatives from the University of Debrecen will attend the WSD Annual University Fair at GEMS Winchester School Dubai. The event will take place in the WSD Primary Hall, providing an excellent opportunity to connect with students interested in learning more about academic programs at the University of Debrecen.",
+        "year": "2025",
+        "month": "Feb",
+        "date": "6",
+        "location": "UAE"
       }
     ],
     "Overview": {
@@ -152,7 +152,7 @@
               },
               {
                 "heading": "Tuition Fee: ",
-                "context": "7,000 USD",
+                "context": "7,500 USD",
                 "bullets": []
               },
               {
@@ -938,7 +938,7 @@
               },
               {
                 "heading": "Tuition fee: ",
-                "context": "7,500 USD/year",
+                "context": "8000 USD/year",
                 "bullets": []
               },
               {
@@ -1013,7 +1013,7 @@
               },
               {
                 "heading": "Tuition fee: ",
-                "context": "7,500 USD/year",
+                "context": "8,000 USD/year",
                 "bullets": []
               },
               {
@@ -1088,7 +1088,7 @@
               },
               {
                 "heading": "Tuition fee: ",
-                "context": "7,500 USD/year",
+                "context": "8000 USD/year",
                 "bullets": []
               },
               {
@@ -1163,7 +1163,7 @@
               },
               {
                 "heading": "Tuition fee: ",
-                "context": "7,500 USD/year",
+                "context": "8000 USD/year",
                 "bullets": []
               },
               {
@@ -1238,7 +1238,7 @@
               },
               {
                 "heading": "Tuition fee: ",
-                "context": "7,500 USD/year",
+                "context": "8000 USD/year",
                 "bullets": []
               },
               {
@@ -1288,7 +1288,7 @@
               },
               {
                 "heading": "Tuition Fee: ",
-                "context": "7,500 USD/year",
+                "context": "8,000 USD/year",
                 "bullets": []
               },
               {
@@ -1539,6 +1539,81 @@
             ]
           },
           {
+            "title": "Electrical Engineering, MSc",
+            "text": [
+              {
+                "heading": "Electrical Engineering, MSc",
+                "context": "",
+                "bullets": []
+              },
+              {
+                "heading": "Faculty: ",
+                "context": "Faculty of Engineering",
+                "bullets": []
+              },
+              {
+                "heading": "Academic discipline: ",
+                "context": "Engineering Science",
+                "bullets": []
+              },
+              {
+                "heading": "Qualification: ",
+                "context": "Electrical Engineer",
+                "bullets": []
+              },
+              {
+                "heading": "Starting date: ",
+                "context": "September / February",
+                "bullets": []
+              },
+              {
+                "heading": "Language requirements: ",
+                "context": "English language proficiency (TOEFL 547 / IELTS 6.0 / oral examination)",
+                "bullets": []
+              },
+              {
+                "heading": "Academic requirements: ",
+                "context": "Bachelor’s degree in Electrical or related field",
+                "bullets": []
+              },
+              {
+                "heading": "Duration: ",
+                "context": "4 semesters",
+                "bullets": []
+              },
+              {
+                "heading": "ECTS: ",
+                "context": "120",
+                "bullets": []
+              },
+              {
+                "heading": "Tuition fee: ",
+                "context": "8,000 USD/year",
+                "bullets": []
+              },
+              {
+                "heading": "Other fees: ",
+                "context": "Application fee 150 USD, entrance procedure fee 350 USD",
+                "bullets": []
+              },
+              {
+                "heading": "Short description: ",
+                "context": "The aim of the training is to train electrical engineers who, with a high level of scientific and specific technical knowledge of electrical, electronic and computer devices, equipment and systems, are able to design, develop and integrate new electrical, electronic and computer systems, equipment and devices, to carry out and coordinate development tasks in the field, to participate in the development of basic and applied research tasks. They are prepared to pursue their studies at doctoral level.",
+                "bullets": []
+              },
+              {
+                "heading": "Lecture, seminar: ",
+                "context": "40%",
+                "bullets": []
+              },
+              {
+                "heading": "Practice: ",
+                "context": "60%",
+                "bullets": []
+              }
+            ]
+          },
+          {
             "title": "Engineering Management, MSc",
             "text": [
               {
@@ -1609,6 +1684,166 @@
               {
                 "heading": "Practice: ",
                 "context": "55%",
+                "bullets": []
+              }
+            ]
+          },
+          {
+            "title": "Sports Engineering, MSc",
+            "text": [
+              {
+                "heading": "Sports Engineering, MSc",
+                "context": "",
+                "bullets": []
+              },
+              {
+                "heading": "Faculty: ",
+                "context": "Faculty of Engineering",
+                "bullets": []
+              },
+              {
+                "heading": "Academic discipline: ",
+                "context": "Engineering Science",
+                "bullets": []
+              },
+              {
+                "heading": "Qualification: ",
+                "context": "Sports Engineer",
+                "bullets": []
+              },
+              {
+                "heading": "Starting date: ",
+                "context": "September",
+                "bullets": []
+              },
+              {
+                "heading": "Language requirements: ",
+                "context": "English language proficiency (TOEFL 547 / IELTS 6.0 / oral examination)",
+                "bullets": []
+              },
+              {
+                "heading": "Academic requirements: ",
+                "context": "Bachelor diploma (or higher). ",
+                "bullets": []
+              },
+              {
+                "heading": "",
+                "context": "Credit points can be fully recognized from: Mechanical Engineering BSc, Mechatronical Engineering BSc",
+                "bullets": []
+              },
+              {
+                "heading": "",
+                "context": "Bachelor’s degrees in engineering, sports science, medicine and health sciences can be taken into account.",
+                "bullets": []
+              },
+              {
+                "heading": "Duration: ",
+                "context": "4 semesters",
+                "bullets": []
+              },
+              {
+                "heading": "ECTS: ",
+                "context": "120",
+                "bullets": []
+              },
+              {
+                "heading": "Tuition fee: ",
+                "context": "8,000 USD/year",
+                "bullets": []
+              },
+              {
+                "heading": "Other fees: ",
+                "context": "Application fee 150 USD, entrance procedure fee 350 USD",
+                "bullets": []
+              },
+              {
+                "heading": "Short description: ",
+                "context": "The aim of the training is to train sports engineers who are able to think independently and creatively in an engineering approach, to carry out applied engineering and sports science analysis and research, to design, model, measure, develop and operate sports, rehabilitation and physical education equipment, and to measure sports and physical performance in the European, world and domestic sports life. They are prepared to continue their studies at doctoral level.  ",
+                "bullets": []
+              },
+              {
+                "heading": "Lecture, seminar: ",
+                "context": "29%",
+                "bullets": []
+              },
+              {
+                "heading": "Practice: ",
+                "context": "71%",
+                "bullets": []
+              }
+            ]
+          },
+          {
+            "title": "Vehicle Engineering, MSc",
+            "text": [
+              {
+                "heading": "Vehicle Engineering, MSc",
+                "context": "",
+                "bullets": []
+              },
+              {
+                "heading": "Faculty: ",
+                "context": "Faculty of Engineering",
+                "bullets": []
+              },
+              {
+                "heading": "Academic discipline: ",
+                "context": "Engineering Science",
+                "bullets": []
+              },
+              {
+                "heading": "Qualification: ",
+                "context": "Vehicle Engineer",
+                "bullets": []
+              },
+              {
+                "heading": "Starting date: ",
+                "context": "September / February",
+                "bullets": []
+              },
+              {
+                "heading": "Language requirements: ",
+                "context": "English language proficiency (TOEFL 547 / IELTS 6.0 / oral examination)",
+                "bullets": []
+              },
+              {
+                "heading": "Academic requirements: ",
+                "context": "Bachelor’s degree in vehicle engineering or related field",
+                "bullets": []
+              },
+              {
+                "heading": "Duration: ",
+                "context": "4 semesters",
+                "bullets": []
+              },
+              {
+                "heading": "ECTS: ",
+                "context": "120",
+                "bullets": []
+              },
+              {
+                "heading": "Tuition fee: ",
+                "context": "8,000 USD/year",
+                "bullets": []
+              },
+              {
+                "heading": "Other fees: ",
+                "context": "Application fee 150 USD, entrance procedure fee 350 USD",
+                "bullets": []
+              },
+              {
+                "heading": "Short description: ",
+                "context": "The degree program aims to train engineers for the automotive industry who can apply and introduce new materials, manufacturing processes, engineering technologies considering the environmentally conscious and energy-efficient manners. They will also be trained to handle leadership, control, and organizational responsibilities as well as tasks related to engineering development, research, design, and innovation with an emphasis on electric and hybrid vehicles, whilst get theoretical and practical knowledge in the field of automotive engineering. Due to the dual of study type, they will own significant and potentional practical skills at the end of study.",
+                "bullets": []
+              },
+              {
+                "heading": "Lecture, seminar: ",
+                "context": "50%",
+                "bullets": []
+              },
+              {
+                "heading": "Practice: ",
+                "context": "50%",
                 "bullets": []
               }
             ]
@@ -2931,7 +3166,7 @@
               },
               {
                 "heading": "Tuition fee: ",
-                "context": "7,000 USD/year",
+                "context": "7,500 USD/year",
                 "bullets": []
               },
               {
@@ -3915,6 +4150,81 @@
               {
                 "heading": "Short description: ",
                 "context": "The program is designed to provide graduates with the core skills and knowledge required for improving patient health through innovative and collaborative pharmacy practice, medication therapy management, and research. The degree covers the chemical, physical, medical, pharmaceutical, pharmacological, and therapeutic properties of medical substances, prescription drugs, and over-the-counter medications, as well as the application of these products in pharmacy practice, medication therapies, and health care.",
+                "bullets": []
+              }
+            ]
+          },
+          {
+            "title": "Pharmaceutical Research and Development Manager, MSc",
+            "text": [
+              {
+                "heading": "Pharmaceutical Research and Development Manager, MSc",
+                "context": "",
+                "bullets": []
+              },
+              {
+                "heading": "Faculty: ",
+                "context": "Pharmacy",
+                "bullets": []
+              },
+              {
+                "heading": "Academic Discipline: ",
+                "context": "Medical and Health Sciences",
+                "bullets": []
+              },
+              {
+                "heading": "Qualification: ",
+                "context": "Certified Pharmaceutical Research and Development Manager",
+                "bullets": []
+              },
+              {
+                "heading": "Starting date: ",
+                "context": "September",
+                "bullets": []
+              },
+              {
+                "heading": "Language requirements: ",
+                "context": "English language proficiency (TOEFL 547 /IELTS 6.0 /oral examination)",
+                "bullets": []
+              },
+              {
+                "heading": "Academic requirements: ",
+                "context": "Pharmacy, Medicine, Physics BSc, MSc, Environmental Science BSc, Chemistry MSc, Medical Physics MSc, Food Engineering BSc, MSc, Food Safety and Quality Engineering MSc, Health Data Science MSc, Health Bioinformatics MSc, Health Quality and Patient Safety Management MSc, Health Management MSc, Biology Teacher, Chemistry Teacher, Physiotherapist, Paramedic",
+                "bullets": []
+              },
+              {
+                "heading": "Duration: ",
+                "context": "4 semesters",
+                "bullets": []
+              },
+              {
+                "heading": "ECTS: ",
+                "context": "120",
+                "bullets": []
+              },
+              {
+                "heading": "Tuition fee: ",
+                "context": "6,000 USD/year",
+                "bullets": []
+              },
+              {
+                "heading": "Other fees: ",
+                "context": "application fee 150 USD, entrance procedure fee 350 USD",
+                "bullets": []
+              },
+              {
+                "heading": "Short description: ",
+                "context": "The Faculty of Pharmacy, University of Debrecen is launching a four-semester Master's degree program in Pharmaceutical research and development management in 2025. The aim of the program is to educate Pharmaceutical research and development managers who are familiar with the international regulatory background of drug development process, able to support research teams in preclinical, clinical, drug registration and marketing activities, able to manage the whole process in the view of the increasingly important international regulations.",
+                "bullets": []
+              },
+              {
+                "heading": "Lecture, seminar: ",
+                "context": "55%",
+                "bullets": []
+              },
+              {
+                "heading": "Practice: ",
+                "context": "45%",
                 "bullets": []
               }
             ]
@@ -5242,7 +5552,7 @@
               },
               {
                 "heading": "Tuition Fee: ",
-                "context": "6,500 USD/year",
+                "context": "7,000 USD/year",
                 "bullets": []
               },
               {
@@ -5307,7 +5617,7 @@
               },
               {
                 "heading": "Tuition Fee: ",
-                "context": "6,500 USD/year",
+                "context": "7,000 USD/year",
                 "bullets": []
               },
               {
@@ -5382,7 +5692,7 @@
               },
               {
                 "heading": "Tuition Fee: ",
-                "context": "6,500 USD/year",
+                "context": "7,000 USD/year",
                 "bullets": []
               },
               {
@@ -5853,6 +6163,156 @@
               {
                 "heading": "Practice: ",
                 "context": "51%",
+                "bullets": []
+              }
+            ]
+          },
+          {
+            "title": "Engineering Management, BSc",
+            "text": [
+              {
+                "heading": "Engineering Management, BSc",
+                "context": "",
+                "bullets": []
+              },
+              {
+                "heading": "Faculty: ",
+                "context": "Engineering",
+                "bullets": []
+              },
+              {
+                "heading": "Academic discipline: ",
+                "context": "Engineering Sciences",
+                "bullets": []
+              },
+              {
+                "heading": "Qualification:",
+                "context": "Engineering Manager",
+                "bullets": []
+              },
+              {
+                "heading": "Starting Date: ",
+                "context": "September",
+                "bullets": []
+              },
+              {
+                "heading": "Language Requirements: ",
+                "context": "English language proficiency (TOEFL 513 /IELTS 5.5/oral examination)",
+                "bullets": []
+              },
+              {
+                "heading": "Academic Requirements:",
+                "context": "High school certificate; entrance examination in mathematics and physics (written and oral)",
+                "bullets": []
+              },
+              {
+                "heading": "Duration: ",
+                "context": "7 semesters",
+                "bullets": []
+              },
+              {
+                "heading": "ECTS credits: ",
+                "context": "210",
+                "bullets": []
+              },
+              {
+                "heading": "Tuition Fee: ",
+                "context": "7,500 USD/year",
+                "bullets": []
+              },
+              {
+                "heading": "Other Fee:",
+                "context": "Application fee 150 USD, entrance procedure fee 350 USD",
+                "bullets": []
+              },
+              {
+                "heading": "Short Description:",
+                "context": "The aim of the training is to train engineering managers who have the appropriate knowledge of natural sciences, engineering, management and organization to manage the supply, technical, IT, financial and human processes of various types of production and service enterprises, are able to contribute effectively to projects related to these processes, and are able to manage the operation of organizations, including the establishment and implementation of development processes. They are prepared to continue their studies at Master's level.",
+                "bullets": []
+              },
+              {
+                "heading": "Lecture, seminar:",
+                "context": "43%",
+                "bullets": []
+              },
+              {
+                "heading": "Practical:",
+                "context": "57%",
+                "bullets": []
+              }
+            ]
+          },
+          {
+            "title": "Environmental Engineering, BSc",
+            "text": [
+              {
+                "heading": "Environmental Engineering, BSc",
+                "context": "",
+                "bullets": []
+              },
+              {
+                "heading": "Faculty: ",
+                "context": "Engineering",
+                "bullets": []
+              },
+              {
+                "heading": "Academic discipline: ",
+                "context": "Engineering Science",
+                "bullets": []
+              },
+              {
+                "heading": "Qualification:",
+                "context": "Environmental Engineer",
+                "bullets": []
+              },
+              {
+                "heading": "Starting Date: ",
+                "context": "September",
+                "bullets": []
+              },
+              {
+                "heading": "Language Requirements: ",
+                "context": "English language proficiency (TOEFL 513 /IELTS 5.5/oral examination)",
+                "bullets": []
+              },
+              {
+                "heading": "Academic Requirements:",
+                "context": "High school certificate; entrance examination in mathematics and chemistry/physics (written and oral)",
+                "bullets": []
+              },
+              {
+                "heading": "Duration: ",
+                "context": "7 semesters",
+                "bullets": []
+              },
+              {
+                "heading": "ECTS credits: ",
+                "context": "210",
+                "bullets": []
+              },
+              {
+                "heading": "Tuition Fee: ",
+                "context": "7,500 USD/year",
+                "bullets": []
+              },
+              {
+                "heading": "Other Fee:",
+                "context": "Application fee 150 USD, entrance procedure fee 350 USD",
+                "bullets": []
+              },
+              {
+                "heading": "Short Description:",
+                "context": "The aim of the Environmental Engineering BSc program is to train professionals capable of protecting the environment, ensuring sustainability, and preventing and managing environmental damage. Students learn methods for analyzing, monitoring, and regulating environmental systems, as well as engineering solutions to environmental problems. The program emphasizes sustainable resource use, energy efficiency, environmental protection technologies, and reducing pollution and waste management.",
+                "bullets": []
+              },
+              {
+                "heading": "Lecture, seminar:",
+                "context": "47%",
+                "bullets": []
+              },
+              {
+                "heading": "Practical:",
+                "context": "53%",
                 "bullets": []
               }
             ]
@@ -8231,13 +8691,13 @@
       {
         "id": 1,
         "image": "/Medical Programs.jpeg",
-        "pdf": "/pdf/Application_form MED_2024.pdf",
+        "pdf": "/pdf/Application_form_MED_2025.pdf",
         "name": "Medical"
       },
       {
         "id": 2,
         "image": "/Non Medical.jpeg",
-        "pdf": "/pdf/Application Form_2024.pdf",
+        "pdf": "/pdf/Application_form_NONMED_2025.pdf",
         "name": "Non Medical"
       }
     ],

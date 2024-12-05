@@ -20,11 +20,11 @@ const BenefitsCard = () => {
     },
   ];
   return (
-    <div className="flex justify-between w-full">
+    <div className="sm:flex justify-between w-full">
       {data.map((data, index) => (
         <div
           key={index}
-          className="p-5 border-solid border-[1px] w-[23%] bg-[#E5E5E5] hover:bg-[#144438] hover:text-white transition-all duration-300 cursor-pointer rounded-md"
+          className="p-5 border-solid border-[1px] w-full sm:w-[23%] my-2 sm:my-0 bg-[#E5E5E5] hover:bg-[#144438] hover:text-white transition-all duration-300 cursor-pointer rounded-md"
         >
           <p className="text-xl font-bold text-center">{data.title}</p>
           <p className="text-center">{data.desc}</p>

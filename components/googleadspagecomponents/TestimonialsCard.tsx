@@ -31,7 +31,7 @@ const TestimonialsCard = () => {
     <div>
       <div className="md:flex flex-wrap gap-12 items-center my-10 justify-center">
         {testimonialLinks.map((links) => (
-          <div key={links.id} className="md:w-[30%] ">
+          <div key={links.id} className="md:w-[30%] my-4 sm:my-0">
             <iframe
               className="w-full rounded-lg aspect-video"
               src={links.link}
