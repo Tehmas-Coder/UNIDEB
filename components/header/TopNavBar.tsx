@@ -92,7 +92,11 @@ const TopNavBar = ({ transparent }: Props) => {
       } `}
     >
       <div>
-        <img src="/Logo.png" alt="" className="w-56 h-24"></img>
+        <img
+          src="/logo uod regional office.png"
+          alt="Logo"
+          className="w-60 h-24"
+        />
       </div>
       <div className="flex justify-end items-start h-full mt-10">
         {linkData.map((link, index) => (

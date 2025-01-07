@@ -175,16 +175,16 @@
       "country": "Bangladesh",
       "locations": [
         {
-          "organizationName": "University of Debrecen South Asia Regional Office ",
-          "representative": "Fatima Asghar",
-          "address": "Emirates Towers - Level 42 - Sheikh Zayed Rd - Trade Centre - Trade Centre 2, Dubai - United Arab Emirates",
-          "tel": "+971 504096118",
-          "mobile": "",
+          "organizationName": "University of Debrecen Southasia Regional Office",
+          "representative": "Suriya Sultana",
+          "address": "Office Number 315, Dhaka Crystal Palace House SE (D) 22, Level - 3, Road 140 Gulshan South Avenue, Gulshan-1 Dhaka-1212, Bangladesh",
+          "tel": "+8809611688200",
+          "mobile": "+8801897-913380",
           "email": "bangladesh.admissions@reps.unideb.hu",
-          "website": "https://southasia.edu.unideb.hu",
-          "Timing": "",
-          "lat": "25.21",
-          "long": "55.28"
+          "website": "https://southasia.edu.unideb.hu/",
+          "Timing": "11:00 AM - 7:00 PM",
+          "lat": "24.56",
+          "long": "90.39"
         },
         {
           "organizationName": "SPS Bangladesh",
@@ -241,15 +241,15 @@
       "locations": [
         {
           "organizationName": "University of Debrecen Southasia Regional Office",
-          "representative": "Fatima Asghar",
-          "address": "Emirates Towers - Level 42 - Sheikh Zayed Rd - Trade Centre - Trade Centre 2, Dubai - United Arab Emirates",
-          "tel": "+971 504096118",
-          "mobile": "",
+          "representative": "Suriya Sultana",
+          "address": "Office Number 315, Dhaka Crystal Palace House SE (D) 22, Level - 3, Road 140 Gulshan South Avenue, Gulshan-1 Dhaka-1212, Bangladesh",
+          "tel": "+8809611688200",
+          "mobile": "+8801897-913380",
           "email": "bangladesh.admissions@reps.unideb.hu",
           "website": "https://southasia.edu.unideb.hu/",
-          "Timing": "10:00 AM - 6:00 PM",
-          "lat": "25.21",
-          "long": "55.28"
+          "Timing": "11:00 AM - 7:00 PM",
+          "lat": "24.56",
+          "long": "90.39"
         }
       ]
     }

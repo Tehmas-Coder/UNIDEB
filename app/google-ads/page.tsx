@@ -13,6 +13,7 @@ type FieldType = {
   email?: string;
   CGPA?: string;
   country?: string;
+  contact?: string;
   preferredProgram?: string;
   studyLevel?: string;
 };
@@ -31,6 +32,7 @@ const Page = () => {
       CGPA: values.CGPA,
       country: values.country,
       preferred_program: values.preferredProgram,
+      contact: values.contact,
       study_level: values.studyLevel,
       name: values.username,
     };
@@ -126,6 +128,21 @@ const Page = () => {
                         />
                       </Form.Item>
                     </div>
+
+                    <Form.Item<FieldType>
+                      name="contact"
+                      rules={[
+                        {
+                          required: true,
+                          message: "Please enter contact number",
+                        },
+                      ]}
+                    >
+                      <Input
+                        placeholder="Contact Number"
+                        className="border-[#828282]"
+                      />
+                    </Form.Item>
 
                     <Form.Item<FieldType>
                       name="preferredProgram"

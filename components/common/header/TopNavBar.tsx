@@ -86,7 +86,12 @@ const TopNavBar: React.FC = () => {
   return (
     <>
       <div className="flex justify-center items-center m-8">
-        <img src="/Logo.png" className="" width={150} alt="uni-logo" />
+        <img
+          src="/logo uod regional office.png"
+          className=""
+          width={200}
+          alt="uni-logo"
+        />
       </div>
 
       <div className="flex justify-center  h-full">

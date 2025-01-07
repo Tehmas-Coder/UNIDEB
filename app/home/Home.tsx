@@ -108,7 +108,7 @@ const Home: React.FC = () => {
               <p className="text-[#114c3a] text-2xl">
                 For more info on Stipendium Hungaricum,
                 <span className="font-bold text-[#F5B418]">
-                  <a href="/scholarship/#1"> click here</a>
+                  <a href="/google-ads/"> click here</a>
                 </span>
               </p>
             </div>
