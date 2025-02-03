@@ -2825,6 +2825,81 @@
                 "bullets": []
               }
             ]
+          },
+          {
+            "title": "Instruction of English as a Foreign Language, MA",
+            "text": [
+              {
+                "heading": "Instruction of English as a Foreign Language, MA",
+                "context": "",
+                "bullets": []
+              },
+              {
+                "heading": "Faculty: ",
+                "context": "Humanities",
+                "bullets": []
+              },
+              {
+                "heading": "Academic discipline: ",
+                "context": "Humanities",
+                "bullets": []
+              },
+              {
+                "heading": "Qualification: ",
+                "context": "Instructor of English as a Foreign Language",
+                "bullets": []
+              },
+              {
+                "heading": "Starting date: ",
+                "context": "September",
+                "bullets": []
+              },
+              {
+                "heading": "Language requirements: ",
+                "context": "C1 level language certificate in English (TOEFL 587 /IELTS 7.0)",
+                "bullets": []
+              },
+              {
+                "heading": "Academic requirements: ",
+                "context": "A BA degree in the fields of Humanities and Teacher Education OR any BA and MA degree if the applicant has 50 credits in the fields of Humanities and Teacher Education",
+                "bullets": []
+              },
+              {
+                "heading": "Duration: ",
+                "context": "2 semesters",
+                "bullets": []
+              },
+              {
+                "heading": "ECTS credits: ",
+                "context": "60",
+                "bullets": []
+              },
+              {
+                "heading": "Tuition fee: ",
+                "context": "5,500 USD/year",
+                "bullets": []
+              },
+              {
+                "heading": "Other fees: ",
+                "context": "application fee 150 USD, entrance procedure fee 350 USD",
+                "bullets": []
+              },
+              {
+                "heading": "Short description: ",
+                "context": "The study programme prepares students for educational, pedagogic, research, planning and development tasks in adult education, as well as for the continuation of studies in doctoral training. The courses cover various areas of Language Study and Language Pedagogy, providing students with principles and techniques in teaching English as a foreign language.",
+                "bullets": []
+              },
+              {
+                "heading": "Lecture, seminar: ",
+                "context": "25%",
+                "bullets": []
+              },
+              {
+                "heading": "Practice: ",
+                "context": "75%",
+                "bullets": []
+              }
+            ]
           }
         ]
       },
@@ -3854,6 +3929,84 @@
                 "bullets": []
               }
             ]
+          },
+          {
+            "title": "Pharmaceutical Research and Development Manager, MSc",
+            "text": [
+              {
+                "heading": "Pharmaceutical Research and Development Manager, MSc",
+                "context": "",
+                "bullets": []
+              },
+              {
+                "heading": "Faculty:",
+                "context": "Faculty of Pharmacy",
+                "bullets": []
+              },
+              {
+                "heading": "Academic Discipline:",
+                "context": "Medical and Health Sciences",
+                "bullets": []
+              },
+              {
+                "heading": "Qualification:",
+                "context": "Certified Pharmaceutical Research and Development Manager",
+                "bullets": []
+              },
+              {
+                "heading": "Starting Date:",
+                "context": "September",
+                "bullets": []
+              },
+              {
+                "heading": "Language Requirements:",
+                "context": "English language proficiency (TOEFL 547 /IELTS 6.0 /oral interview)",
+                "bullets": []
+              },
+              {
+                "heading": "Academic Requirements:",
+                "context": "",
+                "bullets": [
+                  "Relevant degree in: Pharmacy, Medicine, Physics BSc, MSc, Environmental Science BSc, Chemistry MSc, Medical Physics MSc, Food Engineering BSc, MSc, Food Safety and Quality Engineering MSc, Health Data Science MSc, Health Bioinformatics MSc, Health Quality and Patient Safety Management MSc, Health Management MSc, Biology Teacher, Chemistry Teacher, Physiotherapist, Paramedic",
+                  "Entrance interview"
+                ]
+              },
+              {
+                "heading": "Duration:",
+                "context": "4 semesters",
+                "bullets": []
+              },
+              {
+                "heading": "ECTS:",
+                "context": "120",
+                "bullets": []
+              },
+              {
+                "heading": "Tuition Fee:",
+                "context": "6,000 USD/year",
+                "bullets": []
+              },
+              {
+                "heading": "Other Fee:",
+                "context": "application fee 150 USD, entrance procedure fee 350 USD",
+                "bullets": []
+              },
+              {
+                "heading": "Short Description:",
+                "context": "The Faculty of Pharmacy, University of Debrecen is launching a four-semester Master's degree program in Pharmaceutical research and development management in 2025. The aim of the program is to educate Pharmaceutical research and development managers who are familiar with the international regulatory background of drug development process, able to support research teams in preclinical, clinical, drug registration and marketing activities, able to manage the whole process in the view of the increasingly important international regulations.",
+                "bullets": []
+              },
+              {
+                "heading": "Lecture, seminar:",
+                "context": "55%",
+                "bullets": []
+              },
+              {
+                "heading": "Practice:",
+                "context": "45%",
+                "bullets": []
+              }
+            ]
           }
         ]
       },
@@ -4636,6 +4789,61 @@
               {
                 "heading": "Short description: ",
                 "context": "The Doctoral School of Human Sciences involves altogether four disciplines, which makes it unique in Hungary: Philosophy, Education, Psychology, and Sociology – the latter is not available at the moment for our international students. The aim of the program is to provide theoretical knowledge to its students about the knowledge-based society from a Human Studies perspective. The students have the opportunity to attend courses related to all disciplines.",
+                "bullets": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Engineering Programs",
+        "items": [
+          {
+            "title": "Pekár Imre Doctoral School of Mechanical Engineering",
+            "text": [
+              {
+                "heading": "Pekár Imre Doctoral School of Mechanical Engineering",
+                "context": "",
+                "bullets": []
+              },
+              {
+                "heading": "Faculty: ",
+                "context": "Faculty of Engineering",
+                "bullets": []
+              },
+              {
+                "heading": "Starting date: ",
+                "context": "September/February",
+                "bullets": []
+              },
+              {
+                "heading": "Duration: ",
+                "context": "8 semesters",
+                "bullets": []
+              },
+              {
+                "heading": "Language requirements: ",
+                "context": "English language proficiency (TOEFL 547 /IELTS 6.0 /oral examination)",
+                "bullets": []
+              },
+              {
+                "heading": "Academic requirements: ",
+                "context": "Relevant Master degree in Engineering",
+                "bullets": []
+              },
+              {
+                "heading": "Tuition Fee: ",
+                "context": "9,500 USD/year",
+                "bullets": []
+              },
+              {
+                "heading": "One-time fees: ",
+                "context": "application fee 150 USD, entrance procedure fee 500 USD",
+                "bullets": []
+              },
+              {
+                "heading": "Short description: ",
+                "context": "The Doctoral School provides high quality education in scientific research of engineering field. The aim of the training at the Doctoral School is to broaden professional knowledge and horizons, to get acquainted with the methods and tools of technical development and innovation, to acquire research methodological knowledge and independent research practice, to acquire overall proficiency in the topic of the dissertation and to become capable of preparing the dissertation at a high level. Doctoral candidates are welcome to join the following programs: Building engineering, building energy program, Integrated intelligent mechanical systems program, Mechanical process design materials and machine diagnostics sub-program, mechatronics, cyber-physical systems sub-program.",
                 "bullets": []
               }
             ]
@@ -6543,81 +6751,6 @@
             ]
           },
           {
-            "title": "Professional Pilot BSc",
-            "text": [
-              {
-                "heading": "Professional Pilot BSc",
-                "context": "",
-                "bullets": []
-              },
-              {
-                "heading": "Faculty: ",
-                "context": "Engineering",
-                "bullets": []
-              },
-              {
-                "heading": "Academic discipline: ",
-                "context": "Engineering Science",
-                "bullets": []
-              },
-              {
-                "heading": "Qualification: ",
-                "context": "Professional Pilot",
-                "bullets": []
-              },
-              {
-                "heading": "Starting date: ",
-                "context": "September",
-                "bullets": []
-              },
-              {
-                "heading": "Language requirements: ",
-                "context": "English IELTS 6.0 or equivalent",
-                "bullets": []
-              },
-              {
-                "heading": "Academic requirements: ",
-                "context": "12 years of education with grades 80% or above, or grades BBB at A level including mathematics and physics + entrance exam in mathematics and physics; health: valid Class 1 Medical Certificate (see on EASA website)",
-                "bullets": []
-              },
-              {
-                "heading": "Duration: ",
-                "context": "7 semesters",
-                "bullets": []
-              },
-              {
-                "heading": "ECTS credits: ",
-                "context": "210",
-                "bullets": []
-              },
-              {
-                "heading": "Tuition Fee: ",
-                "context": "35,000 USD/year",
-                "bullets": []
-              },
-              {
-                "heading": "One time fees: ",
-                "context": "Application fee 150 USD, entrance procedure fee 350 USD",
-                "bullets": []
-              },
-              {
-                "heading": "Short description: ",
-                "context": "The main objective of the Professional Pilot BSc program is to provide applicants with knowledge and skills that enable the passing of the ATPL (Airline Transport Pilot Licence) theoretical knowledge examination and CPL(A), ME/IR(A) skill tests of the Hungarian Aviation Authority by fulfilling all requirements of the Authority without any further education. To train professionals who understand the aviation industry, are capable of working for aircraft operator companies as professional pilots, are aware of the tasks related to air operation, ground handling, and air transportation, can perform adequate compliance tasks, and possess the knowledge related to the integrated ATP(A) training.",
-                "bullets": []
-              },
-              {
-                "heading": "Lecture, seminar: ",
-                "context": "40%",
-                "bullets": []
-              },
-              {
-                "heading": "Practice: ",
-                "context": "60%",
-                "bullets": []
-              }
-            ]
-          },
-          {
             "title": "Vehicle Engineering BSc",
             "text": [
               {
@@ -7077,6 +7210,81 @@
               {
                 "heading": "Practice: ",
                 "context": "75%",
+                "bullets": []
+              }
+            ]
+          },
+          {
+            "title": "Communication and Media Studies BA",
+            "text": [
+              {
+                "heading": "Communication and Media Studies BA",
+                "context": "",
+                "bullets": []
+              },
+              {
+                "heading": "Faculty: ",
+                "context": "Humanities",
+                "bullets": []
+              },
+              {
+                "heading": "Academic discipline: ",
+                "context": "Humanities",
+                "bullets": []
+              },
+              {
+                "heading": "Qualification: ",
+                "context": "Expert in Communication",
+                "bullets": []
+              },
+              {
+                "heading": "Starting date: ",
+                "context": "September",
+                "bullets": []
+              },
+              {
+                "heading": "Language requirements: ",
+                "context": "English language proficiency (TOEFL 513 /IELTS 5.5/oral examination)",
+                "bullets": []
+              },
+              {
+                "heading": "Academic requirements: ",
+                "context": "High school certificate; English Placement Test + Oral Entrance Exam",
+                "bullets": []
+              },
+              {
+                "heading": "Duration: ",
+                "context": "6 semesters",
+                "bullets": []
+              },
+              {
+                "heading": "ECTS credits: ",
+                "context": "180",
+                "bullets": []
+              },
+              {
+                "heading": "Tuition fee: ",
+                "context": "6,000 USD/year",
+                "bullets": []
+              },
+              {
+                "heading": "Other fees: ",
+                "context": "Application fee 150 USD, entrance procedure fee 350 USD",
+                "bullets": []
+              },
+              {
+                "heading": "Short description: ",
+                "context": "The aim of the program is to provide a multilayered outline of the main theoretical frameworks and the current analytical methods of communication and media studies. The introductory courses give insights into the social scientific contexts of our area, then into the autonomous logic and various aspects of communication and media studies. The curriculum provides a separate track of courses (“specialization”) focusing on journalism. Overall, the program is intended to develop the students’ awareness in media usage, content creation and official communicative acts. The students will also acquire the basic problem-solving and communication skills which are essential in any workplace setting for understanding the contemporary complexities of organizational life and also for operating effectively in teamwork.",
+                "bullets": []
+              },
+              {
+                "heading": "Lecture, seminar: ",
+                "context": "52%",
+                "bullets": []
+              },
+              {
+                "heading": "Practice: ",
+                "context": "48%",
                 "bullets": []
               }
             ]
@@ -9267,7 +9475,6 @@
               "Civil Engineering, BSc",
               "Mechanical Engineering, BSc",
               "Mechatronics Engineering, BSc",
-              "Professional Pilot, BSc",
               "Vehicle Engineering, BSc",
               "Engineering Management, MSc",
               "Environmental Engineering, MSc",
@@ -10235,10 +10442,18 @@
 
   "ScholarshipData": [
     {
-      "title": "UD International Scholarship 2024",
+      "title": "UD International Scholarship",
       "apply_link": "https://southasia.edu.unideb.hu/google-ads/",
-      "image": "/UD International Scholarship.jpeg",
+      "image": "/UD International Scholarship.jpg",
       "content": [
+        {
+          "heading": "",
+          "subheading": "Application starts: 20 January 2025",
+          "yellowheading": "",
+          "links": {},
+          "text": "",
+          "bullets": []
+        },
         {
           "heading": "",
           "subheading": "",
@@ -10277,18 +10492,10 @@
         },
         {
           "heading": "Applicants holding citizenship of the following countries are eligible:",
-          "subheading": "For the Medicine and Dentistry programs:",
+          "subheading": "",
           "yellowheading": "",
           "links": {},
-          "text": "Denmark, Iceland, Israel, Norway, Sweden, United Kingdom",
-          "bullets": []
-        },
-        {
-          "heading": "",
-          "subheading": "For all other programs:",
-          "yellowheading": "",
-          "links": {},
-          "text": "Albania, Andorra, Argentina, Armenia, Australia, Austria, Azerbaijan, Belarus, Belgium, Bolivia, Bosnia and Herzegovina, Brazil, Bulgaria, Canada, Chile, China, Colombia, Croatia, Cuba, Cyprus, Czech Republic, Denmark, Ecuador, Egypt, Estonia, Finland, France, French Guiana, Georgia, Germany, Greece, Guyana, Iceland, India, Indonesia, Ireland, Israel, Italy, Japan, Jordan, Kazakhstan, Kyrgyzstan, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Malta, Mexico, Moldova, Monaco, Mongolia, Montenegro, Namibia, Netherlands, New Zealand, North Macedonia, Norway, Paraguay, Peru, Philippines, Poland, Portugal, Qatar, Republic of South Africa, Romania, Russia, San Marino, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, South Korea, Spain, Sweden, Switzerland, Syria, Tajikistan, Turkey, Turkmenistan, Ukraine, United Arab Emirates, United Kingdom, United States of America, Uruguay, Uzbekistan, Venezuela, Vietnam",
+          "text": "Albania, Andorra, Argentina, Armenia, Australia, Austria, Azerbaijan, Belarus, Belgium, Bolivia, Bosnia and Herzegovina, Brazil, Bulgaria, Canada, Chile, China, Colombia, Croatia, Cuba, Cyprus, Czech Republic, Denmark, Ecuador, Egypt, Estonia, Finland, France, French Guiana, Georgia, Germany, Greece, Guyana, Iceland, India, Indonesia, Ireland, Israel, Italy, Japan, Jordan, Kazakhstan, Kyrgyzstan, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Malta, Mexico, Moldova, Monaco, Mongolia, Montenegro, Namibia, Netherlands, New Zealand, North Macedonia, Norway, Paraguay, Peru, Philippines, Poland, Portugal, Qatar, Republic of South Africa, Romania, Russia, San Marino, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, South Korea, Spain, Sweden, Switzerland, Tajikistan, Turkey, Turkmenistan, Ukraine, United Arab Emirates, United Kingdom, United States of America, Uruguay, Uzbekistan, Venezuela, Vietnam",
           "bullets": []
         },
         {
@@ -10317,8 +10524,8 @@
               "url": "https://southasia.edu.unideb.hu/undergraduate-program/?item=2&id=3"
             },
             "link_6": {
-              "title": "Food Engineering, BSc",
-              "url": "https://southasia.edu.unideb.hu/undergraduate-program/?item=0&id=1"
+              "title": "Environmental Engineering, BSc ",
+              "url": "https://southasia.edu.unideb.hu/undergraduate-program/?item=2&id=4"
             },
             "link_7": {
               "title": "Mechanical Engineering, BSc",
@@ -10331,6 +10538,10 @@
             "link_9": {
               "title": "Vehicle Engineering, BSc",
               "url": "https://southasia.edu.unideb.hu/undergraduate-program/?item=2&id=7"
+            },
+            "link_10": {
+              "title": "Engineering Management, BSc",
+              "url": "https://southasia.edu.unideb.hu/undergraduate-program/?item=2&id=3"
             }
           },
           "text": "",
@@ -10339,10 +10550,45 @@
             "Chemical Engineering, BSc",
             "Civil Engineering, BSc",
             "Electrical Engineering, BSc",
-            "Food Engineering, BSc",
+            "Environmental Engineering, BSc ",
             "Mechanical Engineering, BSc",
             "Mechatronics Engineering, BSc",
-            "Vehicle Engineering, BSc"
+            "Vehicle Engineering, BSc",
+            "Engineering Management, BSc"
+          ]
+        },
+        {
+          "heading": "",
+          "subheading": "",
+          "yellowheading": "Agriculture Programs",
+          "links": {
+            "link_1": {
+              "title": "Agriculture Programs",
+              "url": "https://southasia.edu.unideb.hu/undergraduate-program/?item=0&id=0"
+            },
+            "link_2": {
+              "title": "Agribusiness and Rural Development Engineering, BSc",
+              "url": "https://southasia.edu.unideb.hu/undergraduate-program/?item=0&id=3"
+            },
+            "link_3": {
+              "title": "Agricultural Engineering, BSc",
+              "url": "https://southasia.edu.unideb.hu/undergraduate-program/?item=0&id=0"
+            },
+            "link_4": {
+              "title": "Food Engineering, BSc",
+              "url": "https://southasia.edu.unideb.hu/undergraduate-program/?item=0&id=1"
+            },
+            "link_5": {
+              "title": "Precision Agricultural Engineering, BSc",
+              "url": "https://southasia.edu.unideb.hu/undergraduate-program/?item=0&id=2"
+            }
+          },
+          "text": "",
+          "bullets": [
+            "Agribusiness and Rural Development Engineering, BSc",
+            "Agricultural Engineering, BSc",
+            "Food Engineering, BSc",
+            "Precision Agricultural Engineering, BSc"
           ]
         },
         {
@@ -10355,27 +10601,17 @@
               "url": "https://southasia.edu.unideb.hu/undergraduate-program/?item=3&id=0"
             },
             "link_2": {
-              "title": "Nursing and Patient Care (Dietetics), BSc (Hons)",
-              "url": "https://southasia.edu.unideb.hu/undergraduate-program/?item=3&id=0"
-            },
-            "link_3": {
               "title": "Nursing and Patient Care (Physiotherapy), BSc",
               "url": "https://southasia.edu.unideb.hu/undergraduate-program/?item=3&id=1"
             },
-            "link_4": {
-              "title": "Nursing and Patient Care (Nurse), BSc",
-              "url": "https://southasia.edu.unideb.hu/undergraduate-program/?item=3&id=2"
-            },
-            "link_5": {
+            "link_3": {
               "title": "Health Care and Disease Prevention (Public Health), BSc",
               "url": "https://southasia.edu.unideb.hu/undergraduate-program/?item=3&id=3"
             }
           },
           "text": "",
           "bullets": [
-            "Nursing and Patient Care (Dietetics), BSc (Hons)",
             "Nursing and Patient Care (Physiotherapy), BSc",
-            "Nursing and Patient Care (Nurse), BSc",
             "Health Care and Disease Prevention (Public Health), BSc"
           ]
         },
@@ -10461,34 +10697,98 @@
               "url": "https://southasia.edu.unideb.hu/graduate-program/?item=2&id=0"
             },
             "link_3": {
+              "title": "Electrical Engineering, MSc",
+              "url": "https://southasia.edu.unideb.hu/graduate-program/?item=2&id=1"
+            },
+            "link_4": {
+              "title": "Engineering Management, MSc",
+              "url": "https://southasia.edu.unideb.hu/graduate-program/?item=2&id=2"
+            },
+            "link_5": {
               "title": "Environmental Engineering, MSc",
               "url": "https://southasia.edu.unideb.hu/graduate-program/?item=2&id=2"
             },
-            "link_4": {
-              "title": "Food Safety and Quality Engineering, MSc",
-              "url": "https://southasia.edu.unideb.hu/graduate-program/?item=0&id=1"
-            },
-            "link_5": {
+            "link_6": {
               "title": "Mechatronical Engineering, MSc",
               "url": "https://southasia.edu.unideb.hu/graduate-program/?item=2&id=3"
             },
-            "link_6": {
+            "link_7": {
               "title": "Mechanical Engineering, MSc",
               "url": "https://southasia.edu.unideb.hu/graduate-program/?item=2&id=4"
             },
-            "link_7": {
+            "link_8": {
+              "title": "Sports Engineering, MSc",
+              "url": "https://southasia.edu.unideb.hu/graduate-program/?item=2&id=3"
+            },
+            "link_9": {
               "title": "Urban Systems Engineering, MSc",
               "url": "https://southasia.edu.unideb.hu/graduate-program/?item=2&id=5"
+            },
+            "link_10": {
+              "title": "Vehicle Engineering, MSc",
+              "url": "https://southasia.edu.unideb.hu/graduate-program/?item=2&id=4"
             }
           },
           "text": "",
           "bullets": [
             "Chemical Engineering, MSc ",
+            "Electrical Engineering, MSc",
+            "Engineering Management, MSc",
             "Environmental Engineering, MSc",
-            "Food Safety and Quality Engineering, MSc",
             "Mechatronical Engineering, MSc",
             "Mechanical Engineering, MSc",
-            "Urban Systems Engineering, MSc"
+            "Sports Engineering, MSc",
+            "Urban Systems Engineering, MSc",
+            "Vehicle Engineering"
+          ]
+        },
+        {
+          "heading": "",
+          "subheading": "",
+          "yellowheading": "Agriculture Programs",
+          "links": {
+            "link_1": {
+              "title": "Agriculture Programs",
+              "url": "https://southasia.edu.unideb.hu/graduate-program/?item=0&id=0"
+            },
+            "link_2": {
+              "title": "Animal Husbandry Engineering, MSc",
+              "url": "https://southasia.edu.unideb.hu/graduate-program/?item=0&id=0"
+            },
+            "link_3": {
+              "title": "Agricultural Environmental Management Engineering, MSc",
+              "url": "https://southasia.edu.unideb.hu/graduate-program/?item=0&id=2"
+            },
+            "link_4": {
+              "title": "Agricultural Water Management Engineering, MSc",
+              "url": "https://southasia.edu.unideb.hu/graduate-program/?item=0&id=3"
+            },
+            "link_5": {
+              "title": "Crop Production Engineering, MSc",
+              "url": "https://southasia.edu.unideb.hu/graduate-program/?item=0&id=4"
+            },
+            "link_6": {
+              "title": "Food Safety and Quality Engineering, MSc",
+              "url": "https://southasia.edu.unideb.hu/graduate-program/?item=0&id=1"
+            },
+            "link_7": {
+              "title": "Plant Protection, MSc",
+              "url": "https://southasia.edu.unideb.hu/graduate-program/?item=0&id=5"
+            },
+            "link_8": {
+              "title": "Rural Development Engineering, MSc",
+              "url": "https://southasia.edu.unideb.hu/graduate-program/?item=0&id=6"
+            }
+          },
+          "text": "",
+          "bullets": [
+            "Animal Husbandry Engineering, MSc",
+            "Agricultural Environmental Management Engineering, MSc",
+            "Agricultural Water Management Engineering, MSc",
+            "Crop Production Engineering, MSc",
+            "Food Safety and Quality Engineering, MSc",
+            "Plant Protection, MSc",
+            "Rural Development Engineering, MSc"
           ]
         },
         {
@@ -10505,7 +10805,7 @@
               "url": "https://southasia.edu.unideb.hu/graduate-program/?item=3&id=0"
             },
             "link_3": {
-              "title": "Public Health, MSc",
+              "title": "Pharmaceutical Research and Development Manager, MSc",
               "url": "https://southasia.edu.unideb.hu/graduate-program/?item=3&id=1"
             },
             "link_4": {
@@ -10520,7 +10820,7 @@
           "text": "",
           "bullets": [
             "Complex Rehabilitation, MSc",
-            "Public Health, MSc",
+            "Pharmaceutical Research and Development Manager, MSc",
             "Social Work in Health Care, MSc",
             "Social Work and Social Economy, MA"
           ]
@@ -10581,16 +10881,24 @@
               "url": "https://southasia.edu.unideb.hu/graduate-program/?item=7&id=1"
             },
             "link_5": {
+              "title": "Geography, MSc",
+              "url": "https://southasia.edu.unideb.hu/graduate-program/?item=7&id=4"
+            },
+            "link_6": {
               "title": "Geoinformatics, MSc",
               "url": "https://southasia.edu.unideb.hu/graduate-program/?item=7&id=5"
             },
-            "link_6": {
+            "link_7": {
               "title": "Chemistry, MSc ",
               "url": "https://southasia.edu.unideb.hu/graduate-program/?item=7&id=2"
             },
-            "link_7": {
+            "link_8": {
               "title": "Environmental Sciences, MSc",
               "url": "https://southasia.edu.unideb.hu/graduate-program/?item=7&id=3"
+            },
+            "link_9": {
+              "title": "Physics, MSc",
+              "url": "https://southasia.edu.unideb.hu/graduate-program/?item=7&id=8"
             }
           },
           "text": "",
@@ -10598,9 +10906,11 @@
             "Molecular Biology, MSc",
             "Applied Mathematics, MSc",
             "Biology, MSc",
+            "Geography, MSc",
             "Geoinformatics, MSc",
             "Chemistry, MSc ",
-            "Environmental Sciences, MSc"
+            "Environmental Sciences, MSc",
+            "Physics, MSc"
           ]
         },
         {
@@ -10637,14 +10947,6 @@
           "bullets": []
         },
         {
-          "heading": "",
-          "subheading": "",
-          "yellowheading": "! Deadline extended until 30 June 2024 !",
-          "links": {},
-          "text": "",
-          "bullets": []
-        },
-        {
           "heading": "Call for Applications",
           "subheading": "",
           "yellowheading": "",
@@ -10658,8 +10960,11 @@
               "url": "https://edu.unideb.hu/tartalom/dok/operational-regulations-ud-international-scholarship_1_1.pdf"
             }
           },
-          "text": "Please download and read carefully the Call for Applications and the Operational Regulations of the UD International Scholarship program.",
-          "bullets": []
+          "text": "",
+          "bullets": [
+            "Call for Applications",
+            "Operational Regulations of the UD International Scholarship"
+          ]
         }
       ]
     },

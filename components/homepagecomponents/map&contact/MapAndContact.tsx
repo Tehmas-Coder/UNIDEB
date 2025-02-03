@@ -60,7 +60,8 @@ const MapAndContact = () => {
                     style={{ color: "#155744" }}
                   />
                 </span>
-                Level 42, Emirates Towers Sheikh Zayed Road Dubai, UAE
+                Office No. 1407, 14th Floor, Jumeirah Business Center 2, Cluster
+                V, Jumeirah Lake Towers (JLT), Al Thanyah Fifth, Dubai, UAE.
               </div>
               <div className="flex items-center my-2">
                 <span className="mr-1 sm:mx-3 pl-2">

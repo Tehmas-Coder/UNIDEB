@@ -25,7 +25,7 @@ export const metadata: Metadata = {
 
 const page = () => {
   const scholarshipNames = [
-    "UD International Scholarship 2024",
+    "UD International Scholarship",
     "Stipendium Hungaricum Scholarship",
     "Scholarship for Christian Young People (SCYP)",
     "Siblings Discount",

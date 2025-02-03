@@ -16,20 +16,20 @@ import MapAndContact from "@/components/homepagecomponents/map&contact/MapAndCon
 export const metadata: Metadata = {};
 
 const Home: React.FC = () => {
-  const [showPopup, setShowPopup] = useState(false);
+  // const [showPopup, setShowPopup] = useState(false);
 
-  useEffect(() => {
-    const timer = setTimeout(() => {
-      setShowPopup(true);
-    }, 3000);
+  // useEffect(() => {
+  //   const timer = setTimeout(() => {
+  //     setShowPopup(true);
+  //   }, 3000);
 
-    // Clean up the timer to prevent memory leaks
-    return () => clearTimeout(timer);
-  }, []);
+  // Clean up the timer to prevent memory leaks
+  //   return () => clearTimeout(timer);
+  // }, []);
 
-  const handleClosePopup = () => {
-    setShowPopup(false);
-  };
+  // const handleClosePopup = () => {
+  //   setShowPopup(false);
+  // };
 
   return (
     <>
@@ -86,7 +86,7 @@ const Home: React.FC = () => {
 
       {/* ------------------------------------------------------------------PopUp---------------------------------------------------------------------- */}
 
-      {showPopup && (
+      {/* {showPopup && (
         <div className="fixed inset-0 flex items-center justify-center bg-gray-900 bg-opacity-50">
           <div className="bg-white p-8 rounded-lg relative">
             <button
@@ -114,7 +114,7 @@ const Home: React.FC = () => {
             </div>
           </div>
         </div>
-      )}
+      )} */}
     </>
   );
 };
