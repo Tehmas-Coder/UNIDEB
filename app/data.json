@@ -9,12 +9,28 @@
 
     "EventsData": [
       {
-        "title": "WSD Annual University Fair – GEMS Winchester School Dubai",
+        "title": "University Fair",
+        "description": "The University of Debrecen team will participate in this university fair to connect with Year 12 and 13 students. The event will take place in the shaded area, and representatives are requested to arrive 10–15 minutes early for registration and setup.",
+        "year": "2025",
+        "month": "Feb",
+        "date": "4",
+        "location": "Dubai, UAE"
+      },
+      {
+        "title": "WSD Annual University Fair – GEMS Winchester School",
         "description": "Representatives from the University of Debrecen will attend the WSD Annual University Fair at GEMS Winchester School Dubai. The event will take place in the WSD Primary Hall, providing an excellent opportunity to connect with students interested in learning more about academic programs at the University of Debrecen.",
         "year": "2025",
         "month": "Feb",
         "date": "6",
-        "location": "UAE"
+        "location": "Dubai, UAE"
+      },
+      {
+        "title": "University Fair – Brighton College Al Ain",
+        "description": "The University of Debrecen team is set to participate in the Brighton College Al Ain University Fair. This event will provide an opportunity to meet prospective students and discuss academic pathways.",
+        "year": "2025",
+        "month": "Feb",
+        "date": "18",
+        "location": "Al Ain, UAE"
       }
     ],
     "Overview": {

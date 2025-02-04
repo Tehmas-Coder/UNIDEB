@@ -26,7 +26,7 @@ const CampusLife = () => {
         className="transition-all duration-500"
       />
       <div
-        className={`h-[14px] w-[22vw] transition-all duration-500 absolute -translate-y-[6px] ${
+        className={`h-[14px] w-[22vw] transition-all duration-500 absolute -translate-y-[6px] z-10 ${
           isHoveredCampus ? "bg-[#114c3a]" : "bg-[rgba(245,180,24,1)]"
         }
           ${!isHoveredCampus ? "translate-x-[70vw]" : "translate-x-[10vw]"}`}

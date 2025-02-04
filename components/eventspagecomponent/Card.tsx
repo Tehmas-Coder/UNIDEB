@@ -107,9 +107,9 @@ const Card = () => {
             <div className="flex justify-between mt-10 mb-10 text-sm text-gray-600">
               <div>
                 <p className="font-bold mb-2 text-[#114c3a]">
-                  Date(s) and Venue:
+                  Date(s) and City:
                 </p>
-                <p>{eventsdata.data[currentEventIndex].time}</p>
+                {/* <p>{eventsdata.data[currentEventIndex].time}</p> */}
                 <p>
                   {eventsdata.data[currentEventIndex].date}{" "}
                   {eventsdata.data[currentEventIndex].month}{" "}
@@ -119,6 +119,16 @@ const Card = () => {
                   {eventsdata.data[currentEventIndex].city},{" "}
                   {eventsdata.data[currentEventIndex].country}
                 </p>
+                {(eventsdata.data[currentEventIndex]?.venue ||
+                  eventsdata.data[currentEventIndex]?.time) && (
+                  <div>
+                    <p className="font-bold mt-2 text-[#114c3a]">
+                      Time and Venue:
+                    </p>
+                    <p>{eventsdata.data[currentEventIndex].venue}</p>
+                    <p>{eventsdata.data[currentEventIndex].time}</p>
+                  </div>
+                )}
               </div>
               <div>
                 <p
