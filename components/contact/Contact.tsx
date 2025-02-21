@@ -1,6 +1,7 @@
 "use client";
 import React, { useRef } from "react";
 import emailjs from "@emailjs/browser";
+import { toast } from "react-toastify";
 const Contact = () => {
   const form: any = useRef();
 
@@ -20,12 +21,11 @@ const Contact = () => {
         .then(
           (result) => {
             console.log(result.text);
-            alert("Message Sent");
+            console.log(form.current);
             form.current.reset();
           },
           (error) => {
             console.log(error.text);
-            alert("Something went wrong");
           }
         );
     }
@@ -48,7 +48,7 @@ const Contact = () => {
             />
           </div>
 
-          <div className="lg:p-3 p-1">
+          <div className="lg:p-2 p-1">
             <p className="text-sm my-2">Email</p>
             <input
               className="border-2 w-full h-10 rounded-lg py-6 px-2 bg-gray-50"
@@ -59,7 +59,7 @@ const Contact = () => {
             />
           </div>
 
-          <div className="lg:p-3 p-1">
+          <div className="lg:p-2 p-1">
             <p className="text-sm my-2">Subject</p>
             <input
               className="border-2 w-full h-10 rounded-lg py-6 px-2 bg-gray-50"
@@ -70,11 +70,22 @@ const Contact = () => {
             />
           </div>
 
-          <div className="lg:p-3 p-1">
+          <div className="lg:p-2 p-1">
+            <p className="text-sm my-2">Country of Origin</p>
+            <input
+              className="border-2 w-full h-10 rounded-lg py-6 px-2 bg-gray-50"
+              placeholder="country"
+              type="country"
+              required
+              name="country"
+            />
+          </div>
+
+          <div className="lg:p-2 p-1">
             <input type="hidden" value="hidden_value" name="hidden_field" />
           </div>
 
-          <div className="lg:p-3 p-1">
+          <div className="lg:p-2 p-1">
             <p className="text-sm my-2">Your Message</p>
             <textarea
               className="border-2 w-full h-32 rounded-md py-2 px-2 bg-gray-50"
