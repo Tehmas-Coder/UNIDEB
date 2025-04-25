@@ -3,7 +3,9 @@ import React from "react";
 const AgentTraining = () => {
   return (
     <div className="my-10">
-      <h1 className="text-2xl text-[#155744] font-bold">SH Agent Training</h1>
+      <h1 className="text-2xl text-[#155744] font-bold">
+        Stipendium Hungaricum Agent Training
+      </h1>
       <div className="my-5">
         <p className="my-1">
           <a

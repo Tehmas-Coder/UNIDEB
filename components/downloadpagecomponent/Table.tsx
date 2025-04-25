@@ -49,21 +49,21 @@ const Table: React.FC<{ data: SamplePaperData[] }> = ({ data }) => {
               <td className="p-3 border">
                 {subject.subcategories.map((subcategory, subIndex) => (
                   <div key={subIndex}>
-                    <Link
-                      href={subcategory.samplePaper}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      {subcategory.samplePaper === "" ? (
-                        <p className="text-[#F5B417] pb-2 hover:text-[#155744] hover:underline italic">
-                          --
-                        </p>
-                      ) : (
+                    {subcategory.samplePaper === "" ? (
+                      <p className="text-[#F5B417] pb-2 hover:text-[#155744] hover:underline italic">
+                        --
+                      </p>
+                    ) : (
+                      <Link
+                        href={subcategory.samplePaper}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
                         <p className="text-[#F5B417] pb-2 hover:text-[#155744] hover:underline italic">
                           Download
                         </p>
-                      )}
-                    </Link>
+                      </Link>
+                    )}
                   </div>
                 ))}
               </td>

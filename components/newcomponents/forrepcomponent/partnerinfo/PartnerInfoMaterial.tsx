@@ -53,12 +53,6 @@ const PartnerInfoMaterial = () => {
         >
           Application Forms
         </p>
-        {/* <p
-          onClick={() => handleDownloadClick("StuArtSystemManual")}
-          className="my-1 cursor-pointer sm:w-1/6"
-        >
-          StuArt System Manual
-        </p> */}
       </div>
     </div>
   );

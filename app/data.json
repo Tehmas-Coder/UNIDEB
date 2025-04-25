@@ -9,20 +9,28 @@
 
     "EventsData": [
       {
-        "title": "University Fair – Brighton College Al Ain",
-        "description": "The University of Debrecen team is set to participate in the Brighton College Al Ain University Fair. This event will provide an opportunity to meet prospective students and discuss academic pathways.",
+        "title": "BMI International Student Recruitment Fair",
+        "description": "Representatives from the University of Debrecen Regional Office will attend the International Student Recruitment Fair in Dubai. This event provides an opportunity to engage with affluent local and expat students, as well as those funded through national scholarship programs.",
         "year": "2025",
-        "month": "Feb",
-        "date": "18",
-        "location": "Al Ain, UAE"
+        "month": "Apr",
+        "date": "13–14",
+        "location": "Dubai, UAE"
       },
       {
-        "title": "University Fair -  NAS Dubai",
-        "description": "Representatives from the University of Debrecen will be attending the NAS Dubai University Fair to engage with students interested in global education opportunities.",
+        "title": "BMI High School Visits",
+        "description": "Representatives from the University of Debrecen Regional Office will visit top private and international schools in Dubai as part of the International Student Recruitment initiative. These visits will allow direct interaction with prospective students exploring higher education opportunities.",
         "year": "2025",
-        "month": "Feb",
-        "date": "19",
+        "month": "Apr",
+        "date": "14–15",
         "location": "Dubai, UAE"
+      },
+      {
+        "title": "BMI International Student Recruitment Fair",
+        "description": "Representatives from the University of Debrecen Regional Office will attend the International Student Recruitment Fair in Abu Dhabi. Here's your golden opportunity to engage with the team and turn your dream into reality.",
+        "year": "2025",
+        "month": "Apr",
+        "date": "16",
+        "location": "Abu Dhabi, UAE"
       }
     ],
     "Overview": {
@@ -4841,7 +4849,7 @@
               },
               {
                 "heading": "Tuition Fee: ",
-                "context": "9,500 USD/year",
+                "context": "10,000 USD/year",
                 "bullets": []
               },
               {
@@ -5451,7 +5459,7 @@
               },
               {
                 "heading": "Short description: ",
-                "context": "The doctoral school provides high quality education in scientific research. Doctoral candidates are welcome to join the following programs: Hydrobiology, Quantitative ecology, Water environment protection.",
+                "context": "The doctoral school provides high quality education in scientific research. Doctoral candidates are welcome to join the following programs: Reaction kinetics and catalysis, Coordination chemistry, Environmental instrumental and analytic chemistry, macromolecular and surface chemistry, Chemistry, biochemistry and structural study of carbohydrate-containing natural and synthetic materials, Synthesis and structural study of natural heterocyclic compounds and their analogs.",
                 "bullets": []
               }
             ]
@@ -8548,7 +8556,7 @@
       "text": [
         {
           "heading": "",
-          "content": "The University of Debrecen has strategically established regional offices worldwide to meet the specific needs of students in various areas. In 2017, the university took a significant step by inaugurating its regional office in Pakistan. Acknowledging the growing significance of the region, the office was later elevated to the status of the regional office for South Asia after six successful years. Currently, the office operates with branches in Dubai, Islamabad, and Lahore, ensuring increased accessibility and support for students from these regions. These regional offices play a crucial role as information hubs, providing guidance and assistance to prospective students throughout their educational journey at the [University of Debrecen](link_3)"
+          "content": "The University of Debrecen has strategically established regional offices worldwide to meet the specific needs of students in various areas. In 2017, the university took a significant step by inaugurating its regional office in Pakistan. Acknowledging the growing significance of the region, the office was later elevated to the status of the regional office for South Asia after six successful years. Currently, the office operates with branches in Dubai, Islamabad, Lahore, and Bangladesh ensuring increased accessibility and support for students from these regions. These regional offices play a crucial role as information hubs, providing guidance and assistance to prospective students throughout their educational journey at the [University of Debrecen](link_3)"
         },
         {
           "heading": "",
@@ -8960,6 +8968,16 @@
             "label": "Non-Medical Programs",
             "samplePaper": "/pdf/chemistry_test_1_1.pdf",
             "examTopics": "/pdf/chemisty-Ad_non.pdf"
+          }
+        ]
+      },
+      {
+        "name": "Molecular Biology, MSc",
+        "subcategories": [
+          {
+            "label": "General",
+            "samplePaper": "",
+            "examTopics": "/pdf/Topic_List_For_Admission MolBiol.pdf"
           }
         ]
       },

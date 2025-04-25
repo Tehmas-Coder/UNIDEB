@@ -42,7 +42,7 @@ const Footer: React.FC = () => {
                 ))}
               </ul>
               <span className="text-sm flex mb-1 text-center items-center pt-5 lg:pt-16 justify-center">
-                Copyright © 2024 . All rights reserved.
+                Copyright © 2025 . All rights reserved.
               </span>
               <span className="text-sm text-center flex items-center justify-center">
                 University of Debrecen, Hungary (Regional Office South Asia)
