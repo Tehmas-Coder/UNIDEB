@@ -29,8 +29,8 @@ const ContactForm = () => {
   };
 
   return (
-    <div className=" w-full lg:w-[600px]">
-      <div className="border-2 w-full lg:w-[600px] rounded-lg ">
+    <div className="w-full">
+      {/* <div className="border-2 w-full lg:w-[600px] rounded-lg ">
         <form ref={form} onSubmit={sendEmail} className="p-2">
           <h1 className="text-3xl lg:text-4xl font-semibold py-5 px-2 text-center">
             Send us a message
@@ -88,7 +88,12 @@ const ContactForm = () => {
             </button>
           </div>
         </form>
-      </div>
+      </div> */}
+      <iframe
+        aria-label="Contact Us"
+        src="https://forms.zohopublic.com/eduapply1/form/test/formperma/7aNovoEcf_xsPg8lOO_T36h_o6P12buPgDzIhq5ji9o"
+        className="w-full h-[500px] sm:h-[600px] lg:h-[700px] xl:h-[800px] 2xl:h-[900px]"
+      ></iframe>
     </div>
   );
 };

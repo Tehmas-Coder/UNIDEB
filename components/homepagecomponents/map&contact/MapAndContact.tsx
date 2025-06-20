@@ -1,3 +1,4 @@
+import ContactForm from "@/components/common/form/ContactForm";
 import Contact from "@/components/contact/Contact";
 import Link from "next/link";
 import React from "react";
@@ -111,8 +112,9 @@ const MapAndContact = () => {
             </div>
           </div>
         </div>
-        <div className="px-4">
-          <Contact />
+        <div className="px-4 h-[700px] w-[600px] overflow-y-scroll scrollbar-hide">
+          {/* <Contact /> */}
+          <ContactForm />
         </div>
       </div>
     </div>
