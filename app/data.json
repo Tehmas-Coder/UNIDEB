@@ -2,19 +2,19 @@
   "HomePageData": {
     "UniDetails": {
       "name": "University of Debrecen",
-      "rank": "Among the Top 3 Universities in Hungary",
+      "rank": "Hungary’s #1 University",
       "desc": "The university offers over 100 programs for international students in various fields",
       "admissionsOpen": "Admissions Open"
     },
 
     "EventsData": [
       {
-        "title": "Official Webinar for Bangladeshi Applicants - Zoom",
-        "description": "Representatives from the University of Debrecen Regional Office will host a free live webinar for students in Bangladesh to explore programs, scholarships, visa support, and student life.",
+        "title": "Official Webinar for UAE Applicants - Zoom",
+        "description": "Representatives from the University of Debrecen Regional Office will host a free live webinar for students interested in applying to the University of Debrecen.",
         "year": "2025",
-        "month": "June",
-        "date": "23",
-        "location": "Dhaka, Bangladesh"
+        "month": "July",
+        "date": "12",
+        "location": "Dubai, UAE"
       }
     ],
     "Overview": {
@@ -8603,7 +8603,7 @@
           "heading": "Rankings",
           "content": "The University of Debrecen is continuously improving its position in several international higher education rankings, while maintaining its leading role among Hungarian higher education institutions.",
           "bullets": [
-            "Ranks 574 in QS World University Rankings 2025",
+            "563rd position in QS World University Rankings 2025 - 2026",
             "Among the Top 200 Times Higher Education Europe Teaching Ranking"
           ]
         }

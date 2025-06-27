@@ -57,7 +57,7 @@ const linkData: LinkItem[] = [
       { href: "/sample-paper", label: "Sample Papers" },
       { href: "/brouchers", label: "Brochures" },
       { href: "/download-app-form", label: "Application Forms" },
-      // { href: "/for-our-representatives", label: "For Our Representatives" },
+      { href: "/medical-checkup", label: "Medical Checkup" },
       { href: "/entrance-interview", label: "UD Entrance Interview Guideline" },
     ],
   },

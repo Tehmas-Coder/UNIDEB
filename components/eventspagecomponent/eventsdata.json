@@ -1,12 +1,29 @@
 {
   "data": [
     {
+      "id": "44",
+      "date": "12",
+      "month": "July",
+      "year": "2025",
+      "desc": "Representatives from the University of Debrecen Regional Office will host a free live webinar for students interested in applying to the University of Debrecen.",
+      "title": "Official Webinar for UAE Applicants - Zoom",
+      "city": "Dubai",
+      "country": "UAE",
+      "days": "1 Day",
+      "venue": "",
+      "time": "",
+      "SEOdesc": "",
+      "SEOkeywords": "",
+      "images": [],
+      "video": ""
+    },
+    {
       "id": "43",
       "date": "23",
       "month": "June",
       "year": "2025",
       "desc": "Representatives from the University of Debrecen Regional Office will host a free live webinar for students in Bangladesh to explore programs, scholarships, visa support, and student life.",
-      "title": "Official Webinar for UAE Applicants - Zoom",
+      "title": "Official Webinar for Bangladesh Applicants - Zoom",
       "city": "Dhaka",
       "country": "Bangladesh",
       "days": "1 Day",
