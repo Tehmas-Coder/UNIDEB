@@ -33,6 +33,7 @@ export interface ArticleContent {
 interface Article {
   id: number;
   title: string;
+  blogTitle: string;
   slug: string;
   author: string;
   authorpic: string;
@@ -49,6 +50,7 @@ interface Article {
 interface Article {
   id: number;
   title: string;
+  blogTitle: string;
   slug: string;
   author: string;
   authorpic: string;

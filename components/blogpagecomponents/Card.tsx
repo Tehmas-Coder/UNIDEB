@@ -13,6 +13,7 @@ interface ArticleContent {
 interface Article {
   id: number;
   title: string;
+  blogTitle: string;
   author: string;
   authorpic: string;
   date: string;
@@ -25,6 +26,7 @@ interface Article {
 interface CardData {
   id: number;
   title: string;
+  blogTitle: string;
   author: string;
   authorpic: string;
   date: string;
@@ -53,7 +55,7 @@ const Card: React.FC<CardProps> = ({ card }) => {
       </p>
       <div className="px-4 pb-8 pt-2">
         <h2 className="leading-[35px] font-extrabold md:h-36 text-[#F5B418] text-[26px] hover:text-[#144438] cursor-pointer mb-2">
-          {card.title}
+          {card.blogTitle}
         </h2>
 
         <div className="flex justify-between pt-4">

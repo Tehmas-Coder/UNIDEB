@@ -2,7 +2,8 @@
   "articles": [
     {
       "id": 66,
-      "title": "How Do You Create a Perfect Europass CV for Study Abroad?",
+      "title": "How Do You Create a Perfect Europass CV for Study Abroad",
+      "blogTitle": "How Do You Create a Perfect Europass CV for Study Abroad?",
       "slug": "How-Do-You-Create-a-Perfect-Europass-CV-for-Study-Abroad",
       "author": "Tahsina",
       "authorpic": "/T.png",
@@ -355,6 +356,7 @@
     {
       "id": 65,
       "title": "Requirements to Apply for the University of Debrecen's Nursing Programs",
+      "blogTitle": "Requirements to Apply for the University of Debrecen's Nursing Programs",
       "slug": "Requirements-to-Apply-for-the-University-of-Debrecen-Nursing-Programs",
       "author": "Tahsina",
       "authorpic": "/T.png",
@@ -620,7 +622,8 @@
     },
     {
       "id": 64,
-      "title": "What Documents Do You Need to Apply for a University in Hungary?",
+      "title": "What Documents Do You Need to Apply for a University in Hungary",
+      "blogTitle": "What Documents Do You Need to Apply for a University in Hungary?",
       "slug": "What-Documents-Do-You-Need-to-Apply-for-a-University-in-Hungary",
       "author": "Tahsina",
       "authorpic": "/T.png",
@@ -901,6 +904,7 @@
     {
       "id": 63,
       "title": "A Closer Look at the Ranking of the University of Debrecen in 2025",
+      "blogTitle": "A Closer Look at the Ranking of the University of Debrecen in 2025",
       "slug": "A-Closer-Look-at-the-Ranking-of-the-University-of-Debrecen-in-2025",
       "author": "Tahsina",
       "authorpic": "/T.png",
@@ -1287,6 +1291,7 @@
     {
       "id": 62,
       "title": "Pursuing a Master’s Degree in Health Care in Hungary",
+      "blogTitle": "Pursuing a Master’s Degree in Health Care in Hungary",
       "slug": "Pursuing-a-Masters-Degree-in-Health-Care-in-Hungary",
       "author": "Tahsina",
       "authorpic": "/T.png",
@@ -1581,6 +1586,7 @@
     {
       "id": 61,
       "title": "Why You Should Study Engineering Management in 2025",
+      "blogTitle": "Why You Should Study Engineering Management in 2025",
       "slug": "Why-You-Should-Study-Engineering-Management-in-2025",
       "author": "Tahsina",
       "authorpic": "/T.png",
@@ -1829,6 +1835,7 @@
     {
       "id": 60,
       "title": "Discover the Beauty of Hungary: Top Tourist Destinations for International Students",
+      "blogTitle": "Discover the Beauty of Hungary: Top Tourist Destinations for International Students",
       "slug": "Discover-the-Beauty-of-Hungary-Top-Tourist-Destinations-for-International-Students",
       "author": "Tahsina",
       "authorpic": "/T.png",
@@ -2128,6 +2135,7 @@
     {
       "id": 59,
       "title": "How Education Consultants for Study Abroad Simplify Your International Application",
+      "blogTitle": "How Education Consultants for Study Abroad Simplify Your International Application",
       "slug": "How-Education-Consultants-for-Study-Abroad-Simplify-Your-International-Application",
       "author": "Meher Abrar",
       "authorpic": "/I.jpg",
@@ -2386,6 +2394,7 @@
     {
       "id": 58,
       "title": "Exploring the Diverse Programs at the University of Debrecen",
+      "blogTitle": "Exploring the Diverse Programs at the University of Debrecen",
       "slug": "Exploring-the-Diverse-Programs-at-the-University-of-Debrecen",
       "author": "Meher Abrar",
       "authorpic": "/I.jpg",
@@ -2689,6 +2698,7 @@
     {
       "id": 57,
       "title": "Explore the Growing Importance of Biotechnology",
+      "blogTitle": "Explore the Growing Importance of Biotechnology",
       "slug": "Explore-the-Growing-Importance-of-Biotechnology",
       "author": "Iswah Emaan",
       "authorpic": "/I.jpg",
@@ -3053,6 +3063,7 @@
     {
       "id": 56,
       "title": "Helpful Tips for Preparing Strong Recommendation Letters for Your Application",
+      "blogTitle": "Helpful Tips for Preparing Strong Recommendation Letters for Your Application",
       "slug": "Helpful-Tips-for-Preparing-Strong-Recommendation-Letters-for-Your-Application",
       "author": "Iswah Emaan",
       "authorpic": "/I.jpg",
@@ -3464,6 +3475,7 @@
     {
       "id": 55,
       "title": "Discover How Learning Hungarian Can Enhance Your Study Abroad Experience",
+      "blogTitle": "Discover How Learning Hungarian Can Enhance Your Study Abroad Experience",
       "slug": "Discover-How-Learning-Hungarian-Can-Enhance-Your-Study-Abroad-Experience",
       "author": "Iswah Emaan",
       "authorpic": "/I.jpg",
@@ -3765,6 +3777,7 @@
     {
       "id": 54,
       "title": "Why Hungary is Emerging as a Hub for International Education",
+      "blogTitle": "Why Hungary is Emerging as a Hub for International Education",
       "slug": "Why-Hungary-is-Emerging-as-a-Hub-for-International-Education",
       "author": "Iswah Emaan",
       "authorpic": "/I.jpg",
@@ -4028,6 +4041,7 @@
     {
       "id": 53,
       "title": "Learn How to Write a Winning Motivational Letter for the Stipendium Hungaricum Scholarship",
+      "blogTitle": "Learn How to Write a Winning Motivational Letter for the Stipendium Hungaricum Scholarship",
       "slug": "Learn-How-to-Write-a-Winning-Motivational-Letter-for-the-Stipendium-Hungaricum-Scholarship",
       "author": "Iswah Emaan",
       "authorpic": "/I.jpg",
@@ -4449,6 +4463,7 @@
     {
       "id": 52,
       "title": "Step into High-Demand Careers in Dietetics",
+      "blogTitle": "Step into High-Demand Careers in Dietetics",
       "slug": "Step-into-High-Demand-Careers-in-Dietetics",
       "author": "Iswah Emaan",
       "authorpic": "/I.jpg",
@@ -4819,6 +4834,7 @@
     {
       "id": 51,
       "title": "Exploring The Future of Physiotherapy: Why It’s a Growing Field",
+      "blogTitle": "Exploring The Future of Physiotherapy: Why It’s a Growing Field",
       "slug": "Exploring-The-Future-of-Physiotherapy-Why-Its-a-Growing-Field",
       "author": "Iswah Emaan",
       "authorpic": "/I.jpg",
@@ -5095,6 +5111,7 @@
     {
       "id": 50,
       "title": "Study Vehicle Engineering at the University of Debrecen",
+      "blogTitle": "Study Vehicle Engineering at the University of Debrecen",
       "slug": "Study-Vehicle-Engineering-at-the-University-of-Debrecen",
       "author": "Iswah Emaan",
       "authorpic": "/I.jpg",
@@ -5386,6 +5403,7 @@
     {
       "id": 49,
       "title": "Study Civil Engineering Abroad: Build an Impactful Global Future",
+      "blogTitle": "Study Civil Engineering Abroad: Build an Impactful Global Future",
       "slug": "Study-Civil-Engineering-Abroad-Build-an-Impactful-Global-Future",
       "author": "Iswah Emaan",
       "authorpic": "/I.jpg",
@@ -5719,6 +5737,7 @@
     {
       "id": 48,
       "title": "Top Reasons to Study Mechatronics Engineering: Who Should Consider This Field?",
+      "blogTitle": "Top Reasons to Study Mechatronics Engineering: Who Should Consider This Field?",
       "slug": "Top-Reasons-to-Study-Mechatronics-Engineering-Who-Should-Consider-This-Field",
       "author": "Iswah Emaan",
       "authorpic": "/I.jpg",
@@ -6030,6 +6049,7 @@
     {
       "id": 47,
       "title": "Stipendium Hungaricum Scholarship Process for Pakistani Students",
+      "blogTitle": "Stipendium Hungaricum Scholarship Process for Pakistani Students",
       "slug": "Stipendium-Hungaricum-Scholarship-Process-for-Pakistani-Students",
       "author": "Iswah Emaan",
       "authorpic": "/I.jpg",
@@ -6328,6 +6348,7 @@
     {
       "id": 46,
       "title": "Stipendium Hungaricum Scholarship Process for Bangladeshi Students",
+      "blogTitle": "Stipendium Hungaricum Scholarship Process for Bangladeshi Students",
       "slug": "Stipendium-Hungaricum-Scholarship-Process-for-Bangladeshi-Students",
       "author": "Iswah Emaan",
       "authorpic": "/I.jpg",
@@ -6690,6 +6711,7 @@
     {
       "id": 45,
       "title": "Stipendium Hungaricum Scholarship 2025/2026: Fully Funded Study Opportunities in Hungary",
+      "blogTitle": "Stipendium Hungaricum Scholarship 2025/2026: Fully Funded Study Opportunities in Hungary",
       "slug": "Stipendium-Hungaricum-Scholarship-2025-2026-Fully-Funded-Study-Opportunities-in-Hungary",
       "author": "Iswah Emaan",
       "authorpic": "/I.jpg",
@@ -7275,6 +7297,7 @@
     {
       "id": 44,
       "title": "How to Become a Professional Pilot: A Comprehensive Guide for Beginners",
+      "blogTitle": "How to Become a Professional Pilot: A Comprehensive Guide for Beginners",
       "slug": "How-to-Become-a-Professional-Pilot-A-Comprehensive-Guide-for-Beginners",
       "author": "Iswah Emaan",
       "authorpic": "/I.jpg",
@@ -7778,6 +7801,7 @@
     {
       "id": 43,
       "title": "Career as an Electrical Engineer: Essential Steps for Success",
+      "blogTitle": "Career as an Electrical Engineer: Essential Steps for Success",
       "slug": "Career-as-an-Electrical-Engineer-Essential-Steps-for-Success",
       "author": "Iswah Emaan",
       "authorpic": "/I.jpg",
@@ -8094,6 +8118,7 @@
     {
       "id": 42,
       "title": "Why Study Biochemical Engineering at Debrecen: Top Benefits & Career Opportunities",
+      "blogTitle": "Why Study Biochemical Engineering at Debrecen: Top Benefits & Career Oppurtunities",
       "slug": "Why-Study-Biochemical-Engineering-at-Debrecen-Top-Benefits-and-Career-Opportunities",
       "author": "Iswah Emaan",
       "authorpic": "/I.jpg",
@@ -8332,6 +8357,7 @@
     {
       "id": 41,
       "title": "The Future of Food Engineering at the University of Debrecen: Innovations and Trends",
+      "blogTitle": "The Future of Food Engineering at the University of Debrecen: Innovations and Trends",
       "slug": "The-Future-of-Food-Engineering-at-the-University-of-Debrecen-Innovations-and-Trends",
       "author": "Iswah Emaan",
       "authorpic": "/I.jpg",
@@ -8583,6 +8609,7 @@
     {
       "id": 40,
       "title": "Build Sustainable Cities: Study Urban Systems Engineering at the University of Debrecen",
+      "blogTitle": "Build Sustainable Cities: Study Urban Systems Engineering at the University of Debrecen",
       "slug": "Build-Sustainable-Cities-Study-Urban-Systems-Engineering-at-the-University-of-Debrecen",
       "author": "Iswah Emaan",
       "authorpic": "/I.jpg",
@@ -8899,6 +8926,7 @@
     {
       "id": 39,
       "title": "Study Masters in Geoinformatics Abroad: Your Gateway to a Thriving Global Career",
+      "blogTitle": "Study Masters in Geoinformatics: Your Gateway to a Thriving Global Career",
       "slug": "Study-Masters-in-Geoinformatics-Abroad-Your-Gateway-to-a-Thriving-Global-Career",
       "author": "Iswah Emaan",
       "authorpic": "/I.jpg",
@@ -9384,6 +9412,7 @@
     {
       "id": 38,
       "title": "Study Pharmacy at the University of Debrecen: Your Path to a Global Healthcare Career",
+      "blogTitle": "Study Pharmacy at the University of Debrecen: Your Path to a Global Healthcare Career",
       "slug": "Study-Pharmacy-at-the-University-of-Debrecen-Your-Path-to-a-Global-Healthcare-Career",
       "author": "Iswah Emaan",
       "authorpic": "/I.jpg",
@@ -9628,6 +9657,7 @@
     {
       "id": 37,
       "title": "Study Commerce & Marketing BSc in Debrecen: Explore the Key Benefits",
+      "blogTitle": "Study Commerce & Marketing BSc in Debrecen: Explore the Key Benefits",
       "slug": "Study-Commerce-and-Marketing-BSc-in-Debrecen-Explore-the-Key-Benefits",
       "author": "Iswah Emaan",
       "authorpic": "/I.jpg",
@@ -9957,6 +9987,7 @@
     {
       "id": 36,
       "title": "Best Agriculture Masters Programs for 2024-25",
+      "blogTitle": "Best Agriculture Masters Programs for 2024-25",
       "slug": "Best-Agriculture-Masters-Programs-for-2024-25",
       "author": "Iswah Emaan",
       "authorpic": "/I.jpg",
@@ -10279,6 +10310,7 @@
     {
       "id": 36,
       "title": "Innovate and Lead: Study Engineering Management for a High-Tech Future",
+      "blogTitle": "Innovate and Lead: Study Engineering Management for a High-Tech Future",
       "slug": "Innovate-and-Lead-Study-Engineering-Management-for-a-High-Tech-Future",
       "author": "Iswah Emaan",
       "authorpic": "/I.jpg",
@@ -10634,6 +10666,7 @@
     {
       "id": 35,
       "title": "Master of Business Informatics at the University of Debrecen",
+      "blogTitle": "Master of Business Informatics at the University of Debrecen",
       "slug": "Master-of-Business-Informatics-at-the-University-of-Debrecen",
       "author": "Iswah Emaan",
       "authorpic": "/I.jpg",
@@ -10975,6 +11008,7 @@
     {
       "id": 34,
       "title": "What Can You Do with a Health Sciences Degree? Top Career Paths and Opportunities",
+      "blogTitle": "What Can You Do with a Health Sciences Degree? Top Career Paths and Opportunities",
       "slug": "What-Can-You-Do-with-a-Health-Sciences-Degree-Top-Career-Paths-and-Opportunities",
       "author": "Iswah Emaan",
       "authorpic": "/I.jpg",
@@ -11291,6 +11325,7 @@
     {
       "id": 33,
       "title": "Navigating the Job Market: Career Support and Jobs for International Students in Hungary",
+      "blogTitle": "Navigating the Job Market: Career Support and Jobs for International Students in Hungary",
       "slug": "Navigating-the-Job-Market-Career-Support-and-Jobs-for-International-Students-in-Hungary",
       "author": "Syeda Rabia Batool Naqvi",
       "authorpic": "/R.jpg",
@@ -11711,6 +11746,7 @@
     {
       "id": 32,
       "title": "Join the Digital Revolution: Study Computer Science in Hungary",
+      "blogTitle": "Join the Digital Revolution: Study Computer Science in Hungary",
       "slug": "Join-the-Digital-Revolution-Study-Computer-Science-in-Hungary",
       "author": "Iswah Emaan",
       "authorpic": "/I.jpg",
@@ -11994,6 +12030,7 @@
     {
       "id": 31,
       "title": "Reasons to Study Economy and Business Programs at the University of Debrecen",
+      "blogTitle": "Reasons to Study Economy and Business Programs at the University of Debrecen",
       "slug": "Reasons-to-Study-Economy-and-Business-Programs-at-the-University-of-Debrecen",
       "author": "Iswah Emaan",
       "authorpic": "/I.jpg",
@@ -12301,6 +12338,7 @@
     {
       "id": 30,
       "title": "Study LLM Abroad without Breaking the Bank: A Step-by-Step Guide",
+      "blogTitle": "Study LLM Abroad without Breaking the Bank: A Step-by-Step Guide",
       "slug": "Study-LLM-Abroad-without-Breaking-the-Bank-A-Step-by-Step-Guide",
       "author": "Iswah Emaan",
       "authorpic": "/I.jpg",
@@ -12552,6 +12590,7 @@
     {
       "id": 29,
       "title": "Interesting Facts About Hungary for International Students",
+      "blogTitle": "Interesting Facts About Hungary for International Students",
       "slug": "Interesting-Facts-About-Hungary-for-International-Students",
       "author": "Syeda Rabia Batool Naqvi",
       "authorpic": "/R.jpg",
@@ -12861,6 +12900,7 @@
     {
       "id": 28,
       "title": "Top Benefits of Studying in Central Europe",
+      "blogTitle": "Top Benefits of Studying in Central Europe",
       "slug": "Top-Benefits-of-Studying-in-Central-Europe",
       "author": "Syeda Rabia Batool Naqvi",
       "authorpic": "/R.jpg",
@@ -13203,6 +13243,7 @@
     {
       "id": 27,
       "title": "Unleash Your Potential in a Data-Driven World: Study Data Science at the University of Debrecen",
+      "blogTitle": "Unleash Your Potential in a Data-Driven World: Study Data Science at the University of Debrecen",
       "slug": "Unleash-Your-Potential-in-a-Data-Driven-World-Study-Data-Science-at-the-University-of-Debrecen",
       "author": "Syeda Rabia Batool Naqvi",
       "authorpic": "/R.jpg",
@@ -13506,6 +13547,7 @@
     {
       "id": 26,
       "title": "The Role of Education Consultants",
+      "blogTitle": "The Role of Education Consultants",
       "slug": "The-Role-of-Education-Consultants",
       "author": "Khola Afzal",
       "authorpic": "/K.png",
@@ -13776,6 +13818,7 @@
     {
       "id": 25,
       "title": "Advantages of Studying Abroad",
+      "blogTitle": "Advantages of Studying Abroad",
       "slug": "Advantages-of-Studying-Abroad",
       "author": "Khola Afzal",
       "authorpic": "/K.png",
@@ -14031,6 +14074,7 @@
     {
       "id": 24,
       "title": "Is Hungary Safe for International Students",
+      "blogTitle": "Is Hungary Safe for International Students",
       "slug": "Is-Hungary-Safe-for-International-Students",
       "author": "Khola Afzal",
       "authorpic": "/K.png",
@@ -14353,6 +14397,7 @@
     {
       "id": 23,
       "title": "Can You Work While Studying Abroad in Hungary?",
+      "blogTitle": "Can You Work While Studying Abroad in Hungary?",
       "slug": "Can-You-Work-While-Studying-Abroad-in-Hungary",
       "author": "Khola Afzal",
       "authorpic": "/K.png",
@@ -14624,6 +14669,7 @@
     {
       "id": 22,
       "title": "Online Education vs Traditional Education",
+      "blogTitle": "Online Education vs Traditional Education",
       "slug": "Online-Education-vs-Traditional-Education",
       "author": "Khola Afzal",
       "authorpic": "/K.png",
@@ -14940,6 +14986,7 @@
     {
       "id": 21,
       "title": "One-year Study Abroad Programs in Debrecen",
+      "blogTitle": "One-year Study Abroad Programs in Debrecen",
       "slug": "One-year-Study-Abroad-Programs-in-Debrecen",
       "author": "Khola Afzal",
       "authorpic": "/K.png",
@@ -15291,6 +15338,7 @@
     {
       "id": 20,
       "title": "What Is It Like To Live In Hungary As A Foreigner?",
+      "blogTitle": "What Is It Like To Live In Hungary As A Foreigner?",
       "slug": "What-Is-It-Like-To-Live-In-Hungary-As-A-Foreigner",
       "author": "Khola Afzal",
       "authorpic": "/K.png",
@@ -15647,6 +15695,7 @@
     {
       "id": 19,
       "title": "Why Study Medical from Debrecen?",
+      "blogTitle": "Why Study Medical from Debrecen?",
       "slug": "Why-Study-Medical-from-Debrecen",
       "author": "Khola Afzal",
       "authorpic": "/K.png",
@@ -15794,6 +15843,7 @@
     {
       "id": 19,
       "title": "University of Debrecen Medical Exam Guidelines",
+      "blogTitle": "University of Debrecen Medical Exam Guidelines",
       "slug": "University-of-Debrecen-Medical-Exam-Guidelines",
       "author": "Khola Afzal",
       "authorpic": "/K.png",
@@ -15954,6 +16004,7 @@
     {
       "id": 18,
       "title": "Academic Research at the University of Debrecen",
+      "blogTitle": "Academic Research at the University of Debrecen",
       "slug": "Academic-Research-at-the-University-of-Debrecen",
       "author": "Amina Jamil",
       "authorpic": "/A.png",
@@ -16135,6 +16186,7 @@
     {
       "id": 17,
       "title": "UD International Scholarship 2024",
+      "blogTitle": "UD International Scholarship 2024",
       "slug": "UD-International-Scholarship-2024",
       "author": "Amina Jamil",
       "authorpic": "/A.png",
@@ -16398,6 +16450,7 @@
     {
       "id": 16,
       "title": "How to Stay Safe While Studying Abroad?",
+      "blogTitle": "How to Stay Safe While Studying Abroad?",
       "slug": "How-to-Stay-Safe-While-Studying-Abroad",
       "author": "Amina Jamil",
       "authorpic": "/A.png",
@@ -16653,6 +16706,7 @@
     {
       "id": 15,
       "title": "Exploring the Hungarian Education System",
+      "blogTitle": "Exploring the Hungarian Education System",
       "slug": "Exploring-the-Hungarian-Education-System",
       "author": "Amina Jamil",
       "authorpic": "/A.png",
@@ -16858,6 +16912,7 @@
     {
       "id": 14,
       "title": "Guide to Debrecen: What to Know Before You Go",
+      "blogTitle": "Guide to Debrecen: What to Know Before You Go",
       "slug": "Guide-to-Debrecen-What-to-Know-Before-You-Go",
       "author": "Amina Jamil",
       "authorpic": "/Amina-Jamil-Author-Pic.jpeg",
@@ -17056,6 +17111,7 @@
     {
       "id": 13,
       "title": "Medical Studies in Hungary for International Students",
+      "blogTitle": "Medical Studies in Hungary for International Students",
       "slug": "Medical-Studies-in-Hungary-for-International-Students",
       "author": "Laiba",
       "authorpic": "",
@@ -17494,6 +17550,7 @@
     {
       "id": 12,
       "title": "Study in Hungary for International Students",
+      "blogTitle": "Study in Hungary for International Students",
       "slug": "Study-in-Hungary-for-International-Students",
       "author": "Misha Jami",
       "authorpic": "",
@@ -17996,6 +18053,7 @@
     {
       "id": 11,
       "title": "Top Tips for Success in the University of Debrecen Entrance Exam",
+      "blogTitle": "Top Tips for Success in the University of Debrecen Entrance Exam",
       "slug": "Top-Tips-for-Success-in-the-University-of-Debrecen-Entrance-Exam",
       "author": "Nasika Ijaz",
       "authorpic": "/Nasika Ijaz.jpeg",
@@ -18262,6 +18320,7 @@
     {
       "id": 10,
       "title": "Living Costs in Hungary for International Students",
+      "blogTitle": "Living Costs in Hungary for International Students",
       "slug": "Living-Costs-in-Hungary-for-International-Students",
       "author": "Nasika Ijaz",
       "authorpic": "/Nasika Ijaz.jpeg",
@@ -18511,7 +18570,8 @@
     },
     {
       "id": 9,
-      "title": "What Makes the University of Debrecen in Hungary Stand Out?",
+      "title": "What Makes the University of Debrecen in Hungary Stand Out",
+      "blogTitle": "What Makes the University of Debrecen in Hungary Stand Out?",
       "slug": "What-Makes-the-University-of-Debrecen-in-Hungary-Stand-Out",
       "author": "Nasika Ijaz",
       "authorpic": "/Nasika Ijaz.jpeg",
@@ -18755,6 +18815,7 @@
     {
       "id": 8,
       "title": "University of Debrecen Admission Requirements for International Students",
+      "blogTitle": "The University of Debrecen 2025 - 2026 Admission Requirements for International Students",
       "slug": "University-of-Debrecen-Admission-Requirements-for-International-Students",
       "author": "Nasika Ijaz",
       "authorpic": "/Nasika Ijaz.jpeg",
@@ -18767,15 +18828,19 @@
       "SEOkeywords": "University of Debrecen admission requirements, international students entry requirements, medical universities in Hungary, study abroad requirements",
       "content": [
         {
-          "heading": "University of Debrecen - Excellent Opportunity for International Students",
+          "heading": "Why University of Debrecen is the Best and the Safest European University for International Students",
           "boldtext": "",
           "links": {
             "link_1": {
-              "title": "",
-              "url": ""
+              "title": "best academic and research practices",
+              "url": "https://www.edu.unideb.hu/p/strategy"
+            },
+            "link_2": {
+              "title": "#1 ranked university in Hungary",
+              "url": "https://southasia.edu.unideb.hu/ranking/"
             }
           },
-          "text": "The University of Debrecen (UD), the largest comprehensive university in Central Europe, operates continuously as one of Hungary's oldest universities. It stands proudly as one of the top 3 Hungarian universities, providing world-class education. Hosting more than 7,300 international students from 130+ countries, UD is a multicultural educational hub in Central Europe.",
+          "text": "The University of Debrecen (UD) is the most prestigious, one of the oldest, and the largest public university in Hungary. The unbreakable commitment to the world’s [best academic and research practices](link_1) and the provision of excellent healthcare services has made it the [#1 ranked university in Hungary](link_2)! UD is the largest comprehensive university in Central Europe, and has become a global community of 30,000+ national students and 7,300 international students from 130+ countries.",
           "bullets,": [],
           "images": []
         },
@@ -18784,22 +18849,34 @@
           "boldtext": "",
           "links": {
             "link_1": {
-              "title": "",
-              "url": ""
+              "title": "Globally Accredited Degrees",
+              "url": "https://southasia.edu.unideb.hu/ranking/"
+            },
+            "link_2": {
+              "title": "A Tuition Fee Affordable Even Without Scholarship",
+              "url": "https://www.edu.unideb.hu/p/tuition-fee-application-entrance-fee"
+            },
+            "link_3": {
+              "title": "Internationally Sought-After Programs Across 13 Faculties",
+              "url": "https://southasia.edu.unideb.hu/faculties/"
+            },
+            "link_4": {
+              "title": "Fully Funded Scholarships",
+              "url": "https://southasia.edu.unideb.hu/scholarship/"
             }
           },
-          "text": "UD, the preferred choice for international students, offers:",
+          "text": "In Hungary, UD attracts the largest number of international students because it offers:",
           "bullets,": [
-            "Internationally recognized degrees",
-            "Accredited programs",
-            "Quality education",
-            "Fully funded scholarships",
-            "Affordable tuition"
+            "Globally Accredited Degrees",
+            "A Tuition Fee Affordable Even Without Scholarships",
+            "Guaranteed High Employability Rate for Graduates",
+            "Internationally Sought-After Programs Across 13 Faculties",
+            "Fully Funded Scholarships"
           ],
           "images": []
         },
         {
-          "heading": "University of Debrecen Eligibility Criteria for International Students",
+          "heading": "The University of Debrecen’s Eligibility Criteria for International Students",
           "boldtext": "",
           "links": {
             "link_1": {
@@ -18807,65 +18884,83 @@
               "url": ""
             }
           },
-          "text": "The University of Debrecen welcomes students from diverse backgrounds by providing a lenient eligibility criterion. Eligibility criteria vary based on the chosen program, distinguishing between medical and non-medical programs. For detailed information, students can reach out to the university’s South Asia Regional Office. The eligibility criteria are as follows:",
-          "bullets,": [],
-          "images": []
-        },
-        {
-          "heading": "For Medical Programs ",
-          "boldtext": "",
-          "links": {
-            "link_1": {
-              "title": "",
-              "url": ""
-            }
-          },
-          "text": "Students applying for medical programs at UD typically require 60% marks in Biology, Physics, and Chemistry in previous academic years. Generally, students with marks between 50% to 60% are eligible to apply for medical foundation programs at the university.",
-          "bullets,": [],
-          "images": []
-        },
-        {
-          "heading": "For Non-Medical Programs",
-          "boldtext": "",
-          "links": {
-            "link_1": {
-              "title": "",
-              "url": ""
-            }
-          },
-          "text": "Students applying for non-medical programs typically require 70% marks in English, Maths, Physics, and Chemistry in previous academic years.",
-          "bullets,": [],
-          "images": []
-        },
-        {
-          "heading": "University of Debrecen Admission Process for International Students",
-          "boldtext": "",
-          "links": {
-            "link_1": {
-              "title": "",
-              "url": ""
-            }
-          },
-          "text": "The University of Debrecen provides extensive support to prospective students throughout the admission process. Students can contact the university's regional office to ensure eligibility, receive guidance, and obtain comprehensive support, simplifying the process. Following eligibility confirmation, the admission process at UD is as follows:",
+          "text": "The University of Debrecen upholds lenient eligibility criteria for students from diverse backgrounds. For a sure eligibility check, the students must visit UD’s South Asia Regional Office. There is a slight difference between the eligibility criteria for medical and non-medical programs. ",
           "bullets,": [],
           "images": []
         },
         {
           "heading": "",
-          "boldtext": "Submission of Application:",
+          "boldtext": "Eligibility Criteria for Medical Programs",
           "links": {
             "link_1": {
               "title": "",
               "url": ""
             }
           },
-          "text": "Applicants must download and accurately fill out the application form, submitting it on the university portal through a third party. The third-party comprises the university regional office or a recruitment partner, such as an agent. Alongside the application, applicants must also submit the following documents: ",
+          "text": "For admission in medical programs of the University of Debrecen, students ought to have 60% marks in Biology, Physics, and Chemistry in their previous educational level. In case of lower marks ranging from 50%-60%, students are eligible only for the medical foundation programs at the university.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "Eligibility Criteria for Non-Medical Programs",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "To become eligible for the non-medical programs the students should have 70% marks in English, Maths, Physics, and Chemistry in their previous academic years.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "The University of Debrecen’s Admission Process for International Students",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Extensive support is provided to the prospective students throughout the admission process. To ensure eligibility, receive expert guidance, and comprehensive support for making the process simplified, the students should reach out to the regional office.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "Application Submission",
+          "links": {
+            "link_1": {
+              "title": "download the application form",
+              "url": "https://southasia.edu.unideb.hu/download-app-form/"
+            },
+            "link_2": {
+              "title": "representatives",
+              "url": "https://southasia.edu.unideb.hu/representative/"
+            }
+          },
+          "text": "Once the regional office representatives confirm a student’s eligibility criteria, they must [download the application form](link_1) from the website. The application form needs to be filled accurately, and it can only be submitted on the university portal through the university’s [representatives](link_2), i.e., the university’s regional office or a recruitment partner.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "Required Documents:",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "The students are required to provide UD’s representatives with the following compulsory documents along with their carefully filled application form:",
           "bullets,": [
-            "Certificate of education",
-            "Passport ",
-            "CV",
-            "Medical Certificate ",
-            "Non-refundable 150 USD application fee bank receipt"
+            "Educational Certificates (in case of graduation)",
+            "Transcripts of the last 2-3 academic years along with expected graduation certificate (in case the student is in their final year of education)",
+            "Scanned Copy of the Passport",
+            "CV (personal details, educational background, work experience, language skills, additional skills)",
+            "Medical Certificate",
+            "Bank Receipt of Non-Refundable 150 USD Application Fee"
           ],
           "images": []
         },
@@ -18874,16 +18969,37 @@
           "boldtext": "",
           "links": {
             "link_1": {
-              "title": "",
-              "url": ""
+              "title": "Additional documents",
+              "url": "https://southasia.edu.unideb.hu/application/"
             }
           },
-          "text": "The specific documents needed vary based on the level of education. These documents are necessary for students applying to undergraduate programs.",
+          "text": "* [Additional documents](link_1) could be required in case of master’s and doctoral programs. On the submission of documents, the university examines the application. Then, the selected candidates are notified about the details of their entrance exam.",
           "bullets,": [],
           "images": []
         },
         {
-          "heading": "",
+          "heading": "The University of Debrecen’s Entrance Exam for International Students",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "medical",
+              "url": "https://southasia.edu.unideb.hu/medical-program/"
+            },
+            "link_2": {
+              "title": "non-medical",
+              "url": "https://southasia.edu.unideb.hu/non-medical-program/"
+            },
+            "link_3": {
+              "title": "sample papaers and exam topics",
+              "url": "https://southasia.edu.unideb.hu/sample-paper/"
+            }
+          },
+          "text": "The selected candidates are required to crack the written and oral(interview) entrance exams for getting enrolled in their desired programs. The entrance exam composition will be different for [medical](link_1) and [non-medical](link_2) programs. For better and streamlined preparation, students are provided with the [sample papers and exam topics](link_3). ",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "University of Debrecen Scholarships 2025 - 2026",
           "boldtext": "",
           "links": {
             "link_1": {
@@ -18891,66 +19007,13 @@
               "url": ""
             }
           },
-          "text": "The university assesses the application, and successful applicants receive information about their entrance procedure.",
-          "bullets,": [],
-          "images": []
-        },
-        {
-          "heading": "University of Debrecen Entrance Exam for International Students",
-          "boldtext": "",
-          "links": {
-            "link_1": {
-              "title": "",
-              "url": ""
-            }
-          },
-          "text": "",
-          "bullets,": [],
-          "images": []
-        },
-        {
-          "heading": "",
-          "boldtext": "",
-          "links": {
-            "link_1": {
-              "title": "",
-              "url": ""
-            }
-          },
-          "text": "The University of Debrecen requires international students to undergo an entrance exam and interview. Undergraduate applicants must take a written and oral exam, i.e., an interview. Medical applicants must have Biology, and non-medical applicants must have Maths as a mandatory subject. The entrance procedure differs for undergraduates and graduates. For detailed information on the entrance procedure, click here.",
-          "bullets,": [],
-          "images": []
-        },
-        {
-          "heading": "",
-          "boldtext": "",
-          "links": {
-            "link_1": {
-              "title": "",
-              "url": ""
-            }
-          },
-          "text": "UD facilitates prospective students with sample papers and exam topics to streamline the entrance procedure, ensuring a smooth, hassle-free experience. Access sample papers and exam topics by clicking here.",
-          "bullets,": [],
-          "images": []
-        },
-        {
-          "heading": "University of Debrecen Scholarship 2024",
-          "boldtext": "",
-          "links": {
-            "link_1": {
-              "title": "",
-              "url": ""
-            }
-          },
-          "text": "UD provides an array of scholarships for both current and prospective students, ranging from fully funded to partially funded options. The university acknowledges high-achieving students by providing an academic scholarship to recognize and appreciate their efforts. These scholarships aim to support students financially, ensuring a stress-free study experience. The University of Debrecen  scholarships 2024 encompass the following:",
+          "text": "UD offers a range of partially funded and fully funded scholarships to support the deserving and talented students. Both the enrolled and the prospective students can apply for the following scholarships:",
           "bullets,": [
             "UD International Scholarship",
             "Stipendium Hungaricum Scholarship",
             "Scholarship for Christian Young People (SCYP)",
             "Siblings Discount",
             "Academic Scholarship",
-            "Erasmus+ Program",
             "Diaspora Scholarship"
           ],
           "images": []
@@ -18964,98 +19027,46 @@
               "url": ""
             }
           },
-          "text": "The University of Debrecen, recognized with the award of national excellence, provides affordable world-class education to international students. UD, among the best in Hungary, ensures an exceptional standard of living with state-of-the-art facilities and laboratories. Students at UD enjoy global exposure in a multicultural environment, fostering strong learning and growth. With its high education standards and excellence, UD stands as the best choice for students worldwide.",
+          "text": "The University of Debrecen is known globally for its student friendly operations and received the “University of the Year” title in this regard in 2025. Since 1538, UD has been moving forward onto the road of progress and innovation in academics and research. From music to medicine, each program is designed and delivered by the best Hungarian and international educators. UD has become Hungary’s top-ranked university and the top choice of the students who look for educational excellence, affordability, and safety in a single package. For a prolific educational journey and advanced career opportunities, join the University of Debrecen!",
           "bullets,": [],
           "images": []
         },
         {
           "heading": "FAQs",
-          "boldtext": "",
+          "boldtext": "When will the University of Debrecen’s admission open?",
           "links": {
             "link_1": {
               "title": "",
               "url": ""
             }
           },
-          "text": "",
+          "text": "The University of Debrecen offers two intakes each year, i.e., the September and the February Intake. The September intake is the main intake when all the programs are available. Whereas, medical programs and some other programs are not available in the February intake. ",
           "bullets,": [],
           "images": []
         },
         {
           "heading": "",
-          "boldtext": "What are the University of Debrecen admission requirements for international students?",
+          "boldtext": "Which programs are available in the February intake?",
           "links": {
             "link_1": {
               "title": "",
               "url": ""
             }
           },
-          "text": "The University of Debrecen admission requirements for international students include the following:",
+          "text": "Reach out to the regional office for the latest information about the programs available in the February intake.",
           "bullets,": [],
           "images": []
         },
         {
           "heading": "",
-          "boldtext": "Eligibility Criteria:",
+          "boldtext": "What is the 2025 -2026 QS World University Rankings of the University of Debrecen?",
           "links": {
             "link_1": {
-              "title": "",
-              "url": ""
+              "title": "QS World University Ranking",
+              "url": "https://southasia.edu.unideb.hu/ranking/"
             }
           },
-          "text": "Generally a minimum of 60% marks in Physics, Chemistry, and Biology for medical applicants. A minimum of 60% marks in Physics, Maths, and English for non-medical applicants. ",
-          "bullets,": [],
-          "images": []
-        },
-        {
-          "heading": "",
-          "boldtext": "Documents Submission:",
-          "links": {
-            "link_1": {
-              "title": "",
-              "url": ""
-            }
-          },
-          "text": "Applicants must submit a correctly filled application form along with a certificate of education, passport, CV, medical certificate, and a non-refundable 150 USD application fee bank receipt.",
-          "bullets,": [],
-          "images": []
-        },
-        {
-          "heading": "",
-          "boldtext": "Entrance Procedure:",
-          "links": {
-            "link_1": {
-              "title": "",
-              "url": ""
-            }
-          },
-          "text": "Selected medical applicants must take an entrance exam in Biology, with either Physics or Chemistry as a second subject. Engineering applicants are required to take an entrance exam in Maths with Physics. While Business program applicants need to take an entrance exam in Maths with English. An entrance interview is also conducted for applicants after the exam to assess the communication skills and motivation of applicants.",
-          "bullets,": [],
-          "images": []
-        },
-        {
-          "heading": "",
-          "boldtext": "When is the deadline for the September 2024 intake at the University of Debrecen for international students?",
-          "links": {
-            "link_1": {
-              "title": "",
-              "url": ""
-            }
-          },
-          "text": "The deadline for the September 2024 intake at the University of Debrecen for international students is 15th June 2024.",
-          "bullets,": [],
-          "images": []
-        },
-        {
-          "heading": "",
-          "boldtext": "What is the QS World University Ranking 2024 of the University of Debrecen?",
-          "links": {
-            "link_1": {
-              "title": "",
-              "url": ""
-            }
-          },
-          "text": "The University of Debrecen is ranked #2 in Hungary and #671-680 in the World according to the QS World University Ranking 2024.",
+          "text": "The University of Debrecen ranks at 563rd position in the [QS World University Ranking](link_1) for the year 2025-2026.",
           "bullets,": [],
           "images": []
         }
@@ -19064,6 +19075,7 @@
     {
       "id": 7,
       "title": "Medical Universities in Hungary",
+      "blogTitle": "Medical Universities in Hungary",
       "slug": "Medical-Universities-in-Hungary",
       "author": "Laiba Obaid",
       "authorpic": "/Author_Laiba.jpg",
@@ -19267,6 +19279,7 @@
     {
       "id": 6,
       "title": "Dentistry at the University of Debrecen",
+      "blogTitle": "Dentistry at the University of Debrecen",
       "slug": "Dentistry-at-the-University-of-Debrecen",
       "author": "Laiba Obaid",
       "authorpic": "/Author_Laiba.jpg",
@@ -19526,6 +19539,7 @@
     {
       "id": 5,
       "title": "University of Debrecen Scholarships",
+      "blogTitle": "University of Debrecen Scholarships",
       "slug": "University-of-Debrecen-Scholarships",
       "author": "Laiba Obaid",
       "authorpic": "/Author_Laiba.jpg",
@@ -20084,6 +20098,7 @@
     {
       "id": 4,
       "title": "Cultural Shocks in Hungary for South Asian Students",
+      "blogTitle": "Cultural Shocks in Hungary for South Asian Students",
       "slug": "Cultural-Shocks-in-Hungary-for-South-Asian-Students",
       "author": "Laiba Obaid",
       "authorpic": "/Author_Laiba.jpg",
@@ -20591,6 +20606,7 @@
     {
       "id": 3,
       "title": "The Importance of Mental Health for International Students",
+      "blogTitle": "The Importance of Mental Health for International Students",
       "slug": "The-Importance-of-Mental-Health-for-International-Students",
       "author": "Laiba Obaid",
       "authorpic": "/Author_Laiba.jpg",
@@ -21046,6 +21062,7 @@
     {
       "id": 2,
       "title": "A City on the Rise: Debrecen’s Thriving Business Landscape",
+      "blogTitle": "A City on the Rise: Debrecen’s Thriving Business Landscape",
       "slug": "A-City-on-the-Rise-Debrecens-Thriving-Business-Landscape",
       "author": "Laiba Obaid",
       "authorpic": "/Author_Laiba.jpg",
@@ -21361,6 +21378,7 @@
     {
       "id": 1,
       "title": "Impact of COVID-19 on International Students in Hungary",
+      "blogTitle": "Impact of COVID-19 on International Students in Hungary",
       "slug": "Impact-of-COVID-19-on-International-Students-in-Hungary",
       "author": "Laiba Obaid",
       "authorpic": "/Author_Laiba.jpg",

@@ -50,27 +50,27 @@ const DeadlinesComponent = () => {
           <div>
             <div>
               <h2 className="my-3 font-semibold text-xl text-[#155744]">
-                For January/February 2024/2025 intake:
+                For January/February 2025/2026 intake:
               </h2>
               <ul>
                 <li className="list-disc">
                   Medical programs (only Basic Medicine Course II): 1st November
-                  2024
+                  2025
                 </li>
                 <li className="list-disc">
-                  Other non-medical programs, PhD program: 15th November 2024
+                  Other non-medical programs, PhD program: 15th November 2025
                 </li>
               </ul>
             </div>
 
             <div>
               <h2 className="my-3 font-semibold text-xl text-[#155744]">
-                For September 2025/2026 intake:
+                For September 2026/2027 intake:
               </h2>
               <ul>
-                <li className="list-disc">PhD programs: 15th May 2025</li>
+                <li className="list-disc">PhD programs: 15th May 2026</li>
                 <li className="list-disc">
-                  All other programs: 15th June 2025
+                  All other programs: 15th June 2026
                 </li>
               </ul>
             </div>
@@ -269,7 +269,7 @@ const DeadlinesComponent = () => {
               UD International Scholarship Program
             </h2>
             <ul className="list-disc px-6 text-lg">
-              <li className="">Application Deadline: 30th June, 2024</li>
+              <li className="">Application Deadline: Closed</li>
             </ul>
           </div>
 
@@ -278,8 +278,8 @@ const DeadlinesComponent = () => {
               Stipendium Hungaricum Scholarship Program
             </h2>
             <ul className="list-disc px-6 text-lg">
-              <li>Applications start date: 15th November, 2024</li>
-              <li>Application Deadline: 15th January, 2025</li>
+              <li>Applications start date: Closed</li>
+              {/* <li>Application Deadline: 15th January, 2025</li> */}
             </ul>
           </div>
 
@@ -288,21 +288,30 @@ const DeadlinesComponent = () => {
               Scholarship for Christian Young People (SCYP) Program
             </h2>
             <ul className="list-disc px-6 text-lg">
-              <li>Not announced yet</li>
+              <li>Application Deadline: Closed</li>
             </ul>
           </div>
 
-          <div className="my-4">
+          {/* <div className="my-4">
             <h2 className="text-xl font-bold">Erasmus+ Program (2024 - 25)</h2>
             <ul className="list-disc px-6 text-lg">
               <li>Not announced yet</li>
+            </ul>
+          </div> */}
+
+          <div className="my-4">
+            <h2 className="text-xl font-bold">
+              FAO-Hungarian Government Scholarship Programme 2025 - 2026
+            </h2>
+            <ul className="list-disc px-6 text-lg">
+              <li>Application Deadline: Open until 28 Feb, 2025</li>
             </ul>
           </div>
 
           <div className="my-4">
             <h2 className="text-xl font-bold">Diaspora Scholarship</h2>
             <ul className="list-disc px-6 text-lg">
-              <li>Not announced yet</li>
+              <li>Application Deadline: Closed</li>
             </ul>
           </div>
         </div>

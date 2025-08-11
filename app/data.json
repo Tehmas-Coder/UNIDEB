@@ -9,12 +9,28 @@
 
     "EventsData": [
       {
-        "title": "Official Webinar for UAE Applicants - Zoom",
-        "description": "Representatives from the University of Debrecen Regional Office will host a free live webinar for students interested in applying to the University of Debrecen.",
+        "title": "Najah Dubai",
+        "description": "The University of Debrecen representatives will participate in Najah Dubai, one of the region’s largest higher education expos. This is a prime opportunity for prospective students to connect with our team and explore study options in Hungary.",
         "year": "2025",
-        "month": "July",
-        "date": "12",
+        "month": "Oct",
+        "date": "5-7",
         "location": "Dubai, UAE"
+      },
+      {
+        "title": "BMI In-Person Fair",
+        "description": "Representatives from the University of Debrecen are set to attend the BMI In-Person Fair in Dubai. The event provides an ideal platform for students to meet our team and discuss academic opportunities abroad.",
+        "year": "2025",
+        "month": "Oct",
+        "date": "11-12",
+        "location": "Dubai, UAE"
+      },
+      {
+        "title": "BMI In-Person Fair - Abu Dhabi",
+        "description": "The University of Debrecen team will be present at the BMI In-Person Fair in Abu Dhabi to meet aspiring students, answer queries, and offer guidance on the admissions process.",
+        "year": "2025",
+        "month": "Oct",
+        "date": "13",
+        "location": "Abu Dhabi, UAE"
       }
     ],
     "Overview": {
@@ -95,14 +111,20 @@
     "Deadlines": [
       {
         "date": "15",
-        "month": "MAY",
+        "month": "NOVEMBER",
         "discipline": "PhD",
         "program": "Programs"
       },
       {
+        "date": "1",
+        "month": "NOVEMBER",
+        "discipline": "Medical (only BMC II)",
+        "program": "Programs"
+      },
+      {
         "date": "15",
-        "month": "JUNE",
-        "discipline": "All Other",
+        "month": "NOVEMBER",
+        "discipline": "Other non medical",
         "program": "Programs"
       }
     ]

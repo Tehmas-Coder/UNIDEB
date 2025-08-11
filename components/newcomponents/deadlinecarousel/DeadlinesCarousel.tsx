@@ -27,7 +27,7 @@ const DeadlinesCarousel = () => {
             </p>
           </div>
           <div className="absolute bottom-24">
-            <p className="w-40 text-center text-red-600 font-bold text-2xl">
+            <p className="w-56 text-center text-red-600 font-bold text-2xl">
               <span className="font-bold text-6xl">
                 {HomePageData.Deadlines[0].discipline}
               </span>{" "}
@@ -47,11 +47,31 @@ const DeadlinesCarousel = () => {
             </p>
           </div>
           <div className="absolute bottom-24">
-            <p className="w-40 text-center text-red-600 font-bold text-2xl">
+            <p className="w-56 text-center text-red-600 font-bold text-2xl">
               <span className="font-bold text-4xl">
                 {HomePageData.Deadlines[1].discipline}
               </span>{" "}
               {HomePageData.Deadlines[1].program}
+            </p>
+          </div>
+        </div>
+
+        <div className="flex flex-col justify-center items-center">
+          <img src="/22.png" alt="Slide 1" />
+          <div className="absolute top-10">
+            <p className="text-center text-white text-2xl font-bold w-28">
+              <span className="font-bold text-6xl">
+                {HomePageData.Deadlines[2].date}
+              </span>{" "}
+              {HomePageData.Deadlines[2].month}
+            </p>
+          </div>
+          <div className="absolute bottom-24">
+            <p className="w-56 text-center text-red-600 font-bold text-2xl">
+              <span className="font-bold text-4xl">
+                {HomePageData.Deadlines[2].discipline}
+              </span>{" "}
+              {HomePageData.Deadlines[2].program}
             </p>
           </div>
         </div>

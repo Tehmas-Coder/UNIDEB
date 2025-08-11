@@ -104,7 +104,7 @@ const ArticleDetailPage = ({ params }: { params: { slug: string } }) => {
       <div className="lg:flex items-center justify-between sm:p-6">
         <div className="flex-1">
           <h1 className="lg:text-[50px] text-[30px] font-extrabold lg:leading-[60px] text-[#f5b418] font-nunito">
-            {article.title}
+            {article.blogTitle}
           </h1>
           <div className="flex items-center gap-3 pt-4 text-[#f5b418] font-nunito">
             <div className="flex items-center">
