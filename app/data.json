@@ -9,6 +9,14 @@
 
     "EventsData": [
       {
+        "title": "Free Webinar on Zoom - UAE",
+        "description": " Join our live webinar on 26th September 2025 (5:00–6:00 PM GST) to explore study programs, scholarships, and student life at the University of Debrecen. Hear directly from our Regional International Manager and a Student Ambassador.",
+        "year": "2025",
+        "month": "Sep",
+        "date": "26",
+        "location": "UAE"
+      },
+      {
         "title": "Najah Dubai",
         "description": "The University of Debrecen representatives will participate in Najah Dubai, one of the region’s largest higher education expos. This is a prime opportunity for prospective students to connect with our team and explore study options in Hungary.",
         "year": "2025",
@@ -23,14 +31,6 @@
         "month": "Oct",
         "date": "11-12",
         "location": "Dubai, UAE"
-      },
-      {
-        "title": "BMI In-Person Fair - Abu Dhabi",
-        "description": "The University of Debrecen team will be present at the BMI In-Person Fair in Abu Dhabi to meet aspiring students, answer queries, and offer guidance on the admissions process.",
-        "year": "2025",
-        "month": "Oct",
-        "date": "13",
-        "location": "Abu Dhabi, UAE"
       }
     ],
     "Overview": {
@@ -8688,19 +8688,19 @@
         "title": "Deadlines",
         "text": [
           {
-            "heading": "September 2024/2025 Intake:",
+            "heading": "September 2026/2027 Intake:",
             "context": "",
             "bullets": [
-              "PhD programs: 15th May",
-              "Non-medical programs: 15th June"
+              "PhD programs: 15th May 2026",
+              "All other programs: 15th June 2026"
             ]
           },
           {
-            "heading": "January/February 2023/2024 Intake:",
+            "heading": "January/February 2025/2026 Intake:",
             "context": "",
             "bullets": [
-              "Medical programs (only Basic Medicine Course II): 1st November",
-              "Other non-medical programs, PhD program: 15th November"
+              "Medical programs (only Basic Medicine Course II): 1st November 2025",
+              "Other non-medical programs, PhD program: 15th November 2025"
             ]
           }
         ]

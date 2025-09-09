@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "id": "56",
+      "id": "57",
       "date": "24",
       "month": "Jan",
       "year": "2026",
@@ -18,7 +18,7 @@
       "video": ""
     },
     {
-      "id": "55",
+      "id": "56",
       "date": "26",
       "month": "Nov",
       "year": "2025",
@@ -35,7 +35,7 @@
       "video": ""
     },
     {
-      "id": "54",
+      "id": "55",
       "date": "22",
       "month": "Nov",
       "year": "2025",
@@ -52,7 +52,7 @@
       "video": ""
     },
     {
-      "id": "53",
+      "id": "54",
       "date": "15-17",
       "month": "Nov",
       "year": "2025",
@@ -69,7 +69,7 @@
       "video": ""
     },
     {
-      "id": "52",
+      "id": "53",
       "date": "15-16",
       "month": "Nov",
       "year": "2025",
@@ -86,7 +86,7 @@
       "video": ""
     },
     {
-      "id": "51",
+      "id": "52",
       "date": "12-13",
       "month": "Nov",
       "year": "2025",
@@ -103,7 +103,7 @@
       "video": ""
     },
     {
-      "id": "50",
+      "id": "51",
       "date": "14-15",
       "month": "Oct",
       "year": "2025",
@@ -120,7 +120,7 @@
       "video": ""
     },
     {
-      "id": "49",
+      "id": "50",
       "date": "13",
       "month": "Oct",
       "year": "2025",
@@ -137,7 +137,7 @@
       "video": ""
     },
     {
-      "id": "48",
+      "id": "49",
       "date": "11-12",
       "month": "Oct",
       "year": "2025",
@@ -154,7 +154,7 @@
       "video": ""
     },
     {
-      "id": "47",
+      "id": "48",
       "date": "5-7",
       "month": "Oct",
       "year": "2025",
@@ -163,6 +163,23 @@
       "city": "Dubai",
       "country": "UAE",
       "days": "2 Days",
+      "venue": "",
+      "time": "",
+      "SEOdesc": "",
+      "SEOkeywords": "",
+      "images": [],
+      "video": ""
+    },
+    {
+      "id": "47",
+      "date": "6",
+      "month": "Sep",
+      "year": "2025",
+      "desc": " Join our live webinar on 26th September 2025 (5:00–6:00 PM GST) to explore study programs, scholarships, and student life at the University of Debrecen. Hear directly from our Regional International Manager and a Student Ambassador.",
+      "title": "Free Webinar on Zoom",
+      "city": "UAE",
+      "country": "UAE",
+      "days": "1 Day",
       "venue": "",
       "time": "",
       "SEOdesc": "",

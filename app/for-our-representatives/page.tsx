@@ -79,11 +79,6 @@ const ForOurRepresentatives = () => {
       program: "marketing",
     },
     {
-      name: "Ms. Katalin Tatár-Györe",
-      email: "katalin@edu.unideb.hu",
-      program: "partner coordinator and commission",
-    },
-    {
       name: "Ms. Angelika Kiss",
       email: "kiss.angelika@edu.unideb.hu",
       program: "partner coordinator",
