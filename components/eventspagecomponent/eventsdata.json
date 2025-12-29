@@ -1,12 +1,29 @@
 {
   "data": [
     {
-      "id": "57",
+      "id": "58",
       "date": "24",
       "month": "Jan",
       "year": "2026",
       "desc": "Applicants for the Medical and Health Sciences programmes based in the UAE will sit for their entrance exam on January 24th in Dubai. Further venue details will be shared with registered candidates in due course.",
       "title": "Medical & Health Sciences Entrance Exam",
+      "city": "Dubai",
+      "country": "UAE",
+      "days": "1 Day",
+      "venue": "",
+      "time": "",
+      "SEOdesc": "",
+      "SEOkeywords": "",
+      "images": [],
+      "video": ""
+    },
+    {
+      "id": "57",
+      "date": "10",
+      "month": "Jan",
+      "year": "2026",
+      "desc": "Join the University of Debrecen team for a live Zoom webinar from 1:00 PM to 2:00 PM (Asia/Dubai time). This session is designed for UAE-based applicants interested in studying in the Univeristy of Debrecen. Learn more about the entrance exam, application process, and academic opportunities.",
+      "title": "Official Webinar for UAE Applicants",
       "city": "Dubai",
       "country": "UAE",
       "days": "1 Day",

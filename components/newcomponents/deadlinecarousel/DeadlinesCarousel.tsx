@@ -19,11 +19,11 @@ const DeadlinesCarousel = () => {
         <div className="flex flex-col justify-center items-center">
           <img src="/22.png" alt="Slide 1" />
           <div className="absolute top-10">
-            <p className="text-center text-white text-2xl font-bold w-28">
+            <p className="text-center text-white text-2xl font-bold w-36">
               <span className="font-bold text-6xl">
                 {HomePageData.Deadlines[0].date}
               </span>{" "}
-              {HomePageData.Deadlines[0].month}
+              <br /> {HomePageData.Deadlines[0].month}
             </p>
           </div>
           <div className="absolute bottom-24">
@@ -39,16 +39,16 @@ const DeadlinesCarousel = () => {
         <div className="flex flex-col justify-center items-center">
           <img src="/22.png" alt="Slide 1" />
           <div className="absolute top-10">
-            <p className="text-center text-white text-2xl font-bold w-28">
+            <p className="text-center text-white text-2xl font-bold w-36">
               <span className="font-bold text-6xl">
                 {HomePageData.Deadlines[1].date}
               </span>{" "}
-              {HomePageData.Deadlines[1].month}
+              <br /> {HomePageData.Deadlines[1].month}
             </p>
           </div>
-          <div className="absolute bottom-24">
+          <div className="absolute bottom-20">
             <p className="w-56 text-center text-red-600 font-bold text-2xl">
-              <span className="font-bold text-4xl">
+              <span className="font-bold text-6xl">
                 {HomePageData.Deadlines[1].discipline}
               </span>{" "}
               {HomePageData.Deadlines[1].program}
@@ -56,7 +56,7 @@ const DeadlinesCarousel = () => {
           </div>
         </div>
 
-        <div className="flex flex-col justify-center items-center">
+        {/* <div className="flex flex-col justify-center items-center">
           <img src="/22.png" alt="Slide 1" />
           <div className="absolute top-10">
             <p className="text-center text-white text-2xl font-bold w-28">
@@ -74,7 +74,7 @@ const DeadlinesCarousel = () => {
               {HomePageData.Deadlines[2].program}
             </p>
           </div>
-        </div>
+        </div> */}
       </Carousel>
     </div>
   );

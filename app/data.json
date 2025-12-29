@@ -9,27 +9,19 @@
 
     "EventsData": [
       {
-        "title": "Free Webinar on Zoom - UAE",
-        "description": " Join our live webinar on 26th September 2025 (5:00–6:00 PM GST) to explore study programs, scholarships, and student life at the University of Debrecen. Hear directly from our Regional International Manager and a Student Ambassador.",
-        "year": "2025",
-        "month": "Sep",
-        "date": "26",
+        "title": "Official Webinar for UAE Applicants",
+        "description": "Join the University of Debrecen team for a live Zoom webinar from 1:00 PM to 2:00 PM (Asia/Dubai time). This session is designed for UAE-based applicants interested in studying in the Univeristy of Debrecen. Learn more about the entrance exam, application process, and academic opportunities.",
+        "year": "2026",
+        "month": "Jan",
+        "date": "10",
         "location": "UAE"
       },
       {
-        "title": "Najah Dubai",
-        "description": "The University of Debrecen representatives will participate in Najah Dubai, one of the region’s largest higher education expos. This is a prime opportunity for prospective students to connect with our team and explore study options in Hungary.",
-        "year": "2025",
-        "month": "Oct",
-        "date": "5-7",
-        "location": "Dubai, UAE"
-      },
-      {
-        "title": "BMI In-Person Fair",
-        "description": "Representatives from the University of Debrecen are set to attend the BMI In-Person Fair in Dubai. The event provides an ideal platform for students to meet our team and discuss academic opportunities abroad.",
-        "year": "2025",
-        "month": "Oct",
-        "date": "11-12",
+        "title": "Medical & Health Sciences Entrance Exam",
+        "description": "Applicants for the Medical and Health Sciences programmes based in the UAE will sit for their entrance exam on January 24th in Dubai. Further venue details will be shared with registered candidates in due course.",
+        "year": "2026",
+        "month": "Jan",
+        "date": "24",
         "location": "Dubai, UAE"
       }
     ],
@@ -111,20 +103,14 @@
     "Deadlines": [
       {
         "date": "15",
-        "month": "NOVEMBER",
+        "month": "MAY 2026",
         "discipline": "PhD",
         "program": "Programs"
       },
       {
-        "date": "1",
-        "month": "NOVEMBER",
-        "discipline": "Medical (only BMC II)",
-        "program": "Programs"
-      },
-      {
         "date": "15",
-        "month": "NOVEMBER",
-        "discipline": "Other non medical",
+        "month": "JUNE 2026",
+        "discipline": "All Other",
         "program": "Programs"
       }
     ]
@@ -10509,6 +10495,7 @@
           "links": {},
           "text": "",
           "bullets": [
+            "The tuition fee discount may vary by study program.",
             "For the Medicine and Dentistry programs, the tuition fee discount is maximum 30% of the full annual tuition fee.",
             "For all other programs, the tuition fee discount is maximum 90% of the full annual tuition fee.",
             "The extent of the discount depends on the academic background and the entrance examination performance of the applicant."
@@ -10527,7 +10514,7 @@
           "subheading": "",
           "yellowheading": "",
           "links": {},
-          "text": "Albania, Andorra, Argentina, Armenia, Australia, Austria, Azerbaijan, Belarus, Belgium, Bolivia, Bosnia and Herzegovina, Brazil, Bulgaria, Canada, Chile, China, Colombia, Croatia, Cuba, Cyprus, Czech Republic, Denmark, Ecuador, Egypt, Estonia, Finland, France, French Guiana, Georgia, Germany, Greece, Guyana, Iceland, India, Indonesia, Ireland, Israel, Italy, Japan, Jordan, Kazakhstan, Kyrgyzstan, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Malta, Mexico, Moldova, Monaco, Mongolia, Montenegro, Namibia, Netherlands, New Zealand, North Macedonia, Norway, Paraguay, Peru, Philippines, Poland, Portugal, Qatar, Republic of South Africa, Romania, Russia, San Marino, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, South Korea, Spain, Sweden, Switzerland, Tajikistan, Turkey, Turkmenistan, Ukraine, United Arab Emirates, United Kingdom, United States of America, Uruguay, Uzbekistan, Venezuela, Vietnam",
+          "text": "Albania, Andorra, Argentina, Armenia, Australia, Austria, Azerbaijan, Belarus, Belgium, Bolivia, Bosnia and Herzegovina, Brazil, Bulgaria, Canada, Chile, China, Colombia, Croatia, Cuba, Cyprus, Czech Republic, Denmark, Ecuador, Egypt, Estonia, Finland, France, French Guiana, Georgia, Germany, Greece, Guyana, Iceland, India, Indonesia, Ireland, Israel, Italy, Japan, Jordan, Kazakhstan, Kyrgyzstan, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Malta, Mexico, Moldova, Monaco, Mongolia, Montenegro, Namibia, Netherlands, New Zealand, North Macedonia, Norway, Paraguay, Peru, Philippines, Poland, Portugal, Qatar, Republic of South Africa, Romania, Russia, San Marino, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, South Korea, Spain, Sweden, Switzerland, Tajikistan, Türkiye, Turkmenistan, Ukraine, United Arab Emirates, United Kingdom, United States of America, Uruguay, Uzbekistan, Venezuela, Vietnam",
           "bullets": []
         },
         {
@@ -10711,7 +10698,7 @@
             "Biotechnology, BSc",
             "Physics, BSc",
             "Chemistry, BSc",
-            "​Earth Sciences, BSc",
+            "Earth Sciences, BSc",
             "Mathematics, BSc"
           ]
         },
@@ -10975,7 +10962,7 @@
           "subheading": "",
           "yellowheading": "",
           "links": {},
-          "text": "There is no designated deadline for the scholarship application. Applications can be submitted continuously until the scholarship budget and program seat capacities allow. However, the official application deadlines for all University of Debrecen International Degree Programs apply (15 June, 2024).",
+          "text": "There is no designated deadline for the scholarship application. Applications can be submitted continuously until the scholarship budget and program seat capacities allow. However, the official application deadlines for all University of Debrecen International Degree Programs apply (15 June, 2025).",
           "bullets": []
         },
         {
@@ -11007,7 +10994,7 @@
       "content": [
         {
           "heading": "",
-          "subheading": "Application starts in November!",
+          "subheading": "Application starts in November, 2025",
           "yellowheading": "",
           "links": {},
           "text": "",
@@ -11027,7 +11014,7 @@
           "bullets": [
             "Before submitting your application, please read the current Call for Application carefully (stipendiumhungaricum.hu),",
             "In case you are interested contact the sending partner in your country;",
-            "With the help of the application guide submit all the necessary application documents to the online application system of Tempus Public Foundation (TPF). The application platform will be open from November 15, 2024.",
+            "With the help of the application guide, submit all the necessary application documents to the online application system of Tempus Public Foundation (TPF). The application platform will be open from November 2025.",
             "Select the University of Debrecen",
             "You are entitled to apply for two programmes. "
           ]
@@ -11037,21 +11024,21 @@
           "subheading": "",
           "yellowheading": "",
           "links": {},
-          "text": "The Hungarian government provides the Stipendium Hungaricum academic scholarship for international students. Stipendium Hungaricum full scholarship includes:",
-          "bullets": [
-            "Free tuition for the entire duration of studies.",
-            "Monthly grant for students of Bachelor, Master or PhD program.",
-            "Contribution to accommodation",
-            "Free medical insurance for the entire duration of a BSc, MSc or PhD program."
-          ]
+          "text": "The Hungarian government provides the Stipendium Hungaricum academic scholarship for international students.",
+          "bullets": []
         },
         {
           "heading": "",
           "subheading": "",
           "yellowheading": "",
           "links": {},
-          "text": "With the Stipendium Hungaricum scholarship you can study at the University of Debrecen for free.",
-          "bullets": []
+          "text": "Stipendium Hungaricum full scholarship includes:",
+          "bullets": [
+            "Free tuition for the entire duration of studies.",
+            "Monthly grant for students of Bachelor, Master or PhD program.",
+            "Contribution to accommodation",
+            "Free medical insurance for the entire duration of a BSc, MSc or PhD program."
+          ]
         },
         {
           "heading": "Choose the University of Debrecen",
@@ -11063,9 +11050,9 @@
             "The University of Debrecen is a government supported public research university.",
             "Our campus is located in a natural forest area that is under international environmental protection.",
             "We offer internationally competitive degrees widely recognized, even outside the European Economic Area (EEA) countries.",
-            "30,000 students",
-            "7000 international students",
-            "from over 110 countries",
+            "31,000 students",
+            "7,600 international students",
+            "from over 130 countries",
             "13 faculties",
             "8 campuses",
             "500+ research labs",
@@ -11085,7 +11072,7 @@
               "url": "https://southasia.edu.unideb.hu/ranking/"
             }
           },
-          "text": "To check the position of the UD in  international higher education rankings, please click HERE.",
+          "text": "To check the position of the UD in international higher education rankings, please click HERE.",
           "bullets": []
         },
         {
@@ -11149,7 +11136,7 @@
           "subheading": "",
           "yellowheading": "",
           "links": {},
-          "text": "Eligible programs vary per country.",
+          "text": "The list of available programs vary per country.",
           "bullets": []
         },
         {
@@ -11241,7 +11228,7 @@
           "text": "",
           "bullets": [
             "Tempus forwards the nominated applications to the University of Debrecen",
-            "The University of Debrecen conducts the formal check and informs the formally correct applicants about the details (date and method) of the entrance exam/interview. ",
+            "The University of Debrecen conducts the formal check of application documents and informs students with a formally correct application about the details (date and method) of the entrance exam/interview. ",
             "The university forwards the result of the entrance procedure to TPF."
           ]
         },
@@ -11255,10 +11242,23 @@
         },
         {
           "heading": "",
-          "subheading": "Application opens in November!",
+          "subheading": "",
+          "yellowheading": "",
+          "links": {
+            "links_1": {
+              "title": "www.stipendiumhungaricum.hu",
+              "url": "https://stipendiumhungaricum.hu/"
+            }
+          },
+          "text": "Official website of the Stipendium Hungaricum full scholarship: www.stipendiumhungaricum.hu",
+          "bullets": []
+        },
+        {
+          "heading": "",
+          "subheading": "",
           "yellowheading": "",
           "links": {},
-          "text": "",
+          "text": "If you have any question, send us an email to shinfo@edu.unideb.hu ",
           "bullets": []
         }
       ]
@@ -11367,6 +11367,14 @@
       "content": [
         {
           "heading": "",
+          "subheading": "Application is now open.",
+          "yellowheading": "",
+          "links": {},
+          "text": "Apply until 2 February, 14:00 CET",
+          "bullets": []
+        },
+        {
+          "heading": "",
           "subheading": "",
           "yellowheading": "",
           "links": {},
@@ -11390,7 +11398,6 @@
           "bullets": [
             "Tuition-free education: exemption from the payment of tuition fee.",
             "Monthly stipend (upon request)",
-            "Proof of language proficiency",
             "Accommodation: dormitory placement OR a monthly contribution of HUF 40 000 to accommodation costs for the whole duration of the scholarship period. (upon request)",
             "Medical insurance"
           ]
@@ -11417,6 +11424,14 @@
           "yellowheading": "",
           "links": {},
           "text": "Furthermore, applicants shall obtain a recommendation from a Hungarian diaspora organization or a Hungarian Diplomatic Representation of the respective country",
+          "bullets": []
+        },
+        {
+          "heading": "",
+          "subheading": "",
+          "yellowheading": "",
+          "links": {},
+          "text": "Application deadline: 2 February, 2026",
           "bullets": []
         },
         {
@@ -11460,14 +11475,6 @@
             }
           },
           "text": "Visit Here",
-          "bullets": []
-        },
-        {
-          "heading": "Application Deadline:",
-          "subheading": "",
-          "yellowheading": "",
-          "links": {},
-          "text": "January 31, 2024",
           "bullets": []
         }
       ]

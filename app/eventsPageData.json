@@ -2,6 +2,14 @@
   "data": {
     "imagesExpo": [
       {
+        "image_url": "/Chitagong Bangladesh (1).jpg",
+        "title": "Chittagong, Bangladesh 2025"
+      },
+      {
+        "image_url": "/Chitagong Bangladesh (2).jpg",
+        "title": "Chittagong, Bangladesh 2025"
+      },
+      {
         "image_url": "/Suriya Expo 1.jpg",
         "title": "Dhaka, Bangladesh 2025"
       },
@@ -15,19 +23,19 @@
       },
       {
         "image_url": "/UAE Najah expo 1.jpg",
-        "title": "Dhaka, Bangladesh 2025"
+        "title": "Dubai, UAE 2025"
       },
       {
         "image_url": "/UAE Najah expo 2.jpg",
-        "title": "Dhaka, Bangladesh 2025"
+        "title": "Dubai, UAE 2025"
       },
       {
         "image_url": "/UAE Najah expo 3.jpg",
-        "title": "Dhaka, Bangladesh 2025"
+        "title": "Dubai, UAE 2025"
       },
       {
         "image_url": "/UAE Najah expo 4.jpg",
-        "title": "Dhaka, Bangladesh 2025"
+        "title": "Dubai, UAE 2025"
       },
       {
         "image_url": "/Dhaka Bangladesh (1).jpg",
@@ -312,6 +320,42 @@
     ],
 
     "imagesInfo": [
+      {
+        "image_url": "/Bangladesh Agents Info Day (1).jpg",
+        "title": "Agents Info Day Bangladesh"
+      },
+      {
+        "image_url": "/Bangladesh Agents Info Day (2).jpg",
+        "title": "Agents Info Day Bangladesh"
+      },
+      {
+        "image_url": "/Bangladesh Agents Info Day (3).jpg",
+        "title": "Agents Info Day Bangladesh"
+      },
+      {
+        "image_url": "/Bangladesh Agents Info Day (4).jpg",
+        "title": "Agents Info Day Bangladesh"
+      },
+      {
+        "image_url": "/Bangladesh Agents Info Day (5).jpg",
+        "title": "Agents Info Day Bangladesh"
+      },
+      {
+        "image_url": "/Bangladesh Agents Info Day (6).jpg",
+        "title": "Agents Info Day Bangladesh"
+      },
+      {
+        "image_url": "/Bangladesh Agents Info Day (7).jpg",
+        "title": "Agents Info Day Bangladesh"
+      },
+      {
+        "image_url": "/Bangladesh Agents Info Day (8).jpg",
+        "title": "Agents Info Day Bangladesh"
+      },
+      {
+        "image_url": "/Bangladesh Agents Info Day (9).jpg",
+        "title": "Agents Info Day Bangladesh"
+      },
       {
         "image_url": "/info day 9.jpg",
         "title": "Info day"

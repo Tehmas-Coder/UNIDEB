@@ -17,12 +17,12 @@ const UniDetails = () => {
       >
         {HomePageData.UniDetails.admissionsOpen} <br />
         <span className="text-md lg:text-2xl font-normal">
-          For February 2026 Intake
+          For September 2026 Intake
         </span>
       </h1>
       <div className="">
         <Link
-          href="https://akconsultants.agentcisapp.com/online-form/university-of-debrecen"
+          href="https://forms.zohopublic.com/eduapply1/form/LeadForm/formperma/HQ44ZvwvJSk18kGU8l1iRyeA4BTVuEHA6Xi7xsYJ6_E"
           target="_blank"
         >
           <button className="bg-[#F5B418] text-white px-[60px] ml-6 font-bold border-[#F5B418] py-4 rounded-3xl hover:bg-transparent hover:text-[#F5B418] hover:border hover:border-white transition duration-300">

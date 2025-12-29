@@ -26,7 +26,7 @@ export const metadata: Metadata = {
 const page = () => {
   const scholarshipNames = [
     "UD International Scholarship",
-    "Stipendium Hungaricum Scholarship",
+    "Stipendium Hungaricum Scholarship open until 15 January 2026",
     "Scholarship for Christian Young People (SCYP)",
     "Siblings Discount",
     "Academic Scholarship",
@@ -56,8 +56,8 @@ const page = () => {
                   <span
                     dangerouslySetInnerHTML={{
                       __html: name.replace(
-                        "NOW OPEN",
-                        `<span class="bg-[#F5B418] p-1 font-bold animate-pulse">NOW OPEN !</span>`
+                        "open until 15 January 2026",
+                        `<span class="bg-[#F5B418] p-1 font-bold animate-pulse">- open until 15 January 2026</span>`
                       ),
                     }}
                   />
