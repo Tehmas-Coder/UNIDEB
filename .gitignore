@@ -38,3 +38,5 @@ next-env.d.ts
 # Large zip files
 public/zip/Pictures.zip
 public/zip/Rollups.zip
+
+.env
