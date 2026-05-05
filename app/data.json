@@ -9,20 +9,28 @@
 
     "EventsData": [
       {
-        "title": "Official Webinar for UAE Applicants",
-        "description": "Join the University of Debrecen team for a live Zoom webinar from 1:00 PM to 2:00 PM (Asia/Dubai time). This session is designed for UAE-based applicants interested in studying in the Univeristy of Debrecen. Learn more about the entrance exam, application process, and academic opportunities.",
+        "title": "BMI High School Visits",
+        "description": "We are going to visit high schools in Abu Dhabi to guide students and answer their questions about studying at the University of Debrecen.",
         "year": "2026",
-        "month": "Jan",
-        "date": "10",
-        "location": "UAE"
+        "month": "Apr",
+        "date": "22",
+        "location": "Abu Dhabi, UAE"
       },
       {
-        "title": "Medical & Health Sciences Entrance Exam",
-        "description": "Applicants for the Medical and Health Sciences programmes based in the UAE will sit for their entrance exam on January 24th in Dubai. Further venue details will be shared with registered candidates in due course.",
+        "title": "BMI High School Visits",
+        "description": "We are going to visit selected high schools in Dubai to connect with students and share information about study opportunities at the University of Debrecen.",
         "year": "2026",
-        "month": "Jan",
-        "date": "24",
+        "month": "Apr",
+        "date": "18-19",
         "location": "Dubai, UAE"
+      },
+      {
+        "title": "BMI In-Person Education Fair",
+        "description": "We will participate in the BMI In-Person Education Fair in Abu Dhabi, meeting prospective students and discussing the programs offered by the University of Debrecen.",
+        "year": "2026",
+        "month": "Apr",
+        "date": "23",
+        "location": "Abu Dhabi, UAE"
       }
     ],
     "Overview": {
@@ -8310,13 +8318,13 @@
       {
         "id": 1,
         "image": "/Medical Programs.jpeg",
-        "pdf": "/pdf/Application_form_MED_2025.pdf",
+        "pdf": "/pdf/Application_form_MED_2026.pdf",
         "name": "Medical"
       },
       {
         "id": 2,
         "image": "/Non Medical.jpeg",
-        "pdf": "/pdf/Application_form_NONMED_2025.pdf",
+        "pdf": "/pdf/Application_form_NONMED_2026.pdf",
         "name": "Non Medical"
       }
     ],

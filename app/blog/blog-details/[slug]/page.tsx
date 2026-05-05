@@ -6,12 +6,14 @@ import { BiTimeFive } from "react-icons/bi";
 import { FaUser, FaArrowLeft, FaArrowUp } from "react-icons/fa";
 // import ContactForm from "@/components/common/form/ContactForm";
 import { Metadata } from "next";
+import { Table } from "antd";
 
 type Props = {
   params: { slug: string };
 };
 
 let blogID: number;
+
 export const generateMetadata = ({ params }: Props): Metadata => {
   const desc = `${blogdata.articles[blogID].SEOdesc}`;
   return {
@@ -181,6 +183,17 @@ const ArticleDetailPage = ({ params }: { params: { slug: string } }) => {
                 __html: replaceTextWithLinks(section.text, section.links),
               }}
             />
+            
+            {(section as any)?.tableData && (section as any)?.columns && (
+              <Table
+                dataSource={(section as any)?.tableData}
+                columns={(section as any)?.columns}
+                bordered
+                className="mt-5"
+                pagination={false}
+              />
+            )}
+
             <div className="mx-4">
               {section["bullets,"] && (
                 <ul className="text-[16px] gap-2 lg:text-[18px] flex flex-col list-disc">

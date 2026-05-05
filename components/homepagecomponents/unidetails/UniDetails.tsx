@@ -22,7 +22,8 @@ const UniDetails = () => {
       </h1>
       <div className="">
         <Link
-          href="https://forms.zohopublic.com/eduapply1/form/LeadForm/formperma/HQ44ZvwvJSk18kGU8l1iRyeA4BTVuEHA6Xi7xsYJ6_E"
+          // href="https://forms.zohopublic.com/eduapply1/form/LeadForm/formperma/HQ44ZvwvJSk18kGU8l1iRyeA4BTVuEHA6Xi7xsYJ6_E"
+          href="https://apply.southasia.edu.unideb.hu/"
           target="_blank"
         >
           <button className="bg-[#F5B418] text-white px-[60px] ml-6 font-bold border-[#F5B418] py-4 rounded-3xl hover:bg-transparent hover:text-[#F5B418] hover:border hover:border-white transition duration-300">

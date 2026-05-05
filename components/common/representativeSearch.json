@@ -168,6 +168,18 @@
           "Timing": "",
           "lat": "25.25",
           "long": "55.30"
+        },
+        {
+          "organizationName": "UNIHAWK",
+          "representative": "",
+          "address": "1701, Al Saqr Business Tower, DIFC, Sheikh Zayed Road, Dubai, UAE",
+          "tel": "+971501075649",
+          "mobile": "+971501075649",
+          "email": "info@unihawk.com / partnerships@unihawk.com",
+          "website": "https://www.unihawk.com",
+          "Timing": "",
+          "lat": "",
+          "long": ""
         }
       ]
     },
@@ -200,7 +212,7 @@
         },
         {
           "organizationName": "RBN Education",
-          "representative": "Md Nahid Noushin",
+          "representative": "MD Abu Rayhan CEO",
           "address": "2nd Floor, Signal, Chandrashila Suvastu Tower, 69, 1 Panthapath, Dhaka 1205",
           "tel": "01810183132",
           "mobile": "",
