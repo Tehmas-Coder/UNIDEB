@@ -5,6 +5,7 @@ import Header from "@/components/common/header/Header";
 import Footer from "@/components/common/footer/Footer";
 import ScrollToTop from "@/components/scrolltotop/ScrollToTop";
 import Whatsapp from "@/components/whatsapp/whatsapp";
+import ZapierChatbot from "@/components/chatbot/ZapierChatbox";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -51,6 +52,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
           {children}
           <ScrollToTop />
           <Whatsapp />
+          <ZapierChatbot />
         </main>
         <Footer />
       </body>
