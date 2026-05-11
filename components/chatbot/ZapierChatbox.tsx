@@ -38,10 +38,3 @@ const ZapierChatbot = () => {
 };
 
 export default ZapierChatbot;
-
-{
-  /* <script async type='module' src='https://interfaces.zapier.com/assets/web-components/zapier-interfaces/zapier-interfaces.esm.js'></script> */
-}
-{
-  /* <zapier-interfaces-chatbot-embed is-popup='true' chatbot-id='cmp0x6as8005ef5oz9obu6m3g'></zapier-interfaces-chatbot-embed> */
-}
