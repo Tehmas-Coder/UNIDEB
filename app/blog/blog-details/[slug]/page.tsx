@@ -36,7 +36,7 @@ export const generateMetadata = ({ params }: Props): Metadata => {
 
 const ContactForm = dynamic(
   () => import("@/components/common/form/ContactForm"),
-  { ssr: false }
+  { ssr: false },
 );
 export const dynamicParams = false;
 
@@ -56,9 +56,19 @@ const ArticleDetailPage = ({ params }: { params: { slug: string } }) => {
     Object.keys(links).forEach((key) => {
       const link = links[key];
       const linkPattern = new RegExp(`\\[${link.title}\\]\\(${key}\\)`, "g");
+
+      let attributes = 'target="_blank" rel="noopener noreferrer"';
+
+      // For phone and email links, don't open in new tab
+      if (link.type === "phone" || link.type === "email") {
+        attributes = "";
+      }
+
+      const attrs = attributes ? ` ${attributes}` : "";
+
       newText = newText.replace(
         linkPattern,
-        `<a class="text-[#F5B418] font-semibold hover:underline" href="${link.url}" target="_blank" rel="noopener noreferrer">${link.title}</a>`
+        `<a class="text-[#F5B418] font-semibold hover:underline" href="${link.url}"${attrs}>${link.title}</a>`,
       );
     });
 
@@ -171,7 +181,7 @@ const ArticleDetailPage = ({ params }: { params: { slug: string } }) => {
                   dangerouslySetInnerHTML={{
                     __html: replaceTextWithLinks(
                       section.boldtext,
-                      section.links
+                      section.links,
                     ),
                   }}
                 />
@@ -183,7 +193,7 @@ const ArticleDetailPage = ({ params }: { params: { slug: string } }) => {
                 __html: replaceTextWithLinks(section.text, section.links),
               }}
             />
-            
+
             {(section as any)?.tableData && (section as any)?.columns && (
               <Table
                 dataSource={(section as any)?.tableData}
@@ -199,8 +209,13 @@ const ArticleDetailPage = ({ params }: { params: { slug: string } }) => {
                 <ul className="text-[16px] gap-2 lg:text-[18px] flex flex-col list-disc">
                   {Object.values(section["bullets,"]).map(
                     (bullet: string, bulletIndex: number) => (
-                      <li key={bulletIndex}>{bullet}</li>
-                    )
+                      <li
+                        key={bulletIndex}
+                        dangerouslySetInnerHTML={{
+                          __html: replaceTextWithLinks(bullet, section.links),
+                        }}
+                      />
+                    ),
                   )}
                 </ul>
               )}
@@ -222,14 +237,6 @@ const ArticleDetailPage = ({ params }: { params: { slug: string } }) => {
         </h1>
         <ContactForm />
       </div>
-      {/* {showScrollButton && (
-        <button
-          className="fixed bottom-4 right-4 text-white bg-[#f5b418] py-4 px-4 rounded-full"
-          onClick={scrollToTop}
-        >
-          <FaArrowUp />
-        </button>
-      )} */}
     </div>
   );
 };

@@ -15,7 +15,7 @@ const Whatsapp = () => {
   };
 
   return (
-    <div className="fixed bottom-10 left-5 sm:left-16">
+    <div className="fixed bottom-14 left-2">
       <button className="text-green-600" onClick={handleClick}>
         <FaWhatsapp size={52} className="" />
       </button>
