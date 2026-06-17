@@ -50,15 +50,16 @@ const DeadlinesComponent = () => {
           <div>
             <div>
               <h2 className="my-3 font-semibold text-xl text-[#155744]">
-                For January/February 2025/2026 intake:
+                For February 2027 intake:
               </h2>
               <ul>
                 <li className="list-disc">
                   Medical programs (only Basic Medicine Course II): 1st November
-                  2025
+                  2026
                 </li>
                 <li className="list-disc">
-                  Other non-medical programs, PhD program: 15th November 2025
+                  Other non-medical programs, Master’s programs, and PhD
+                  programs: 1st November 2026
                 </li>
               </ul>
             </div>

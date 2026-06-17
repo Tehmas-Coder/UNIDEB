@@ -33,6 +33,7 @@
         "location": "Abu Dhabi, UAE"
       }
     ],
+
     "Overview": {
       "students": "30K+",
       "international": "7300+",
@@ -66,6 +67,7 @@
         "program": "Public Health, BSc"
       }
     ],
+
     "CarouselDataLarge": [
       {
         "image": "/campuslife1.jpg"
@@ -74,6 +76,7 @@
         "image": "/campuslife2.jpg"
       }
     ],
+
     "CarouselDataSmall": [
       "/campuslifemob1.jpg",
       "/campuslifemob2.jpg",
@@ -81,6 +84,7 @@
       "/campuslifemob5.jpg",
       "/campuslifemob6.jpg"
     ],
+
     "StudyProgramData": [
       {
         "image": "/foundation.jpg",
@@ -108,21 +112,23 @@
         "link": "/doctoral-program/"
       }
     ],
+
     "Deadlines": [
       {
-        "date": "15",
-        "month": "MAY 2026",
+        "date": "1",
+        "month": "NOV 2026",
         "discipline": "PhD",
         "program": "Programs"
       },
       {
-        "date": "15",
-        "month": "JUNE 2026",
+        "date": "1",
+        "month": "NOV 2026",
         "discipline": "All Other",
         "program": "Programs"
       }
     ]
   },
+
   "StudyProgramData": {
     "FoundationProgram": [
       {
@@ -623,6 +629,7 @@
         ]
       }
     ],
+
     "PostGraduateProgram": [
       {
         "name": "IT Programs",
@@ -938,6 +945,7 @@
         ]
       }
     ],
+
     "GraduateProgram": [
       {
         "name": "Agriculture Programs",
@@ -3904,7 +3912,7 @@
               },
               {
                 "heading": "Starting date: ",
-                "context": "September/February",
+                "context": "September",
                 "bullets": []
               },
               {
@@ -4170,6 +4178,7 @@
         ]
       }
     ],
+
     "MedicalProgram": [
       {
         "name": "Medical Study Programs",
@@ -4381,6 +4390,7 @@
         ]
       }
     ],
+
     "DoctoralProgram": [
       {
         "name": "Agriculture Programs",
@@ -5340,6 +5350,7 @@
         ]
       }
     ],
+
     "UndergraduateProgram": [
       {
         "name": "Agriculture Programs",
@@ -7902,6 +7913,7 @@
       }
     ]
   },
+
   "AboutPagesData": {
     "about": {
       "title": "About University",
@@ -7933,6 +7945,7 @@
         }
       ]
     },
+
     "history": {
       "title": "About South Asia Regional Office",
       "image": "/AboutRegionalOffice.jpeg",
@@ -7967,6 +7980,7 @@
         }
       ]
     },
+
     "ranking": {
       "title": "",
       "image": "/Accreditations.jpg",
@@ -8029,6 +8043,7 @@
       ]
     }
   },
+
   "ApplicationPagesData": {
     "application": [
       {
@@ -8160,6 +8175,7 @@
         ]
       }
     ],
+
     "Medicaldata": [
       {
         "title": "",
@@ -8222,6 +8238,7 @@
         ]
       }
     ],
+
     "NonMedicaldata": [
       {
         "title": "",
@@ -8275,6 +8292,7 @@
       }
     ]
   },
+
   "DownloadPagesData": {
     "BrouchersData": [
       {
@@ -8314,6 +8332,7 @@
         "name": "PHD programs"
       }
     ],
+
     "DownloadAppFormData": [
       {
         "id": 1,
@@ -8328,6 +8347,7 @@
         "name": "Non Medical"
       }
     ],
+
     "Sample_paper_data": [
       {
         "name": "Biology",
@@ -8426,6 +8446,7 @@
       }
     ]
   },
+
   "FacultiesPagesData": {
     "Faculties": [
       {
@@ -9682,6 +9703,7 @@
       }
     ]
   },
+
   "DeadlinesPageData": {
     "title": "Upcoming Deadlines",
     "subtitle1": "Deadlines of Intakes",
@@ -9721,6 +9743,7 @@
       }
     ]
   },
+
   "DeadlinePageData": [
     {
       "title": "Deadlines of Intakes",
@@ -9771,6 +9794,7 @@
       ]
     }
   ],
+
   "EntranceInterviewGuideline": {
     "title": "UD Entrance Interview Preparation Guideline",
     "data": [
