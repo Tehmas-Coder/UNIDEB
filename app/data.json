@@ -7933,15 +7933,19 @@
       "text": [
         {
           "heading": "",
-          "content": "The University of Debrecen, hosting a student body exceeding 30,000, stands as one of Hungary's largest institutions for higher education. Located in Debrecen, the nation's second-largest city, the university serves as a pivotal cultural, economic, and scientific hub for the region. Through the collaborative efforts of its 13 faculties, the university adopts a multidisciplinary approach, establishing itself as a prominent research and educational institution in Eastern Hungary."
+          "content": "The University of Debrecen, with a student community of over 34,000, is one of Hungary’s largest and most prestigious higher education institutions. Located in Debrecen, the country’s second-largest city, the university serves as a major cultural, economic, and scientific hub for the region. Through its 13 faculties and multidisciplinary academic structure, the university has established itself as a leading research and educational institution in Eastern Hungary."
         },
         {
           "heading": "",
-          "content": "With a commitment to internationalization, the University of Debrecen hosts over 7,300 international students and currently offers a diverse range of more than 90 programs fully taught in English. This extensive offering caters to the diverse needs of its international student community. The university actively engages in various scholarship programs, providing financial assistance to students pursuing their education."
+          "content": "With a strong commitment to internationalization, the University of Debrecen welcomes more than 7,800 international students from over 140 countries. The university has been offering English-taught programs since 1987 and today offers a wide range of study opportunities, including 36 Bachelor’s programs, 42 Master’s programs, 3 medical one-tier training programs, 10 preparatory programs, and 16 PhD/Doctoral Schools fully taught in English."
         },
         {
           "heading": "",
-          "content": "In recent years, the University of Debrecen has secured prestigious accolades, and its diplomas hold wide recognition within the European Union. Notably, its medical and engineering programs have received accreditation from diverse international organizations and countries, further attesting to the institution's commitment to academic excellence and global recognition."
+          "content": "The university brings together a strong academic community of experienced professionals, including 200+ professors and more than 1,300 associate and assistant professors. Supported by extensive facilities across 8 campuses, 7 libraries, 500+ research laboratories, and 2 teaching hospitals with over 2,900 beds, the university combines advanced education, research, and practical training opportunities."
+        },
+        {
+          "heading": "",
+          "content": "Recognized for its extensive global partnerships, the University of Debrecen maintains 874 bilateral agreements with 615 partner institutions across 44 countries. Its internationally recognized degrees, accredited medical and engineering programs, and active participation in scholarship opportunities make it a preferred destination for students seeking quality education in Europe."
         }
       ]
     },
@@ -7959,10 +7963,6 @@
           "title": "Communist",
           "url": "https://www.investopedia.com/terms/c/communism.asp"
         },
-        "link_3": {
-          "title": "University of Debrecen",
-          "url": "https://southasia.edu.unideb.hu/"
-        },
         "link_4": {
           "title": "",
           "url": ""
@@ -7972,17 +7972,21 @@
       "text": [
         {
           "heading": "",
-          "content": "The University of Debrecen has strategically established regional offices worldwide to meet the specific needs of students in various areas. In 2017, the university took a significant step by inaugurating its regional office in Pakistan. Acknowledging the growing significance of the region, the office was later elevated to the status of the regional office for South Asia after six successful years. Currently, the office operates with branches in Dubai, Islamabad, Lahore, and Bangladesh ensuring increased accessibility and support for students from these regions. These regional offices play a crucial role as information hubs, providing guidance and assistance to prospective students throughout their educational journey at the [University of Debrecen](link_3)"
+          "content": "To better serve prospective students across different regions, the University of Debrecen has strategically established regional offices around the world. In 2017, the university expanded its global presence by inaugurating its regional office in Pakistan. Recognizing the growing importance of South Asia, the office was later developed into the University of Debrecen South Asia Regional Office, supporting students across the region."
         },
         {
           "heading": "",
-          "content": "The Regional Office is dedicated to delivering comprehensive services and support to prospective students. Our services include document assessment, meticulous organization of required materials, and personalized counseling sessions. These sessions aim to address students' inquiries and empower them with the information needed to make well-informed decisions."
+          "content": "Currently, the University of Debrecen South Asia Regional Office operates through offices in Islamabad, Pakistan; Dubai, UAE; and Bangladesh, with an office in Qatar coming soon. These regional offices ensure greater accessibility and provide dedicated support to prospective students throughout their educational journey at the University of Debrecen."
+        },
+        {
+          "heading": "",
+          "content": "The South Asia Regional Office is committed to providing comprehensive guidance and support to prospective students. Its services include document assessment, application guidance, assistance with preparing and organizing required documents, and personalized counseling sessions to address students’ queries and help them make informed decisions about studying at the University of Debrecen."
         }
       ]
     },
 
     "ranking": {
-      "title": "",
+      "title": "Accreditations & Rankings",
       "image": "/Accreditations.jpg",
       "image1": "/acc_mob.jpg",
       "links": {
@@ -7995,50 +7999,82 @@
           "url": "https://wfme.org/"
         }
       },
-      "bullets": [
-        "World Health Organization (WHO)",
-        "State Education Department (NY, USA)",
-        "Medical Board of California",
-        "Medical Councils of India",
-        "General Medical Council (UK)"
-      ],
+      "bullets": [],
       "text": [
         {
-          "heading": "Accreditations:",
-          "subpara": "The following accreditations & rankings are a testament to the University of Debrecen’s exceptional academic excellence:",
-          "content": "The University of Debrecen, Hungary conducts its programs according to the European Qualifications Framework of the [Bologna Process](link_1). Thus, diplomas from the University of Debrecen are generally accepted in the countries of the European Union. Moreover, all our programs are accredited by the Hungarian Accreditation Board which is part of the European Accreditations Board."
+          "heading": "",
+          "content": "The following accreditations and rankings reflect the University of Debrecen’s commitment to academic excellence, international standards, and globally recognized education."
+        },
+        {
+          "heading": "Accreditations",
+          "content": "The University of Debrecen conducts its academic programs according to the European Qualifications Framework of the [Bologna Process](link_1). As a result, degrees awarded by the University of Debrecen are widely recognized across countries within the European Union. All programs are accredited by the Hungarian Accreditation Board, which operates within the European accreditation framework."
+        },
+        {
+          "heading": "Medical Programs Accreditation",
+          "content": "The medical programs of the University of Debrecen are internationally recognized and accredited by:",
+          "bullets": [
+            "World Health Organization (WHO)",
+            "State Education Department (New York, USA)",
+            "Medical Board of California",
+            "Medical Councils of India (qualifying examination requirements apply)",
+            "General Medical Council (UK)",
+            "Medical authorities in Israel, Ireland, Iran, Norway, and the United Arab Emirates"
+          ]
         },
         {
           "heading": "",
-          "content": "Medical programs are accredited by:"
+          "content": "The Hungarian Accreditation Committee has been granted Recognition Status by the World Federation for Medical Education [(WFME)](link_2) until 31 March 2032, confirming that its medical education standards meet internationally accepted quality requirements."
         },
         {
           "heading": "",
-          "content": "The medical programs are recognised in multiple countries including Israel, Ireland, Iran, Norway and the United Arab Emirates. "
-        },
-        {
-          "heading": "",
-          "content": "The Hungarian Accreditation Committee has been awarded Recognition Status by the World Federation for Medical Education [(WFME)](link_2) until 31 March 2032."
+          "content": "Medical graduates of the University of Debrecen are also not required to take the PLAB examination for practicing medicine in the UK."
         },
 
         {
-          "heading": "",
-          "content": "Engineering programs are accredited by:",
-          "bullets": [
-            "European Federation of National Engineering Associations, FEANI"
-          ]
+          "heading": "Engineering & Other Program Accreditations",
+          "content": "Engineering programs at the University of Debrecen follow international quality standards. All BSc and MSc Engineering programs are listed in the European Engineering Education Database (EEED). The university’s engineering programs are also recognized through FEANI (European Federation of National Engineering Associations)."
         },
         {
           "heading": "",
-          "content": "These accreditations further establish the University of Debrecen as a reputable institution offering excellent programs in alignment with international standards."
+          "content": "Additionally, Chemistry programs have received the Eurobachelor and Euromaster labels, further demonstrating the university’s commitment to internationally benchmarked education."
         },
         {
           "heading": "Rankings",
-          "content": "The University of Debrecen is continuously improving its position in several international higher education rankings, while maintaining its leading role among Hungarian higher education institutions.",
+          "content": "The University of Debrecen continues to strengthen its position in international university rankings while maintaining its status as one of Hungary’s leading higher education institutions."
+        },
+        {
+          "heading": "QS World University Rankings",
+          "content": "",
           "bullets": [
-            "563rd position in QS World University Rankings 2025 - 2026",
-            "Among the Top 200 Times Higher Education Europe Teaching Ranking"
+            "Ranked 574th globally in QS World University Rankings 2025",
+            "Ranked among the leading universities in subject areas including Life Sciences & Medicine, Medicine, Biological Sciences, and Agriculture & Forestry",
+            "Ranked 40th in the QS Emerging Europe and Central Asia (EECA) University Rankings",
+            "Included among the top universities in the QS Graduate Employability Rankings",
+            "Ranked 222nd among the best universities in Europe (QS Europe Rankings 2025)"
           ]
+        },
+        {
+          "heading": "Times Higher Education (THE) Rankings",
+          "content": "",
+          "bullets": [
+            "Ranked in the 801–1000 category in THE World University Rankings",
+            "Ranked among the world’s leading institutions in THE Impact Rankings",
+            "Included in the THE Europe Teaching Rankings, highlighting excellence in teaching quality"
+          ]
+        },
+        {
+          "heading": "Other International Rankings",
+          "content": "",
+          "bullets": [
+            "Ranked among global universities by U.S. News Best Global Universities",
+            "Ranked 303rd in the 2025 Round University Ranking (RUR) World University Rankings",
+            "Recognized in multiple RUR subject rankings",
+            "Ranked in the UI GreenMetric World University Rankings, highlighting sustainability and environmental responsibility"
+          ]
+        },
+        {
+          "heading": "",
+          "content": "These international accreditations and rankings demonstrate the University of Debrecen’s strong academic reputation, research excellence, and commitment to providing globally competitive education."
         }
       ]
     }

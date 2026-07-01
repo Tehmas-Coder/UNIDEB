@@ -38,7 +38,7 @@ const SimilarPageStructure: React.FC<AboutPageProps> = ({ data }) => {
     let lastIndex = 0;
     const elements = [];
 
-    content.replace(linkRegex, (match, text, key, offset) => {
+    content?.replace(linkRegex, (match, text, key, offset) => {
       // Add the preceding text as a text element
       if (offset > lastIndex) {
         elements.push(content.substring(lastIndex, offset));
@@ -60,7 +60,7 @@ const SimilarPageStructure: React.FC<AboutPageProps> = ({ data }) => {
             key={offset}
           >
             {text}
-          </Link>
+          </Link>,
         );
       } else {
         // If the key doesn't exist, render it as plain text
@@ -73,7 +73,7 @@ const SimilarPageStructure: React.FC<AboutPageProps> = ({ data }) => {
     });
 
     // Add the remaining text after the last link
-    if (lastIndex < content.length) {
+    if (lastIndex < content?.length) {
       elements.push(content.substring(lastIndex));
     }
 
@@ -101,43 +101,46 @@ const SimilarPageStructure: React.FC<AboutPageProps> = ({ data }) => {
         />
       </div>
       <div className="px-4 lg:px-[15%] pt-12">
-        {data.text.map((item, index) => (
-          <div key={index} className="pb-2 leading-8 text-justify">
-            <p>{item.subpara}</p>
-          </div>
-        ))}
         {data.title && (
-          <h1 className="text-[27px] text-[#155744] pb-4 font-bold">
+          <h1 className="text-[40px] text-[#155744] pb-4 font-bold">
             {data.title}
           </h1>
         )}
 
+        {/* {data.text.map((item, index) => (
+          <div key={index} className="pb-2 bg-red-400 leading-8 text-justify">
+            <p>{item.subpara}</p>
+          </div>
+        ))} */}
+
         <div>
-          {data.text.map((item, index) => (
+          {data?.text?.map((item, index) => (
             <div key={index} className="pb-4 leading-8 text-justify">
               <h2 className="text-[35px] text-[#f5b418] font-bold pb-4">
-                {item.heading}
+                {item?.heading}
               </h2>
               <p className="pb-2 text-justify">
-                {renderContentWithLinks(item.content)}
+                {renderContentWithLinks(item?.content)}
               </p>
               {item.content === "Medical programs are accredited by:" && (
                 <>
                   <ul>
-                    {data.bullets.map((bullet: string, bulletIndex: number) => (
-                      <li
-                        key={bulletIndex}
-                        className="font-bold text-[16px] lg:text-[18px]"
-                      >
-                        <FaCircle size={8} className="inline-block  mr-2" />{" "}
-                        {bullet}
-                      </li>
-                    ))}
+                    {data?.bullets?.map(
+                      (bullet: string, bulletIndex: number) => (
+                        <li
+                          key={bulletIndex}
+                          className="font-bold text-[16px] lg:text-[18px]"
+                        >
+                          <FaCircle size={8} className="inline-block  mr-2" />{" "}
+                          {bullet}
+                        </li>
+                      ),
+                    )}
                   </ul>
                 </>
               )}
               <ul>
-                {item.bullets?.map((bullet: string, bulletIndex: number) => (
+                {item?.bullets?.map((bullet: string, bulletIndex: number) => (
                   <li
                     key={bulletIndex}
                     className="font-bold text-[16px] lg:text-[18px]"
