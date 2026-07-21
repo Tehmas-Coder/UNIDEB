@@ -9,34 +9,34 @@
 
     "EventsData": [
       {
-        "title": "BMI High School Visits",
-        "description": "We are going to visit high schools in Abu Dhabi to guide students and answer their questions about studying at the University of Debrecen.",
+        "title": "BMI Dubai High School Visits",
+        "description": "We will visit high schools across Dubai to guide students, answer their questions, and introduce them to study opportunities at the University of Debrecen.",
         "year": "2026",
-        "month": "Apr",
-        "date": "22",
-        "location": "Abu Dhabi, UAE"
-      },
-      {
-        "title": "BMI High School Visits",
-        "description": "We are going to visit selected high schools in Dubai to connect with students and share information about study opportunities at the University of Debrecen.",
-        "year": "2026",
-        "month": "Apr",
-        "date": "18-19",
+        "month": "Oct",
+        "date": "01",
         "location": "Dubai, UAE"
       },
       {
-        "title": "BMI In-Person Education Fair",
-        "description": "We will participate in the BMI In-Person Education Fair in Abu Dhabi, meeting prospective students and discussing the programs offered by the University of Debrecen.",
+        "title": "BMI Dubai",
+        "description": "Meet our representatives at BMI Dubai to learn more about the University of Debrecen, its academic programmes, admission requirements, scholarships, and student life.",
         "year": "2026",
-        "month": "Apr",
-        "date": "23",
+        "month": "Nov",
+        "date": "02-03",
+        "location": "Dubai, UAE"
+      },
+      {
+        "title": "BMI Abu Dhabi",
+        "description": "Visit us at BMI Abu Dhabi and discover the study opportunities available at the University of Debrecen. Our team will be available to answer your questions and guide you through the application process.",
+        "year": "2026",
+        "month": "Oct",
+        "date": "04",
         "location": "Abu Dhabi, UAE"
       }
     ],
 
     "Overview": {
-      "students": "30K+",
-      "international": "7300+",
+      "students": "34K+",
+      "international": "7800+",
       "faculties": "13",
       "campuses": "8"
     },

@@ -8,8 +8,8 @@
           "representative": "Syeda Wafa Gillani",
           "address": "1st Floor, Above Askari Bank, Tulip Service Road, Main Grand Trunk Rd, DHA Phase II, Islamabad, Pakistan",
           "tel": "+92-51-6101958",
-          "mobile": "+92-313 985 8766",
-          "email": "pakistan.info@reps.unideb.hu / admissions@akconsultants.org",
+          "mobile": "0333-0549777",
+          "email": "pakistan.info@reps.unideb.hu",
           "website": "https://southasia.edu.unideb.hu/",
           "Timing": "10:00 AM - 6:00 PM",
           "lat": "33.52",
@@ -22,13 +22,13 @@
       "locations": [
         {
           "organizationName": "University of Debrecen South Asia Regional Office ",
-          "representative": "Asghar Aftab Khan",
+          "representative": "Hamdha Zubair",
           "address": "Office No. 1407, 14th Floor, Jumeirah Business Center 2, Cluster V, Jumeirah Lake Towers (JLT), Al Thanyah Fifth, Dubai, UAE.",
           "tel": "+971(0)43132353",
-          "mobile": "00971508448119",
-          "email": "india@reps.unideb.hu",
+          "mobile": "+971521232975",
+          "email": "india@reps.unideb.hu, india.admissions@reps.unideb.hu",
           "website": "https://southasia.edu.unideb.hu",
-          "Timing": "",
+          "Timing": "10:00 AM - 6:00 PM GST",
           "lat": "25.21",
           "long": "55.28"
         },
@@ -114,10 +114,10 @@
           "representative": "Shazna Niyaz",
           "address": "Office No. 1407, 14th Floor, Jumeirah Business Center 2, Cluster V, Jumeirah Lake Towers (JLT), Al Thanyah Fifth, Dubai, UAE.",
           "tel": "+971 4 572 6484",
-          "mobile": "00971508448119",
+          "mobile": "+971508448117, 00971508448119",
           "email": "southasia.admissions@reps.unideb.hu",
           "website": "https://southasia.edu.unideb.hu",
-          "Timing": "",
+          "Timing": "10:00 AM - 6:00 PM",
           "lat": "25.21",
           "long": "55.28"
         },
@@ -178,11 +178,11 @@
           "organizationName": "University of Debrecen Southasia Regional Office",
           "representative": "Suriya Sultana",
           "address": "Esprit, Level-5, Flat A5, House-24,  Road-130, Gulshan-1, Dhaka-1212",
-          "tel": "+8809611688200",
+          "tel": "",
           "mobile": "+8801897-913380",
           "email": "bangladesh.admissions@reps.unideb.hu",
           "website": "https://southasia.edu.unideb.hu/",
-          "Timing": "11:00 AM - 7:00 PM",
+          "Timing": "10:00 AM - 6:00 PM",
           "lat": "24.56",
           "long": "90.39"
         },
@@ -230,18 +230,6 @@
           "mobile": "",
           "email": "info@eduvisors.com.bd, eduvisors.bd@gmail.com",
           "website": "www.eduvisors.com.bd",
-          "Timing": "",
-          "lat": "",
-          "long": ""
-        },
-        {
-          "organizationName": "Just Thought Education Consultant",
-          "representative": "Md Motiur Rahman",
-          "address": "House # KA-40/2 (5th Floor), South Baridhara, Shahid Harez Road, near the Narda Bus Stand and Foot Overbridge, Dhaka-1229, Bangladesh.",
-          "tel": "",
-          "mobile": "+8801958072715",
-          "email": "info@jtecbd.com",
-          "website": "https://jtecbd.com/",
           "Timing": "",
           "lat": "",
           "long": ""
@@ -355,18 +343,6 @@
           "long": ""
         },
         {
-          "organizationName": "IBD Partnership",
-          "representative": "Mahim Chowdhury",
-          "address": "1st Floor, Printware Court Cumberland Business Centre Northumberland Road, Portsmouth, PO5 1DS UK",
-          "tel": "+44 (0) 2392 87 61 33, +44 (0) 7780 093 771",
-          "mobile": "",
-          "email": "info@ibdpartnership.co.uk, mahim@ibdpartnership.co.uk",
-          "website": "https://www.ibdpartnership.co.uk/",
-          "Timing": "",
-          "lat": "",
-          "long": ""
-        },
-        {
           "organizationName": "Study Link",
           "representative": "Arifur Rahman",
           "address": "Rangs Pearl (8th Floor), House no. 76, Road-12, Block-E, Banani, Dhaka - 1213",
@@ -397,13 +373,13 @@
       "locations": [
         {
           "organizationName": "University of Debrecen Southasia Regional Office",
-          "representative": "Suriya Sultana",
+          "representative": "Hamdha Zubair",
           "address": "Esprit, Level-5, Flat A5, House-24,  Road-130, Gulshan-1, Dhaka-1212",
           "tel": "+8809611688200",
-          "mobile": "+8801897-913380",
-          "email": "bangladesh.admissions@reps.unideb.hu",
+          "mobile": "+971521232975",
+          "email": "nepal.admissions@reps.unideb.hu",
           "website": "https://southasia.edu.unideb.hu/",
-          "Timing": "11:00 AM - 7:00 PM",
+          "Timing": "10:00 AM - 6:00 PM",
           "lat": "24.56",
           "long": "90.39"
         }
