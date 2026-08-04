@@ -64,13 +64,13 @@ const SmallHeader: React.FC = () => {
         {
           id: "accreditation",
           title: "ACCREDITATION & RANKING",
-          link: "/ranking",
+          link: "/ranking/",
         },
         { id: "services", title: "OUR SERVICES", link: "/services" },
         {
           id: "representative",
           title: "REPRESENTATIVE",
-          link: "/representative",
+          link: "/representative/",
         },
       ],
     },

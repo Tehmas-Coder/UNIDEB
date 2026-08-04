@@ -25,8 +25,8 @@ const linkData: LinkItem[] = [
         href: "/about-south-asia-regional-office",
         label: "About South Asia Regional Office",
       },
-      { href: "/ranking", label: "Accreditation & Ranking" },
-      { href: "/representative", label: "Representatives" },
+      { href: "/ranking/", label: "Accreditation & Ranking" },
+      { href: "/representative/", label: "Representatives" },
     ],
   },
   {
