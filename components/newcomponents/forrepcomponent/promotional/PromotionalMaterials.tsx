@@ -44,102 +44,102 @@ const PromotionalMaterials = () => {
       image: "/UD Brochure general.png",
       text: [
         {
-          text: "Undergraduate_Programs_2025_print.pdf",
-          link: "https://www.edu.unideb.hu/tartalom/for_representatives/Brochures%202025/UD%20brochure%20(squared)/UD_general_brochure_210x210mm_2025_print.pdf",
+          text: "UD Brochure General",
+          link: "https://edu.unideb.hu/tartalom/dok/ud-brochure-general_1_1.pdf",
         },
-        {
-          text: "UD_general_brochure_210x210mm_2025_printUV.pdf",
-          link: "https://www.edu.unideb.hu/tartalom/for_representatives/Brochures%202025/UD%20brochure%20(squared)/UD_general_brochure_210x210mm_2025_printUV.pdf",
-        },
-        {
-          text: "UD_general_brochure_210x210mm_2025_web.pdf",
-          link: "https://www.edu.unideb.hu/tartalom/for_representatives/Brochures%202025/UD%20brochure%20(squared)/UD_general_brochure_210x210mm_2025_web.pdf",
-        },
+        // {
+        //   text: "UD_general_brochure_210x210mm_2025_printUV.pdf",
+        //   link: "https://www.edu.unideb.hu/tartalom/for_representatives/Brochures%202025/UD%20brochure%20(squared)/UD_general_brochure_210x210mm_2025_printUV.pdf",
+        // },
+        // {
+        //   text: "UD_general_brochure_210x210mm_2025_web.pdf",
+        //   link: "https://www.edu.unideb.hu/tartalom/for_representatives/Brochures%202025/UD%20brochure%20(squared)/UD_general_brochure_210x210mm_2025_web.pdf",
+        // },
       ],
     },
     {
       image: "/Bachelor Programs Brochure.png",
       text: [
         {
-          text: "Undergraduate_Programs_2025_print.pdf",
-          link: "https://www.edu.unideb.hu/tartalom/for_representatives/Brochures%202025/Undergraduate%20programs%20brochure/Undergraduate_Programs_2025_print.pdf",
+          text: "Bachelor Programs Brochure",
+          link: "https://edu.unideb.hu/tartalom/dok/bachelor-programs-brochure_1_1.pdf",
         },
-        {
-          text: "Undergraduate_Programs_2025_printUV.pdf",
-          link: "https://www.edu.unideb.hu/tartalom/for_representatives/Brochures%202025/Undergraduate%20programs%20brochure/Undergraduate_Programs_2025_printUV.pdf",
-        },
-        {
-          text: "Undergraduate_Programs_2025_web.pdf",
-          link: "https://www.edu.unideb.hu/tartalom/for_representatives/Brochures%202025/Undergraduate%20programs%20brochure/Undergraduate_Programs_2025_web.pdf",
-        },
+        // {
+        //   text: "Undergraduate_Programs_2025_printUV.pdf",
+        //   link: "https://www.edu.unideb.hu/tartalom/for_representatives/Brochures%202025/Undergraduate%20programs%20brochure/Undergraduate_Programs_2025_printUV.pdf",
+        // },
+        // {
+        //   text: "Undergraduate_Programs_2025_web.pdf",
+        //   link: "https://www.edu.unideb.hu/tartalom/for_representatives/Brochures%202025/Undergraduate%20programs%20brochure/Undergraduate_Programs_2025_web.pdf",
+        // },
       ],
     },
     {
       image: "/Masters Program Brochures.png",
       text: [
         {
-          text: "Graduate Programs 2025_print.pdf",
-          link: "https://www.edu.unideb.hu/tartalom/for_representatives/Brochures%202025/Graduate%20programs%20brochure/Graduate%20Programs%202025_print.pdf",
+          text: "Master Programs Brochure",
+          link: "https://edu.unideb.hu/tartalom/dok/master-programs-brochure_1_1.pdf",
         },
-        {
-          text: "Graduate Programs 2025_print UV.pdf",
-          link: "https://www.edu.unideb.hu/tartalom/for_representatives/Brochures%202025/Graduate%20programs%20brochure/Graduate%20Programs%202025_print%20UV.pdf",
-        },
-        {
-          text: "Graduate Programs 2025_web.pdf",
-          link: "https://www.edu.unideb.hu/tartalom/for_representatives/Brochures%202025/Graduate%20programs%20brochure/Graduate%20Programs%202025_web.pdf",
-        },
+        // {
+        //   text: "Graduate Programs 2025_print UV.pdf",
+        //   link: "https://www.edu.unideb.hu/tartalom/for_representatives/Brochures%202025/Graduate%20programs%20brochure/Graduate%20Programs%202025_print%20UV.pdf",
+        // },
+        // {
+        //   text: "Graduate Programs 2025_web.pdf",
+        //   link: "https://www.edu.unideb.hu/tartalom/for_representatives/Brochures%202025/Graduate%20programs%20brochure/Graduate%20Programs%202025_web.pdf",
+        // },
       ],
     },
     {
-      image: "/Medical & Health Science.png",
+      image: "/medical-brochure.jpg",
       text: [
         {
-          text: "Medical_and_health_sciences_program_2025_print.pdf",
-          link: "https://www.edu.unideb.hu/tartalom/for_representatives/Brochures%202025/Medical%20programs%20large%20brochure/Medical_and_health_sciences_program_2025_print.pdf",
+          text: "Medical and Health Sciences Brochure",
+          link: "https://edu.unideb.hu/tartalom/dok/medical-and-health-sciences-brochure.pdf",
         },
-        {
-          text: "Medical_and_health_sciences_program_2025_print_UV.pdf",
-          link: "https://www.edu.unideb.hu/tartalom/for_representatives/Brochures%202025/Medical%20programs%20large%20brochure/Medical_and_health_sciences_program_2025_print_UV.pdf",
-        },
-        {
-          text: "Medical_and_health_sciences_program_2025_web.pdf",
-          link: "https://www.edu.unideb.hu/tartalom/for_representatives/Brochures%202025/Medical%20programs%20large%20brochure/Medical_and_health_sciences_program_2025_web.pdf",
-        },
+        // {
+        //   text: "Medical_and_health_sciences_program_2025_print_UV.pdf",
+        //   link: "https://www.edu.unideb.hu/tartalom/for_representatives/Brochures%202025/Medical%20programs%20large%20brochure/Medical_and_health_sciences_program_2025_print_UV.pdf",
+        // },
+        // {
+        //   text: "Medical_and_health_sciences_program_2025_web.pdf",
+        //   link: "https://www.edu.unideb.hu/tartalom/for_representatives/Brochures%202025/Medical%20programs%20large%20brochure/Medical_and_health_sciences_program_2025_web.pdf",
+        // },
       ],
     },
     {
-      image: "/Medical & Health Science small.png",
+      image: "/student-book-guide.jpg",
       text: [
         {
-          text: "Small_Medical_227x151_2025_print.pdf",
-          link: "https://www.edu.unideb.hu/tartalom/for_representatives/Brochures%202025/Medical%20programs%20small%20brochure/Small_Medical_227x151_2025_print.pdf",
+          text: "Student Guide Book",
+          link: "https://edu.unideb.hu/tartalom/dok/student_guide_book.pdf",
         },
-        {
-          text: "Small_Medical_227x151_2025_printUV.pdf",
-          link: "https://www.edu.unideb.hu/tartalom/for_representatives/Brochures%202025/Medical%20programs%20small%20brochure/Small_Medical_227x151_2025_printUV.pdf",
-        },
-        {
-          text: "Small_Medical_227x151_2025_web.pdf",
-          link: "https://www.edu.unideb.hu/tartalom/for_representatives/Brochures%202025/Medical%20programs%20small%20brochure/Small_Medical_227x151_2025_web.pdf",
-        },
+        // {
+        //   text: "Small_Medical_227x151_2025_printUV.pdf",
+        //   link: "https://www.edu.unideb.hu/tartalom/for_representatives/Brochures%202025/Medical%20programs%20small%20brochure/Small_Medical_227x151_2025_printUV.pdf",
+        // },
+        // {
+        //   text: "Small_Medical_227x151_2025_web.pdf",
+        //   link: "https://www.edu.unideb.hu/tartalom/for_representatives/Brochures%202025/Medical%20programs%20small%20brochure/Small_Medical_227x151_2025_web.pdf",
+        // },
       ],
     },
     {
       image: "/PhD Program Brochures.png",
       text: [
         {
-          text: "English_language_PhD_programs_2025_print.pdf",
-          link: "https://www.edu.unideb.hu/tartalom/for_representatives/Brochures%202025/PhD%20programs%20brochure/English_language_PhD_programs_2025_print.pdf",
+          text: "PhD Programs Brochure",
+          link: "https://edu.unideb.hu/tartalom/dok/phd_programs.pdf",
         },
-        {
-          text: "English_language_PhD_programs_2025_printUV.pdf",
-          link: "https://www.edu.unideb.hu/tartalom/for_representatives/Brochures%202025/PhD%20programs%20brochure/English_language_PhD_programs_2025_printUV.pdf",
-        },
-        {
-          text: "English_language_PhD_programs_2025_web.pdf",
-          link: "https://www.edu.unideb.hu/tartalom/for_representatives/Brochures%202025/PhD%20programs%20brochure/English_language_PhD_programs_2025_web.pdf",
-        },
+        // {
+        //   text: "English_language_PhD_programs_2025_printUV.pdf",
+        //   link: "https://www.edu.unideb.hu/tartalom/for_representatives/Brochures%202025/PhD%20programs%20brochure/English_language_PhD_programs_2025_printUV.pdf",
+        // },
+        // {
+        //   text: "English_language_PhD_programs_2025_web.pdf",
+        //   link: "https://www.edu.unideb.hu/tartalom/for_representatives/Brochures%202025/PhD%20programs%20brochure/English_language_PhD_programs_2025_web.pdf",
+        // },
       ],
     },
     {
@@ -147,7 +147,7 @@ const PromotionalMaterials = () => {
       text: [
         {
           text: "Photobook",
-          link: "https://www.edu.unideb.hu/tartalom/for_representatives/Brochures%202025/Photobook/Photobook.pdf",
+          link: "https://edu.unideb.hu/tartalom/dok/photobook.pdf",
         },
       ],
     },
