@@ -11,7 +11,7 @@ const RepresentativeSearch: React.FC = () => {
   };
 
   const filteredCountries = locationsData.locationsData.filter((countryData) =>
-    countryData.country.toLowerCase().includes(searchQuery.toLowerCase())
+    countryData.country.toLowerCase().includes(searchQuery.toLowerCase()),
   );
 
   return (
@@ -55,13 +55,36 @@ const RepresentativeSearch: React.FC = () => {
                         <p className="text-lg font-bold">
                           {location.organizationName}
                         </p>
-                        <p><span className="font-bold">Representative:</span> {location.representative}</p>
-                        <p><span className="font-bold">Address:</span> {location.address}</p>
-                        <p><span className="font-bold">Tel:</span> {location.tel}</p>
-                        <p><span className="font-bold">Mobile:</span> {location.mobile}</p>
-                        <p><span className="font-bold">Email:</span> {location.email}</p>
-                        <p><span className="font-bold">Website:</span> {location.website}</p>
-                        <p><span className="font-bold">Timing:</span> {location.Timing}</p>
+                        <p>
+                          <span className="font-bold">Representative:</span>{" "}
+                          {location.representative}
+                        </p>
+                        <p>
+                          <span className="font-bold">Address:</span>{" "}
+                          {location.address}
+                        </p>
+                        {location.tel && (
+                          <p>
+                            <span className="font-bold">Tel:</span>{" "}
+                            {location.tel}
+                          </p>
+                        )}
+                        <p>
+                          <span className="font-bold">Mobile:</span>{" "}
+                          {location.mobile}
+                        </p>
+                        <p>
+                          <span className="font-bold">Email:</span>{" "}
+                          {location.email}
+                        </p>
+                        <p>
+                          <span className="font-bold">Website:</span>{" "}
+                          {location.website}
+                        </p>
+                        <p>
+                          <span className="font-bold">Timing:</span>{" "}
+                          {location.Timing}
+                        </p>
                       </div>
                     ))}
                 </div>

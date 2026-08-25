@@ -25,12 +25,13 @@ export const metadata: Metadata = {
 
 const page = () => {
   const scholarshipNames = [
-    "UD International Scholarship",
-    "Stipendium Hungaricum Scholarship open until 15 January 2026",
-    "Scholarship for Christian Young People (SCYP)",
-    "Siblings Discount",
-    "Academic Scholarship",
-    "Diaspora Scholarship",
+    "UD International Scholarship - closed",
+    "Stipendium Hungaricum Scholarship - closed",
+    // "Scholarship for Christian Young People (SCYP)",
+    // "Siblings Discount",
+    // "Academic Scholarship",
+    "FAO–Hungarian Government Scholarship Programme 2026–2027 - closed",
+    "Diaspora Scholarship - closed",
   ];
 
   const scholarshipData = data.ScholarshipData;
@@ -38,7 +39,10 @@ const page = () => {
   return (
     <>
       <div className="flex flex-col justify-center font-nunito pt-16 pb-12 px-4 lg:px-[14%]">
-        <h1 className="lg:text-[50px] text-[35px] font-bold text-[#F5B418] py-2 pb-4">
+        <h1 className="text-[28px] md:text-[36px] lg:text-[42px] font-bold text-[#155744] py-2 pb-4 leading-tight">
+          What support might you receive to finance your studies?
+        </h1>
+        <h1 className="text-[35px] md:text-[50px] font-bold text-[#F5B418] py-2 pb-4">
           Scholarships
         </h1>
 
@@ -56,8 +60,8 @@ const page = () => {
                   <span
                     dangerouslySetInnerHTML={{
                       __html: name.replace(
-                        "open until 15 January 2026",
-                        `<span class="bg-[#F5B418] p-1 font-bold animate-pulse">- open until 15 January 2026</span>`
+                        "- closed",
+                        `<span class="bg-[#F5B418] "> closed</span>`,
                       ),
                     }}
                   />
@@ -67,7 +71,7 @@ const page = () => {
           ))}
         </ul>
 
-        <div>
+        {/* <div>
           {scholarshipData.map((scholarship, index) => (
             <div key={index} id={index.toString()}>
               <DynamicContentRender data={scholarship} />
@@ -80,7 +84,7 @@ const page = () => {
               </div>
             </div>
           ))}
-        </div>
+        </div> */}
       </div>
     </>
   );

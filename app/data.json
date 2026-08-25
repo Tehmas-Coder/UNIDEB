@@ -9,6 +9,14 @@
 
     "EventsData": [
       {
+        "title": "BMI Abu Dhabi",
+        "description": "Visit us at BMI Abu Dhabi and discover the study opportunities available at the University of Debrecen. Our team will be available to answer your questions and guide you through the application process.",
+        "year": "2026",
+        "month": "Sep",
+        "date": "26-27",
+        "location": "Abu Dhabi, UAE"
+      },
+      {
         "title": "BMI Dubai High School Visits",
         "description": "We will visit high schools across Dubai to guide students, answer their questions, and introduce them to study opportunities at the University of Debrecen.",
         "year": "2026",
@@ -20,7 +28,7 @@
         "title": "BMI Dubai",
         "description": "Meet our representatives at BMI Dubai to learn more about the University of Debrecen, its academic programmes, admission requirements, scholarships, and student life.",
         "year": "2026",
-        "month": "Nov",
+        "month": "Oct",
         "date": "02-03",
         "location": "Dubai, UAE"
       },
@@ -399,86 +407,6 @@
             ]
           },
           {
-            "title": "Short English Language Course",
-            "text": [
-              {
-                "heading": "Short English Language Course",
-                "context": "",
-                "bullets": []
-              },
-              {
-                "heading": "Duration:",
-                "context": "September – December",
-                "bullets": []
-              },
-              {
-                "heading": "Aim of the Program:",
-                "context": "We offer English Language Courses for students whose knowledge of English is not sufficient to be enrolled in the International Foundation Year or any other undergraduate program but who are NOT applying for Medicine or Dentistry. After the completion of the first semester of the language course, the students can either continue with the second semester of the language course starting in February or start the Intensive Foundation Semester during which they can study the subjects necessary for the entrance exam of their chosen discipline.",
-                "bullets": []
-              },
-              {
-                "heading": "Language Requirements:",
-                "context": "Basic knowledge of English is the minimum requirement (IELTS 3.5)",
-                "bullets": []
-              },
-              {
-                "heading": "Subjects:",
-                "context": "English language – 300 hours",
-                "bullets": []
-              },
-              {
-                "heading": "Fees:",
-                "context": "Application fee 150 USD, entrance procedure fee 350 USD",
-                "bullets": []
-              },
-              {
-                "heading": "Tuition Fee:",
-                "context": "3,000 USD",
-                "bullets": []
-              }
-            ]
-          },
-          {
-            "title": "Intensive English Language Course",
-            "text": [
-              {
-                "heading": "Intensive English Language Course",
-                "context": "",
-                "bullets": []
-              },
-              {
-                "heading": "Duration:",
-                "context": "February – June",
-                "bullets": []
-              },
-              {
-                "heading": "Aim of the Program:",
-                "context": "We offer English Language Courses for students whose knowledge of English is not sufficient to be enrolled in the International Foundation Year or any other undergraduate program but who are NOT applying for medicine or dentistry.",
-                "bullets": []
-              },
-              {
-                "heading": "Language Requirements:",
-                "context": "Basic knowledge of English is the minimum requirement (IELTS 4.5)",
-                "bullets": []
-              },
-              {
-                "heading": "Subjects:",
-                "context": "English language – 400 hours",
-                "bullets": []
-              },
-              {
-                "heading": "Fees:",
-                "context": "Application fee 150 USD, entrance procedure fee 350 USD",
-                "bullets": []
-              },
-              {
-                "heading": "Tuition Fee:",
-                "context": "4,800 USD",
-                "bullets": []
-              }
-            ]
-          },
-          {
             "title": "International Foundation Year for Pop Music",
             "text": [
               {
@@ -524,6 +452,101 @@
               {
                 "heading": "Other Fees:",
                 "context": "Application fee 50 USD, entrance procedure fee 450 USD",
+                "bullets": []
+              }
+            ]
+          },
+          {
+            "title": "International Foundation Year for Classical Instrument and Voice Studies",
+            "text": [
+              {
+                "heading": "International Foundation Year for Classical Instrument and Voice Studies",
+                "context": "",
+                "bullets": []
+              },
+              {
+                "heading": "Faculty:",
+                "context": "Music",
+                "bullets": []
+              },
+              {
+                "heading": "Starting date:",
+                "context": "September",
+                "bullets": []
+              },
+              {
+                "heading": "Language Requirements:",
+                "context": "English language proficiency (TOEFL 513 / IELTS 5.5 / oral examination)",
+                "bullets": []
+              },
+              {
+                "heading": "Academic Requirements:",
+                "context": "High school certificate, certificate of musical pre-training, entrance examination",
+                "bullets": []
+              },
+              {
+                "heading": "Duration:",
+                "context": "2 semesters",
+                "bullets": []
+              },
+              {
+                "heading": "ECTS Credits:",
+                "context": "36 credits",
+                "bullets": []
+              },
+              {
+                "heading": "Tuition Fee:",
+                "context": "7,000 USD/year",
+                "bullets": []
+              },
+              {
+                "heading": "Other Fees:",
+                "context": "Application fee 50 USD, entrance procedure fee 450 USD",
+                "bullets": []
+              }
+            ]
+          },
+          {
+            "title": "International Foundation Year for Musical Creative Art and Musicology Studies",
+            "text": [
+              {
+                "heading": "International Foundation Year for Musical Creative Art and Musicology Studies",
+                "context": "",
+                "bullets": []
+              },
+              {
+                "heading": "Faculty:",
+                "context": "Music",
+                "bullets": []
+              },
+              {
+                "heading": "Starting date:",
+                "context": "September",
+                "bullets": []
+              },
+              {
+                "heading": "Language Requirements:",
+                "context": "English language proficiency (TOEFL 513 / IELTS 5.5 / oral examination)",
+                "bullets": []
+              },
+              {
+                "heading": "Academic Requirements:",
+                "context": "High school certificate, certificate of musical pre-training, entrance examination",
+                "bullets": []
+              },
+              {
+                "heading": "Duration:",
+                "context": "2 semesters",
+                "bullets": []
+              },
+              {
+                "heading": "Tuition Fee:",
+                "context": "7,000 USD / 2 semesters",
+                "bullets": []
+              },
+              {
+                "heading": "One Time Fee",
+                "context": "Registration Fee: 50 USD; Fee for Entry Test: 450 USD",
                 "bullets": []
               }
             ]
@@ -1176,81 +1199,6 @@
             ]
           },
           {
-            "title": "Agricultural Water Management Engineering, MSc",
-            "text": [
-              {
-                "heading": "Agricultural Water Management Engineering, MSc",
-                "context": "",
-                "bullets": []
-              },
-              {
-                "heading": "Faculty: ",
-                "context": "Agricultural and Food Sciences and Environmental Management",
-                "bullets": []
-              },
-              {
-                "heading": "Academic discipline: ",
-                "context": "Agricultural Science",
-                "bullets": []
-              },
-              {
-                "heading": "Qualification: ",
-                "context": "Agricultural Water Management Engineer",
-                "bullets": []
-              },
-              {
-                "heading": "Starting date: ",
-                "context": "September / February",
-                "bullets": []
-              },
-              {
-                "heading": "Language requirements: ",
-                "context": "English language proficiency (TOEFL 547 / IELTS 6.0 / oral examination)",
-                "bullets": []
-              },
-              {
-                "heading": "Academic requirements: ",
-                "context": "Bachelor’s degree in environmental science, agricultural engineering, horticulture engineering, crop production engineering, agrobusiness and rural development engineering, rural development engineering.",
-                "bullets": []
-              },
-              {
-                "heading": "Duration: ",
-                "context": "4 semesters",
-                "bullets": []
-              },
-              {
-                "heading": "ECTS: ",
-                "context": "120",
-                "bullets": []
-              },
-              {
-                "heading": "Tuition fee: ",
-                "context": "8000 USD/year",
-                "bullets": []
-              },
-              {
-                "heading": "Other fees: ",
-                "context": "Application fee 150 USD, entrance procedure fee 350 USD",
-                "bullets": []
-              },
-              {
-                "heading": "Short description: ",
-                "context": "The aim of the graduate program is to train agricultural water management engineers who, equipped with knowledge and skills acquired over the course of the program, are able to use creative engineering in the field of sustainable integrated water management within the field of agricultural water management. With their qualifications, graduates are able to cooperate with other experts in solving domestic and international problems related to their field of expertise.",
-                "bullets": []
-              },
-              {
-                "heading": "Lecture, seminar: ",
-                "context": "48%",
-                "bullets": []
-              },
-              {
-                "heading": "Practice: ",
-                "context": "52%",
-                "bullets": []
-              }
-            ]
-          },
-          {
             "title": "Crop Production Engineering, MSc",
             "text": [
               {
@@ -1371,81 +1319,6 @@
               {
                 "heading": "ECTS credits: ",
                 "context": "120",
-                "bullets": []
-              }
-            ]
-          },
-          {
-            "title": "Rural Development Engineering, MSc",
-            "text": [
-              {
-                "heading": "Rural Development Engineering, MSc",
-                "context": "",
-                "bullets": []
-              },
-              {
-                "heading": "Faculty: ",
-                "context": "Economics and Business",
-                "bullets": []
-              },
-              {
-                "heading": "Academic discipline: ",
-                "context": "Agricultural Science",
-                "bullets": []
-              },
-              {
-                "heading": "Qualification: ",
-                "context": "Rural Development Engineer",
-                "bullets": []
-              },
-              {
-                "heading": "Starting date: ",
-                "context": "September",
-                "bullets": []
-              },
-              {
-                "heading": "Language requirements: ",
-                "context": "English language proficiency (TOEFL 547 / IELTS 6.0 / oral examination)",
-                "bullets": []
-              },
-              {
-                "heading": "Academic requirements: ",
-                "context": "Bachelor’s degree in rural development, agricultural economics, business, or management.",
-                "bullets": []
-              },
-              {
-                "heading": "Duration: ",
-                "context": "4 semesters",
-                "bullets": []
-              },
-              {
-                "heading": "ECTS credits: ",
-                "context": "120",
-                "bullets": []
-              },
-              {
-                "heading": "Tuition fee: ",
-                "context": "7,500 USD/year",
-                "bullets": []
-              },
-              {
-                "heading": "Other fees: ",
-                "context": "Application fee 150 USD, entrance procedure fee 350 USD",
-                "bullets": []
-              },
-              {
-                "heading": "Short description: ",
-                "context": "The objective of the program is to train professionals who understand sustainable development and the present problems of rural areas based on knowledge relating to agriculture, economic management, as well as regional and rural development, who can cooperate in the determination of possible directions of development, can define special development programs, can manage their realizations and who can carry out the monitoring of processes.",
-                "bullets": []
-              },
-              {
-                "heading": "Lecture, seminar: ",
-                "context": "46%",
-                "bullets": []
-              },
-              {
-                "heading": "Practice: ",
-                "context": "54%",
                 "bullets": []
               }
             ]
@@ -2286,156 +2159,6 @@
               {
                 "heading": "Practice: ",
                 "context": "47%",
-                "bullets": []
-              }
-            ]
-          },
-          {
-            "title": "Postgraduate Diploma in Lean Manager",
-            "text": [
-              {
-                "heading": "Postgraduate Diploma in Lean Manager",
-                "context": "",
-                "bullets": []
-              },
-              {
-                "heading": "Faculty: ",
-                "context": "Engineering",
-                "bullets": []
-              },
-              {
-                "heading": "Academic discipline: ",
-                "context": "Engineering Science ",
-                "bullets": []
-              },
-              {
-                "heading": "Qualification: ",
-                "context": "Lean Manager",
-                "bullets": []
-              },
-              {
-                "heading": "Starting date: ",
-                "context": "September / February",
-                "bullets": []
-              },
-              {
-                "heading": "Language requirements: ",
-                "context": "English language proficiency (TOEFL 547 /IELTS 6.0/oral examination)",
-                "bullets": []
-              },
-              {
-                "heading": "Academic requirements: ",
-                "context": "At least bachelor’s degree in a non-engineering field (e.g. Technical Management, Economics, Science or Informatics).",
-                "bullets": []
-              },
-              {
-                "heading": "Duration: ",
-                "context": "2 semesters",
-                "bullets": []
-              },
-              {
-                "heading": "ECTS credits: ",
-                "context": "60",
-                "bullets": []
-              },
-              {
-                "heading": "Tuition fee: ",
-                "context": "7,500 USD",
-                "bullets": []
-              },
-              {
-                "heading": "Other fees: ",
-                "context": "application fee 150 USD, entrance procedure fee 350 USD",
-                "bullets": []
-              },
-              {
-                "heading": "Short description: ",
-                "context": "The fundamental goal of the course is to train lean professionals who are able to integrate the principles and methods of lean management into the company’s strategy and operational practices. Students will acquire the professional skills needed for effective and efficient lean transformation, which will help them to continuously improve the company’s operational and business performance increasing competitiveness in a rapidly changing business environment. Graduates will be able to design and operate lean production and service systems, develop lean corporate structures, apply lean methods and techniques, and integrate continuous improvement into corporate culture.",
-                "bullets": []
-              },
-              {
-                "heading": "Lecture, seminar: ",
-                "context": "53%",
-                "bullets": []
-              },
-              {
-                "heading": "Practice: ",
-                "context": "47%",
-                "bullets": []
-              }
-            ]
-          },
-          {
-            "title": "Postgraduate Diploma in Strategic Engineering and Sustainability Leadership",
-            "text": [
-              {
-                "heading": "Postgraduate Diploma in Strategic Engineering and Sustainability Leadership",
-                "context": "",
-                "bullets": []
-              },
-              {
-                "heading": "Faculty: ",
-                "context": "Engineering",
-                "bullets": []
-              },
-              {
-                "heading": "Academic discipline: ",
-                "context": "Engineering Science ",
-                "bullets": []
-              },
-              {
-                "heading": "Qualification: ",
-                "context": "Strategic Engineering and Sustainability Manager",
-                "bullets": []
-              },
-              {
-                "heading": "Starting date: ",
-                "context": "September",
-                "bullets": []
-              },
-              {
-                "heading": "Language requirements: ",
-                "context": "English language proficiency (TOEFL 547 /IELTS 6.0/oral examination)",
-                "bullets": []
-              },
-              {
-                "heading": "Academic requirements: ",
-                "context": "at least a bachelor’s degree with the following requirements: a) professional engineering qualification, or b) in the case of no professional engineering qualification: qualification in the fields of technical studies, Economics, Science, or Informatics; or qualification as an English teacher - in the case of other qualifications, 3 years of relevant leadership experience is required",
-                "bullets": []
-              },
-              {
-                "heading": "Duration: ",
-                "context": "2 semesters",
-                "bullets": []
-              },
-              {
-                "heading": "ECTS credits: ",
-                "context": "60",
-                "bullets": []
-              },
-              {
-                "heading": "Tuition fee: ",
-                "context": "7,500 USD",
-                "bullets": []
-              },
-              {
-                "heading": "Other fees: ",
-                "context": "application fee 150 USD, entrance procedure fee 350 USD",
-                "bullets": []
-              },
-              {
-                "heading": "Short description: ",
-                "context": "The fundamental aim of the training is to provide the participants with general professional knowledge of strategic management, to build on this knowledge in order to understand and apply a wide range of factors that influence organizational management, and to use the resources available to them in order to run the company effectively. With these skills, graduates will be able to build and operate integrated systems. Moreover, the training aims to prepare participants for leadership roles in an international working environment at a technical company operating in Hungary or abroad and to make them competitive in the international labour market.",
-                "bullets": []
-              },
-              {
-                "heading": "Lecture, seminar: ",
-                "context": "35%",
-                "bullets": []
-              },
-              {
-                "heading": "Practice: ",
-                "context": "65%",
                 "bullets": []
               }
             ]
@@ -5419,156 +5142,6 @@
                 "bullets": []
               }
             ]
-          },
-          {
-            "title": "Food Engineering, BSc",
-            "text": [
-              {
-                "heading": "Food Engineering, BSc",
-                "context": "",
-                "bullets": []
-              },
-              {
-                "heading": "Faculty: ",
-                "context": "Agricultural and Food Sciences and Environmental Management",
-                "bullets": []
-              },
-              {
-                "heading": "Academic discipline: ",
-                "context": "Agricultural Science",
-                "bullets": []
-              },
-              {
-                "heading": "Qualification: ",
-                "context": "Food Engineer",
-                "bullets": []
-              },
-              {
-                "heading": "Starting date: ",
-                "context": "September",
-                "bullets": []
-              },
-              {
-                "heading": "Language requirements: ",
-                "context": "English language proficiency (TOEFL 513 / IELTS 5.5 / oral examination)",
-                "bullets": []
-              },
-              {
-                "heading": "Academic requirements: ",
-                "context": "High school certificate; entrance examination in mathematics, chemistry, or biology (written and oral)",
-                "bullets": []
-              },
-              {
-                "heading": "Duration: ",
-                "context": "7 semesters",
-                "bullets": []
-              },
-              {
-                "heading": "ECTS credits: ",
-                "context": "180+30",
-                "bullets": []
-              },
-              {
-                "heading": "Tuition Fee: ",
-                "context": "7,000 USD/year",
-                "bullets": []
-              },
-              {
-                "heading": "Other fees: ",
-                "context": "Application fee 150 USD, entrance procedure fee 350 USD",
-                "bullets": []
-              },
-              {
-                "heading": "Short description: ",
-                "context": "The BSc program in food engineering at the University of Debrecen is aimed at training professionals who are able to operate, supervise, and develop food processing technologies. The studies include the physical, chemical, and biological fundamentals of engineering with special emphasis on food quality and safety related issues. Besides becoming acquainted with operations and technological processes, the students also learn economic, management, and analytical subjects. The main goal of the program is to train experts who are able to fully provide services related to the everyday tasks of operation from engineering, biological, and chemical work to management duties based on their comprehensive theoretical knowledge.",
-                "bullets": []
-              },
-              {
-                "heading": "Lecture, seminar:: ",
-                "context": "40%",
-                "bullets": []
-              },
-              {
-                "heading": "Practice: ",
-                "context": "60%",
-                "bullets": []
-              }
-            ]
-          },
-          {
-            "title": "Precision Agricultural Engineering BSc",
-            "text": [
-              {
-                "heading": "Precision Agricultural Engineering BSc",
-                "context": "",
-                "bullets": []
-              },
-              {
-                "heading": "Faculty: ",
-                "context": "Agricultural and Food Sciences and Environmental Management",
-                "bullets": []
-              },
-              {
-                "heading": "Academic discipline: ",
-                "context": "Agricultural Science",
-                "bullets": []
-              },
-              {
-                "heading": "Qualification: ",
-                "context": "Precision Agricultural Engineer",
-                "bullets": []
-              },
-              {
-                "heading": "Starting date: ",
-                "context": "September",
-                "bullets": []
-              },
-              {
-                "heading": "Language requirements: ",
-                "context": "English language proficiency (TOEFL 513 / IELTS 5.5 / oral examination)",
-                "bullets": []
-              },
-              {
-                "heading": "Academic requirements: ",
-                "context": "High school certificate; entrance examination in mathematics, chemistry, or biology (written and oral)",
-                "bullets": []
-              },
-              {
-                "heading": "Duration: ",
-                "context": "7 semesters",
-                "bullets": []
-              },
-              {
-                "heading": "ECTS credits: ",
-                "context": "180+30",
-                "bullets": []
-              },
-              {
-                "heading": "Tuition Fee: ",
-                "context": "7,000 USD/year",
-                "bullets": []
-              },
-              {
-                "heading": "Other fees: ",
-                "context": "Application fee 150 USD, entrance procedure fee 350 USD",
-                "bullets": []
-              },
-              {
-                "heading": "Short description: ",
-                "context": "Unique in Hungary and Europe, the training includes, in addition to the basic agricultural knowledge, the knowledge of precision agriculture, agricultural digitalization, the application and operation of precision agricultural equipment, info-communication tools, geoinformatics, data collection, and data management, knowledge of the use of software in agriculture, knowledge of agricultural robotics, the basics of operating agricultural drones, knowledge of precision farming technology, the principles, structure, and operation of precision farming advisory systems.",
-                "bullets": []
-              },
-              {
-                "heading": "Lecture, seminar:: ",
-                "context": "37.6%",
-                "bullets": []
-              },
-              {
-                "heading": "Practice: ",
-                "context": "62.4%",
-                "bullets": []
-              }
-            ]
           }
         ]
       },
@@ -6869,81 +6442,7 @@
               }
             ]
           },
-          {
-            "title": "Kindergarten Education BA",
-            "text": [
-              {
-                "heading": "Kindergarten Education BA",
-                "context": "",
-                "bullets": []
-              },
-              {
-                "heading": "Faculty: ",
-                "context": "Faculty of Education for Children and Special Educational Needs",
-                "bullets": []
-              },
-              {
-                "heading": "Academic discipline: ",
-                "context": "Pedagogy/Education",
-                "bullets": []
-              },
-              {
-                "heading": "Qualification: ",
-                "context": "Kindergarten Educator",
-                "bullets": []
-              },
-              {
-                "heading": "Starting date: ",
-                "context": "September",
-                "bullets": []
-              },
-              {
-                "heading": "Language requirements: ",
-                "context": "English language proficiency (TOEFL 513 / IELTS 5.5 / oral examination)",
-                "bullets": []
-              },
-              {
-                "heading": "Academic requirements: ",
-                "context": "High school certificate; entrance examination in English (Aptitude exam: written (Letter of motivation), oral: a conversation via electronic communication); Aptitude test in physical fitness",
-                "bullets": []
-              },
-              {
-                "heading": "Duration: ",
-                "context": "6 semesters",
-                "bullets": []
-              },
-              {
-                "heading": "ECTS credits: ",
-                "context": "180",
-                "bullets": []
-              },
-              {
-                "heading": "Tuition fee: ",
-                "context": "6,000 USD/year",
-                "bullets": []
-              },
-              {
-                "heading": "Other fees: ",
-                "context": "Application fee 150 USD, entrance procedure fee 350 USD",
-                "bullets": []
-              },
-              {
-                "heading": "Short description: ",
-                "context": "The aim of the program is to provide our students with a range of practical skills and theoretical tools in the area of Early Childhood Education and Care. The graduates will be able to plan and manage process-related pedagogical activities that support child-centred development and care of children from 3 years of age to 6. They acquire theoretical knowledge and can organize colourful and interesting activity programmes in kindergartens using up-to-date methods. The graduates transfer universal and national values to children as well as support differentiated child development, in cooperation with the family and in accord with the social environment.",
-                "bullets": []
-              },
-              {
-                "heading": "Lecture, seminar: ",
-                "context": "77%",
-                "bullets": []
-              },
-              {
-                "heading": "Practice: ",
-                "context": "23%",
-                "bullets": []
-              }
-            ]
-          },
+
           {
             "title": "Psychology BA",
             "text": [
@@ -8129,27 +7628,6 @@
             "heading": "",
             "context": "At each step of the process, our Admissions Team will be there to guide you, answer any questions you may have, and ensure an efficient process.",
             "bullets": []
-          }
-        ]
-      },
-      {
-        "title": "Deadlines",
-        "text": [
-          {
-            "heading": "September 2026/2027 Intake:",
-            "context": "",
-            "bullets": [
-              "PhD programs: 15th May 2026",
-              "All other programs: 15th June 2026"
-            ]
-          },
-          {
-            "heading": "January/February 2025/2026 Intake:",
-            "context": "",
-            "bullets": [
-              "Medical programs (only Basic Medicine Course II): 1st November 2025",
-              "Other non-medical programs, PhD program: 15th November 2025"
-            ]
           }
         ]
       },

@@ -9,7 +9,7 @@ interface Location {
   organizationName: string;
   representative: string;
   address: string;
-  tel: string;
+  tel?: string;
   mobile: string;
   email: string;
   website: string;
@@ -55,9 +55,11 @@ const MapComponent: React.FC<MapComponentProps> = ({ location, height }) => {
               <p>
                 <strong>Address:</strong> {loc.address}
               </p>
-              <p>
-                <strong>Tel:</strong> {loc.tel}
-              </p>
+              {loc.tel && (
+                <p>
+                  <strong>Tel:</strong> {loc.tel}
+                </p>
+              )}
               <p>
                 <strong>Mobile:</strong> {loc.mobile}
               </p>

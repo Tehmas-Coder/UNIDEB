@@ -3,7 +3,7 @@ const MapComponent = dynamic(
   () => import("@/components/common/map/MapComponent"),
   {
     ssr: false,
-  }
+  },
 );
 import mapdata from "@/components/common/mapdata.json";
 import dynamic from "next/dynamic";
@@ -34,7 +34,7 @@ export interface Location {
   organizationName: string;
   representative: string;
   address: string;
-  tel: string;
+  tel?: string;
   mobile: string;
   email: string;
   website: string;

@@ -68,7 +68,7 @@ const MapAndContact = () => {
                 <span className="mr-1 sm:mx-3 pl-2">
                   <FaPhoneAlt style={{ color: "#155744" }} />
                 </span>{" "}
-                +971 50 844 8119
+                +971 50 844 8117
               </div>
               <div className="flex items-center my-2">
                 <span className="mx-1 md:mx-4">
