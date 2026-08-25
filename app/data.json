@@ -9,8 +9,8 @@
 
     "EventsData": [
       {
-        "title": "BMI Abu Dhabi",
-        "description": "Visit us at BMI Abu Dhabi and discover the study opportunities available at the University of Debrecen. Our team will be available to answer your questions and guide you through the application process.",
+        "title": "SABIS University Fair",
+        "description": "Meet our representatives at SABIS® International School Yas Island Campus to learn more about the University of Debrecen, its academic programmes, admission requirements, scholarships, and student life.",
         "year": "2026",
         "month": "Sep",
         "date": "26-27",
@@ -7809,12 +7809,6 @@
 
   "DownloadPagesData": {
     "BrouchersData": [
-      {
-        "id": 1,
-        "image": "/Avation.jpg",
-        "pdf": "/pdf/Aviation.pdf",
-        "name": "Aviation"
-      },
       {
         "id": 2,
         "image": "/graduate (1).jpg",
