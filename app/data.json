@@ -2,8 +2,8 @@
   "HomePageData": {
     "UniDetails": {
       "name": "University of Debrecen",
-      "rank": "Hungary’s #1 University",
-      "desc": "The university offers over 100 programs for international students in various fields",
+      "rank": "Hungary’s Top-Ranked University",
+      "desc": "A prestigious European university with a 100+ year academic legacy.",
       "admissionsOpen": "Admissions Open"
     },
 
@@ -7506,7 +7506,7 @@
         },
         {
           "heading": "Accreditations",
-          "content": "The University of Debrecen conducts its academic programs according to the European Qualifications Framework of the [Bologna Process](link_1). As a result, degrees awarded by the University of Debrecen are widely recognized across countries within the European Union. All programs are accredited by the Hungarian Accreditation Board, which operates within the European accreditation framework."
+          "content": "TThe University of Debrecen conducts its academic programs in accordance with the European Qualifications Framework (EQF) under the Bologna Process. As a result, degrees awarded by the university are widely recognized across the European Union and many countries worldwide. All academic programs are accredited by the Hungarian Accreditation Board (MAB), which operates within the European quality assurance framework."
         },
         {
           "heading": "Medical Programs Accreditation",
@@ -7517,6 +7517,7 @@
             "Medical Board of California",
             "Medical Councils of India (qualifying examination requirements apply)",
             "General Medical Council (UK)",
+            "Pakistan Medical Council(qualifying examination requirements apply)",
             "Medical authorities in Israel, Ireland, Iran, Norway, and the United Arab Emirates"
           ]
         },
@@ -7531,25 +7532,26 @@
 
         {
           "heading": "Engineering & Other Program Accreditations",
-          "content": "Engineering programs at the University of Debrecen follow international quality standards. All BSc and MSc Engineering programs are listed in the European Engineering Education Database (EEED). The university’s engineering programs are also recognized through FEANI (European Federation of National Engineering Associations)."
-        },
-        {
-          "heading": "",
-          "content": "Additionally, Chemistry programs have received the Eurobachelor and Euromaster labels, further demonstrating the university’s commitment to internationally benchmarked education."
+          "content": "The University's Engineering programs follow internationally recognized quality standards.",
+          "bullets": [
+            "All BSc and MSc Engineering programs are listed in the European Engineering Education Database (EEED).",
+            "Engineering programs are recognized through FEANI (European Federation of National Engineering Associations).",
+            "Chemistry programs have received the Eurobachelor and Euromaster quality labels, demonstrating compliance with international academic standards."
+          ]
         },
         {
           "heading": "Rankings",
-          "content": "The University of Debrecen continues to strengthen its position in international university rankings while maintaining its status as one of Hungary’s leading higher education institutions."
+          "content": "The University of Debrecen continues to strengthen its position among the world's leading universities while maintaining its reputation as one of Hungary's top higher education institutions."
         },
         {
           "heading": "QS World University Rankings",
           "content": "",
           "bullets": [
-            "Ranked 574th globally in QS World University Rankings 2025",
-            "Ranked among the leading universities in subject areas including Life Sciences & Medicine, Medicine, Biological Sciences, and Agriculture & Forestry",
-            "Ranked 40th in the QS Emerging Europe and Central Asia (EECA) University Rankings",
-            "Included among the top universities in the QS Graduate Employability Rankings",
-            "Ranked 222nd among the best universities in Europe (QS Europe Rankings 2025)"
+            "Ranked #=600 globally in the QS World University Rankings 2027",
+            "Ranked #251–300 in the QS World University Rankings by Subject",
+            "Ranked #=322 in the QS Sustainability Rankings",
+            "Ranked #11 in the QS Europe University Rankings – Eastern Europe",
+            "Recognized for its strong international outlook, research collaboration, and diverse international student community."
           ]
         },
         {
@@ -7570,10 +7572,6 @@
             "Recognized in multiple RUR subject rankings",
             "Ranked in the UI GreenMetric World University Rankings, highlighting sustainability and environmental responsibility"
           ]
-        },
-        {
-          "heading": "",
-          "content": "These international accreditations and rankings demonstrate the University of Debrecen’s strong academic reputation, research excellence, and commitment to providing globally competitive education."
         }
       ]
     }
