@@ -12,14 +12,19 @@ type Props = {
   params: { slug: string };
 };
 
-let blogID: number;
-
 export const generateMetadata = ({ params }: Props): Metadata => {
-  const desc = `${blogdata.articles[blogID].SEOdesc}`;
+  const article = blogdata.articles.find((item) => item.slug === params.slug);
+
+  if (!article) {
+    return {
+      title: "Article Not Found",
+    };
+  }
+
   return {
-    title: `${blogdata.articles[blogID].title}`,
-    description: `${desc}`,
-    keywords: `${blogdata.articles[blogID].SEOkeywords}`,
+    title: `${article.title}`,
+    description: `${article.SEOdesc}`,
+    keywords: `${article.SEOkeywords}`,
     robots: "index, follow",
     formatDetection: { telephone: false },
     viewport:
@@ -38,6 +43,7 @@ const ContactForm = dynamic(
   () => import("@/components/common/form/ContactForm"),
   { ssr: false },
 );
+
 export const dynamicParams = false;
 
 export async function generateStaticParams() {
@@ -76,18 +82,7 @@ const ArticleDetailPage = ({ params }: { params: { slug: string } }) => {
   };
 
   const { slug } = params;
-
-  let article = null;
-
-  if (slug) {
-    for (let i = 0; i < blogdata.articles.length; i++) {
-      if (blogdata.articles[i].slug === slug) {
-        article = blogdata.articles[i];
-        blogID = i;
-        break;
-      }
-    }
-  }
+  const article = blogdata.articles.find((item) => item.slug === slug);
 
   if (!article) {
     return <div>Article not found</div>;
@@ -156,7 +151,7 @@ const ArticleDetailPage = ({ params }: { params: { slug: string } }) => {
           <img
             src={article.innerimage}
             alt={article.title}
-            className="w-full h-[400px] object-cover rounded"
+            className="w-full h-[350px] object-contain rounded"
             width={5000}
             height={5000}
           />

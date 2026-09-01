@@ -45,23 +45,7 @@ interface Article {
   comments: number;
   SEOdesc: string;
   SEOkeywords: string;
-}
-
-interface Article {
-  id: number;
-  title: string;
-  blogTitle: string;
-  slug: string;
-  author: string;
-  authorpic: string;
-  date: string;
-  readTime: string;
-  content: ArticleContent[];
-  image: string;
-  innerimage: string;
-  comments: number;
-  SEOdesc: string;
-  SEOkeywords: string;
+  tags?: string[];
 }
 
 const Page: React.FC = () => {
