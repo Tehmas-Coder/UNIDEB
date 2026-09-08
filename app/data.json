@@ -9,6 +9,14 @@
 
     "EventsData": [
       {
+        "title": "UniHawk UAE Fair",
+        "description": "Meet our representatives at the UniHawk UAE Fair to learn more about the University of Debrecen, its programmes, admissions, scholarships, and student life.",
+        "year": "2026",
+        "month": "Sep",
+        "date": "08-11",
+        "location": "Abu Dhabi, UAE"
+      },
+      {
         "title": "SABIS University Fair",
         "description": "Meet our representatives at SABIS® International School Yas Island Campus to learn more about the University of Debrecen, its academic programmes, admission requirements, scholarships, and student life.",
         "year": "2026",
@@ -23,22 +31,6 @@
         "month": "Oct",
         "date": "01",
         "location": "Dubai, UAE"
-      },
-      {
-        "title": "BMI Dubai",
-        "description": "Meet our representatives at BMI Dubai to learn more about the University of Debrecen, its academic programmes, admission requirements, scholarships, and student life.",
-        "year": "2026",
-        "month": "Oct",
-        "date": "02-03",
-        "location": "Dubai, UAE"
-      },
-      {
-        "title": "BMI Abu Dhabi",
-        "description": "Visit us at BMI Abu Dhabi and discover the study opportunities available at the University of Debrecen. Our team will be available to answer your questions and guide you through the application process.",
-        "year": "2026",
-        "month": "Oct",
-        "date": "04",
-        "location": "Abu Dhabi, UAE"
       }
     ],
 
