@@ -52,39 +52,68 @@ const RepresentativeSearch: React.FC = () => {
                         className="my-4 font-nunito text-[#114c3a]"
                         key={index}
                       >
-                        <p className="text-lg font-bold">
-                          {location.organizationName}
-                        </p>
-                        <p>
-                          <span className="font-bold">Representative:</span>{" "}
-                          {location.representative}
-                        </p>
-                        <p>
-                          <span className="font-bold">Address:</span>{" "}
-                          {location.address}
-                        </p>
+                        {location.organizationName && (
+                          <p className="text-lg font-bold">
+                            {location.organizationName}
+                          </p>
+                        )}
+
+                        {location.representative && (
+                          <p>
+                            <span className="font-bold">Representative:</span>{" "}
+                            {location.representative}
+                          </p>
+                        )}
+
+                        {location.address && (
+                          <p>
+                            <span className="font-bold">Address:</span>{" "}
+                            {location.address}
+                          </p>
+                        )}
+
                         {location.tel && (
                           <p>
                             <span className="font-bold">Tel:</span>{" "}
                             {location.tel}
                           </p>
                         )}
-                        <p>
-                          <span className="font-bold">Mobile:</span>{" "}
-                          {location.mobile}
-                        </p>
-                        <p>
-                          <span className="font-bold">Email:</span>{" "}
-                          {location.email}
-                        </p>
-                        <p>
-                          <span className="font-bold">Website:</span>{" "}
-                          {location.website}
-                        </p>
-                        <p>
-                          <span className="font-bold">Timing:</span>{" "}
-                          {location.Timing}
-                        </p>
+
+                        {location.mobile && (
+                          <p>
+                            <span className="font-bold">Mobile:</span>{" "}
+                            {location.mobile}
+                          </p>
+                        )}
+
+                        {location.email && (
+                          <p>
+                            <span className="font-bold">Email:</span>{" "}
+                            {location.email}
+                          </p>
+                        )}
+
+                        {location.website && (
+                          <p>
+                            <span className="font-bold">Website:</span>{" "}
+                            <a
+                              href={location.website}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              <span className="hover:underline">
+                                {location.website}
+                              </span>
+                            </a>
+                          </p>
+                        )}
+
+                        {location.Timing && (
+                          <p>
+                            <span className="font-bold">Timing:</span>{" "}
+                            {location.Timing}
+                          </p>
+                        )}
                       </div>
                     ))}
                 </div>

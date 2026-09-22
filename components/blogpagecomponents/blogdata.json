@@ -1,6 +1,2310 @@
 {
   "articles": [
     {
+      "id": 90,
+      "title": "University of Debrecen Entrance Exam: Non-Medical Programs",
+      "blogTitle": "University of Debrecen Entrance Exam for Non-Medical Programs: Format, Topics & Sample Papers",
+      "slug": "university-of-debrecen-entrance-exam-for-non-medical-programs-format-topics-and-sample-papers",
+      "author": "Ahsan Naseem",
+      "authorpic": "/A.png",
+      "date": "September 22, 2026",
+      "readTime": "13 min read",
+      "image": "/university-of-debrecen-entrance-exam-non-medical-programs-outside-image.jpg",
+      "innerimage": "/university-of-debrecen-entrance-exam-non-medical-programs-inside-image.jpg",
+      "comments": 4,
+      "SEOdesc": "How the University of Debrecen entrance exam works for non-medical programs: written test, interview, Master's rules, online exams, and sample papers.",
+      "SEOkeywords": "uod non-medical entrance exam, university of debrecen entrance interview, uod entrance exam sample papers, university of debrecen entrance exam format",
+      "tags": [],
+      "robots": "index, follow",
+      "content": [
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "If you're applying to an engineering, computer science, business, agriculture, or science program at the University of Debrecen, you'll take an entrance exam as part of your application. For many applicants, this is the part of the process they know least about.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "University of Debrecen entrance exam",
+              "url": "https://southasia.edu.unideb.hu/blog/blog-details/Top-Tips-for-Success-in-the-University-of-Debrecen-Entrance-Exam/"
+            }
+          },
+          "text": "This guide explains how the [University of Debrecen entrance exam](link_1) works for non-medical programs: who takes it, what's in the written test, what the committee asks in the interview, how Master's admission is different, what happens if you can't travel to an exam centre, and how to prepare using official sample papers.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "medical entrance exam",
+              "url": "https://southasia.edu.unideb.hu/blog/blog-details/mbbs-in-hungary-for-international-students-eligibility-fees-and-how-to-apply/"
+            }
+          },
+          "text": "If you're applying to Medicine, Dentistry or Pharmacy, read our separate guide to the [medical entrance exam](link_1) instead, because the format is different.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "The Non-Medical Entrance Exam at a Glance",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "",
+          "columns": [
+            {
+              "title": "Requirements",
+              "dataIndex": "requirements",
+              "key": "requirements"
+            },
+            {
+              "title": "Details",
+              "dataIndex": "details",
+              "key": "details"
+            }
+          ],
+          "tableData": [
+            {
+              "key": "1",
+              "requirements": "Who takes it",
+              "details": "Applicants to non-medical Bachelor's and foundation programs; interviews also apply to certain Master's programs"
+            },
+            {
+              "key": "2",
+              "requirements": "Format",
+              "details": "A written test plus an oral interview "
+            },
+            {
+              "key": "3",
+              "requirements": "Subjects",
+              "details": "English plus the subjects relevant to your chosen program"
+            },
+            {
+              "key": "4",
+              "requirements": "Language",
+              "details": "English"
+            },
+            {
+              "key": "5",
+              "requirements": "Where",
+              "details": "At exam venues arranged through the university's representatives, or online if you can't travel"
+            },
+            {
+              "key": "6",
+              "requirements": "Fee",
+              "details": "Entrance procedure fee: USD 350"
+            },
+            {
+              "key": "7",
+              "requirements": "Result",
+              "details": "Your overall performance is assessed. Individual part-scores are for internal use and aren't shared with applicants."
+            },
+            {
+              "key": "8",
+              "requirements": "After passing",
+              "details": "The regional office aims to issue your Letter of Acceptance the next day"
+            }
+          ],
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "Who Has to Take the Entrance Exam?",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Bachelor's and foundation applicants (non-medical). You take the entrance exam for your chosen program: for example, engineering, computer science, business, agriculture, or the sciences.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Master's applicants. For most Master's programs, admission is based on an entrance interview rather than a written exam. An interview is compulsory for programs in the medical and health sciences fields (for example, Public Health MSc, Molecular Biology MSc and Social Work MSc) and for certain non-medical programs, such as engineering Master's degrees.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Transfer students. If you're transferring from another university, the interview includes subject questions so the committee can confirm the knowledge shown in your transcripts.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Stipendium Hungaricum scholarship applicants. Published exam dates don't apply to you. Scholarship applicants are contacted about their exam dates after country nomination and the formal check of their application.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "What's in the Written Test?",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "For non-medical programs, the written exam covers English and the subjects relevant to your chosen program. In practice, this means a combination drawn from Mathematics, Physics, Chemistry, Biology, and English, depending on what you've applied for.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Typical pairings look like this:",
+          "columns": [
+            {
+              "title": "Program area",
+              "dataIndex": "program",
+              "key": "program"
+            },
+            {
+              "title": "Likely subjects",
+              "dataIndex": "subjects",
+              "key": "subjects"
+            }
+          ],
+          "tableData": [
+            {
+              "key": "1",
+              "program": "Engineering (mechanical, civil, mechatronics)",
+              "subjects": "English, Mathematics, Physics"
+            },
+            {
+              "key": "2",
+              "program": "Computer science and IT",
+              "subjects": "English, Mathematics"
+            },
+            {
+              "key": "3",
+              "program": "Business and economics",
+              "subjects": "English, Mathematics"
+            },
+            {
+              "key": "4",
+              "program": "Biology, biotechnology, molecular sciences",
+              "subjects": "English, Biology, Chemistry"
+            },
+            {
+              "key": "5",
+              "program": "Agriculture and food science",
+              "subjects": "English, Biology, Chemistry"
+            }
+          ],
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Always confirm your own subject combination before you start revising. Ask our admissions team, so you don't spend weeks preparing the wrong material.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "The exam is written in English, so part of what's being tested is your ability to understand and answer technical questions in English, which is how you'll study for the whole degree.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "What Happens in the Oral Interview?",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "The oral part is not a test designed to catch you out. The committee is assessing three things:",
+          "bullets,": [
+            "Subject knowledge. Questions from the same subject areas as the written exam.",
+            "English communication skills. Can you follow the discussion and explain your thinking clearly?",
+            "Motivation. Why this program, why the University of Debrecen, and what you plan to do afterwards."
+          ],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "For Bachelor's and Master's applicants, expect questions about your motivation, your plans, and your previous education. Master's applicants also get subject-related questions about their professional or academic background.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "How to handle it: answer honestly, take a moment to think before responding, and say so if you don't know something rather than guessing wildly. The committee is more interested in how you reason than in perfect recall.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "Three Things Most Applicants Don't Know",
+          "boldtext": "1. Exceptional grades can lead to direct admission",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Applicants with outstanding results in their previous studies may, in some cases, be granted direct admission to the first year. So strong school results still count, even though the entrance exam is central to the process.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "2. The committee can offer you a different program",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "If your performance suits another program better, the committee may offer you acceptance to that program instead. A result that isn't quite right for your first choice isn't necessarily a rejection: it can be a redirection.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "3. Individual scores aren't published",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Your overall performance is what counts. The scores for different parts of the exam are used internally and aren't communicated to applicants, so don't expect a detailed breakdown.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "Can I Take the Entrance Exam Online?",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Yes. If you can't travel to Hungary or to one of the exam venues abroad, an online exam is usually possible, normally arranged by video call.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "A few practical points:",
+          "bullets,": [
+            "Test your equipment beforehand: camera, microphone, internet connection, and a backup option such as mobile data.",
+            "Choose a quiet, well-lit room where you won't be interrupted.",
+            "Have your passport or ID ready for identity verification.",
+            "Check the time zone of your exam slot carefully."
+          ],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Note that the university reserves the right to cancel an exam session if too few applicants register for a venue, so confirm your session before booking travel.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "Exam Dates, Venues and Fees",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Entrance exams are held on scheduled dates at venues arranged with the university's representatives, including in our region.",
+          "bullets,": [
+            "Entrance procedure fee: USD 350.",
+            "For non-medical programs, the application fee (USD 150) is normally charged when you submit your application, with the entrance fee paid alongside tuition.",
+            "Contact us for the exact venue, start time, and current fee arrangements for your session."
+          ],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "application deadlines page",
+              "url": "https://southasia.edu.unideb.hu/deadlines/"
+            }
+          },
+          "text": "Since exam dates need to fit around application deadlines, book early. For the February 2027 intake, the application deadline is 1 November 2026. See all dates on our [application deadlines page](link_1).",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "How to Prepare for the Entrance Exam",
+          "boldtext": "1. Start with the official exam topics and sample papers",
+          "links": {
+            "link_1": {
+              "title": "sample papers page",
+              "url": "https://southasia.edu.unideb.hu/sample-paper/"
+            }
+          },
+          "text": "The university publishes exam topics and sample tests, with separate versions for non-medical Bachelor's programs. These show you the style, level, and structure of the questions, which is far more useful than guessing. Download them from our [sample papers page](link_1).",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "2. Confirm your subject combination",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Before you revise, check exactly which subjects your program requires.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "3. Revise the core school syllabus, not advanced material",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "The exam is based on secondary school-level knowledge in the relevant subjects. Focus on the fundamentals you'll need in your first year: for engineering, that's algebra, functions, mechanics, and units; for IT, it's mathematics and logical reasoning; for life sciences, it's cell biology and basic chemistry.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "4. Practise in English",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Revise technical terms in English, not only in your first language. Many applicants know the content but lose time translating in their heads.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "5. Practise under timed conditions",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Work through a sample paper with a timer to build exam pace.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "6. Prepare your interview answers",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Be ready to explain, in two or three clear sentences: why this program, why the University of Debrecen, and what you want to do after graduating. Bring an example from your studies or work that shows genuine interest in the field.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "7. Ask us for a practice session",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Our admissions team knows the format well and can tell you what to expect.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "What to Bring on Exam Day",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Whether you sit the exam in person or online, have these ready:",
+          "bullets,": [
+            "Your passport or national ID, for identity verification.",
+            "Your application reference number and any confirmation email from the university or regional office.",
+            "Proof that you've paid the entrance procedure fee, if requested.",
+            "Basic stationery for an in-person exam: pens, pencils, and a simple calculator if your subjects allow one.",
+            "Water and a watch, so you can manage your time without relying on a phone."
+          ],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Arrive early for an in-person session, or log in 15 minutes before an online one. Technical problems are far easier to solve before the exam starts than during it.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "Common Mistakes Applicants Make",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "",
+          "bullets,": [
+            "Revising the wrong subjects. Confirm your combination before you start.",
+            "Preparing only in their first language. The exam is in English, including the technical terms.",
+            "Leaving the exam until the last date before the deadline. Sessions fill up, and a cancelled session can leave you short of time.",
+            "Treating the interview as a formality. Applicants who can't explain why they chose the program leave a weak impression, even with a good written result.",
+            "Over-preparing advanced material. The exam tests secondary school-level fundamentals, not university content.",
+            "Ignoring the foundation route. If the committee suggests a preparatory program, it's a genuine path into your degree, not a rejection."
+          ],
+          "images": []
+        },
+        {
+          "heading": "What Happens After the Exam?",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "1. Your result is assessed based on your overall performance across the written and oral parts.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "2. You receive your admission decision. Upon successfully qualifying in the entrance exam or interview, the regional office aims to issue your Letter of Acceptance the next day.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "3. You pay your tuition and deposit to secure your place. For programs where tuition is under USD 10,000, students pay the yearly tuition plus a general deposit before receiving their visa supporting documents.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "Hungary student visa guide",
+              "url": "https://southasia.edu.unideb.hu/blog/blog-details/Student-Visa-Guide-for-Hungary-Requirements-and-Application-Process-for-International-Students/"
+            }
+          },
+          "text": "4. You apply for your student visa. See our [Hungary student visa guide](link_1).",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "If you're not admitted this time, ask about your options. Depending on your result, the foundation program or a related program may be a good route, and our team can explain what would strengthen a future application.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "Download Sample Papers and Book Your Entrance Exam",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "The best preparation is knowing exactly what the exam looks like.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Get the official sample papers and exam topics for your program, plus the next available exam dates in your region.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Our admissions team will send the correct sample papers for your subject combination and help you book your exam slot.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "Contact us today",
+              "url": "https://southasia.edu.unideb.hu/contact/"
+            }
+          },
+          "text": "Questions first? [Contact us today](link_1) or visit the University of Debrecen South Asia Regional Office in Jumeirah Lake Towers, Dubai.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "entry requirements",
+              "url": "https://southasia.edu.unideb.hu/blog/blog-details/university-of-debrecen-2026-2027-admission-requirements-for-international-students/"
+            }
+          },
+          "text": "Not applied yet? Check the [entry requirements](link_1) and apply before the 1 November 2026 deadline for the February 2027 intake.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "Frequently Asked Questions",
+          "boldtext": "What is the University of Debrecen entrance exam? ",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "It's the university's own admission test. For non-medical programs, it covers English and the subjects relevant to your chosen program, and it includes a written test and an oral interview conducted in English.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "Is there an entrance exam for Master's programs?",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Most Master's applicants take an entrance interview rather than a written exam. Interviews are compulsory for medical and health sciences programs and for certain non-medical programs, such as engineering Master's degrees.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "Can I take the University of Debrecen entrance exam online? ",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Yes. If you can't travel to an exam venue, an online exam by video call is usually possible. Contact the regional office to arrange it.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "What subjects are in the non-medical entrance exam? ",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "English plus the subjects relevant to your program, drawn from Mathematics, Physics, Chemistry and Biology. Confirm your combination with the admissions team before you revise.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "How much does the entrance exam cost? ",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "The entrance procedure fee is USD 350. The application fee of USD 150 is charged separately.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "Will I be told my exam score? ",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "No. Overall performance determines the outcome. Individual part-scores are for internal use and aren't shared with applicants.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "What happens if I don't pass? ",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "The committee may offer you a place on a different program that matches your results, or you may be advised to start with a foundation program. Ask our team about the best route for your situation.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "How soon will I know the result? ",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Once you successfully qualify, the regional office aims to issue your Letter of Acceptance the next day.",
+          "bullets,": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "title": "University of Debrecen Accreditation & Degree Recognition Guide",
+      "blogTitle": "Is University of Debrecen Degree Recognised Internationally?",
+      "slug": "is-university-of-debrecen-degree-recognised-internationally",
+      "author": "Ahsan Naseem",
+      "authorpic": "/A.png",
+      "date": "September 22, 2026",
+      "readTime": "13 min read",
+      "image": "/university-of-debrecen-accreditation-outside-image.jpg",
+      "innerimage": "/university-of-debrecen-accreditation-inside-image.jpg",
+      "comments": 4,
+      "SEOdesc": "How international recognition works for a University of Debrecen degree: WFME accreditation, the USMLE route, EU recognition, and how to check your country.",
+      "SEOkeywords": "university of debrecen accreditation, hungarian medical degree recognition, is hungary mbbs recognised, wfme accredited medical schools hungary",
+      "tags": [],
+      "robots": "index, follow",
+      "content": [
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Before committing several years and a significant amount of money to a degree abroad, every student and parent asks the same question: will this degree be recognised at home and in the countries where I might want to work?",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "It's the right question to ask, and it deserves a careful answer rather than a marketing one. This guide explains how recognition actually works, what accreditation the University of Debrecen holds, how recognition differs between medical and non-medical degrees, and, most importantly, how to check the rules that apply to you before you apply.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "One point before we start: no university can guarantee that you will be licensed to practise in a particular country. Each country's licensing authority decides, and the rules can change. What a university can do is hold the accreditations those authorities look for, and tell you clearly where to check.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "What 'Recognition' Actually Means",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "People use one word for three different things. Understanding the difference saves a lot of confusion.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "1. Institutional accreditation. This is whether the university and its programs are officially accredited in their own country. Hungarian higher education is accredited by the Hungarian Accreditation Committee (HAC), the national quality assurance body.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "2. Academic recognition. This is whether another country accepts your degree as equivalent to one of its own qualifications, for example, when you apply for a Master's, a PhD, or a job that requires a degree. This is usually handled by a national recognition centre or credential evaluation service.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "3. Professional recognition (licensure). This is whether you can legally practise a regulated profession, such as medicine, dentistry, pharmacy, nursing, or engineering. This is decided by the professional council or licensing authority in the country where you want to work, and it usually involves an exam, supervised practice, or both, no matter where you studied.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "The most important takeaway: for regulated professions, the degree is only one part. Almost every country requires foreign-trained graduates to pass a licensing exam or registration process. That is normal, and it applies to graduates of universities worldwide.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "The University of Debrecen's Accreditation",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "The University of Debrecen is a state-recognised public university in Hungary, and an EU member state's higher education system. Its degrees are issued under Hungarian law and quality assurance rules.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "Medical education and WFME accreditation",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "The University of Debrecen was the first university in Hungary to have its general medicine program accredited according to the criteria of the World Federation for Medical Education (WFME). The accreditation was awarded by the Hungarian Accreditation Committee, whose activities are recognised by WFME. The accreditation runs for eight years, until 22 April 2030, provided the WFME criteria continue to be met.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "This is not a symbolic distinction. It has a direct, practical consequence for graduates.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "Why WFME accreditation matters for the United States",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "To practise medicine in the US, international graduates must pass the United States Medical Licensing Examination (USMLE) and obtain certification from ECFMG. Since 2024, only graduates of medical schools accredited by an agency recognised by WFME are eligible for that pathway.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Because the University of Debrecen's medical education is accredited by a WFME-recognised agency, its graduates meet this accreditation requirement. Note that ECFMG's policy also involves the school's listing details in the World Directory of Medical Schools, so applicants should check the current requirements directly with ECFMG/Intealth before making plans.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "One caution that's often misreported online: being listed in the World Directory of Medical Schools is not the same as being recognised or endorsed by it. The directory itself states that a listing does not denote recognition, accreditation or endorsement. What matters is the accreditation status shown in the listing, not the listing alone.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "Other recognitions",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "The University of Debrecen's medical programs are also associated with recognition by bodies including the World Health Organization, the New York State Education Department and the Medical Board of California .",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Some sources list further recognitions by councils in other countries.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Our recommendation: treat any list of country recognitions, including ours, as a starting point for your own checks, not as a guarantee. Always confirm directly with the authority in the country where you plan to practise.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "Recognition Within the European Union",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Hungary is an EU member state, so degrees awarded by Hungarian state-recognised universities are issued within the EU's higher education framework, which uses the same degree structure (Bachelor's, Master's, doctorate) and ECTS credit system used across Europe. This makes it straightforward to have your qualification understood when you apply for further study or work in Europe.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "For regulated professions such as medicine, the EU has directives on the recognition of professional qualifications between member states, though procedures, language requirements, and registration steps still apply in each country.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "The USMLE Route and Preparation Support",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "For students who plan to pursue residency in the United States, the University of Debrecen offers access to Kaplan USMLE preparation alongside the medical curriculum.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Doing USMLE preparation alongside your degree can be a practical advantage, because the exam covers material taught across several years of study. Even so, US residency is competitive, and preparation is only one part of the picture, so plan early and speak to graduates who have taken this route.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "What About Non-Medical Degrees?",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Recognition works differently for degrees in engineering, computer science, business, agriculture, and the sciences.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Most of these professions are not regulated in the same way as medicine. For jobs in IT, business, data science, or many engineering roles, employers typically care about the degree itself, your skills and your experience, not about a licensing exam. A Hungarian state-recognised degree is issued within the EU framework, which employers and universities internationally are used to assessing.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Where a profession is regulated (for example, certain engineering roles that require a professional engineer licence, or architecture, pharmacy and nursing), a registration or examination process usually applies to foreign-trained graduates. Check with the relevant professional body in the country where you want to work.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "For further study, if you plan to apply for a Master's or PhD in another country, the receiving university will assess your qualification, often through a credential evaluation service. A degree from a state-recognised EU university is generally straightforward to evaluate, but the university you apply to makes the final decision.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "The University's Standing",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Recognition is partly formal accreditation and partly track record. The University of Debrecen has:",
+          "bullets,": [
+            "Taught programs in English since 1987, so its international curriculum is well established.",
+            "More than 7,800 international students from over 140 countries, out of more than 34,000 students in total.",
+            "Two teaching hospitals with over 2,900 beds and more than 500 research laboratories.",
+            "874 bilateral agreements with 615 partner institutions in 44 countries."
+          ],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "A long history of training international graduates means authorities in many countries have assessed the university's qualifications before, which usually makes the process more predictable.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "How to Check Recognition for Your Own Country Before You Apply",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "This is the most useful section in this guide, so do these four things before you commit.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "1. Identify the right authority",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "For medicine, dentistry, pharmacy, and nursing, it's your country's medical, dental, pharmacy or nursing council. For other professions, it's the relevant professional body. For academic recognition, it's your national recognition centre or ministry of education.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "2. Ask three specific questions",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "",
+          "bullets,": [
+            "Is a medical (or other) degree from a Hungarian state-recognised university accepted for registration?",
+            "What extra steps apply to foreign-trained graduates (screening tests, licensing exams, internships, language requirements)?",
+            "Are there any conditions about the accreditation status of the university, the length of the program, or clinical training hours?"
+          ],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "3. Get the answer in writing",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Rules change, and advice from agents or forums can be out of date or simply wrong. A written answer or an official web page from the authority itself is worth far more than a promise from anyone selling you a service.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "4. Ask us for help",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "We can tell you exactly what the University of Debrecen's accreditation status is, provide official documentation about the program, and point you to the right authorities to contact. What we won't do is promise you a licence, because no university or office can.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "Questions Worth Asking Any University You're Considering",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "If you're comparing universities, ask each one:",
+          "bullets,": [
+            "Which agency accredits your medical program, and is that agency recognised by WFME?",
+            "When does your accreditation expire?",
+            "What documentation will I receive with my degree (diploma supplement, transcripts, curriculum details) to support recognition applications?",
+            "What support do you provide to graduates applying for licensing exams?",
+            "How many of your graduates have been licensed in the countries I'm considering?"
+          ],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Universities that answer these clearly, with evidence, are usually the ones worth trusting.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "Ask Our Team About Recognition in Your Country",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Recognition rules differ by country and change over time, so the safest approach is to check before you apply, not after you graduate.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Tell us which country you want to practise or work in, and we'll help you find the right authority to contact and provide the official documentation about the program you're considering.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "Contact us today",
+              "url": "https://southasia.edu.unideb.hu/contact/"
+            }
+          },
+          "text": "Prefer to talk? [Contact us today](link_1) or visit the University of Debrecen South Asia Regional Office.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "entry requirements",
+              "url": "https://southasia.edu.unideb.hu/blog/blog-details/university-of-debrecen-2026-2027-admission-requirements-for-international-students/"
+            },
+            "link_2": {
+              "title": "tuition fees and total cost guide",
+              "url": "https://southasia.edu.unideb.hu/blog/blog-details/Cost-of-Living-in-Debrecen-Budgeting-Tips-for-International-Students/"
+            },
+            "link_3": {
+              "title": "application deadlines",
+              "url": "https://southasia.edu.unideb.hu/deadlines/"
+            }
+          },
+          "text": "Planning your application? Read the [entry requirements](link_1), the [tuition fees and total cost guide](link_2), and the [application deadlines](link_3).",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "Frequently Asked Questions",
+          "boldtext": "Is a Hungarian degree recognised internationally? ",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Hungarian state-recognised universities award degrees within the EU higher education framework, which is widely understood internationally. For regulated professions such as medicine, recognition also depends on the licensing rules of the country where you want to practise, and these usually involve an exam or registration process for foreign-trained graduates.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "Is the University of Debrecen's medical program WFME accredited? ",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Yes. It was the first in Hungary to be accredited according to WFME criteria, by the Hungarian Accreditation Committee, whose activities are recognised by WFME. The accreditation is valid until 22 April 2030, provided the criteria continue to be met.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "Can University of Debrecen graduates take the USMLE?",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Since 2024, ECFMG requires applicants to have graduated from a medical school accredited by an agency recognised by WFME. The University of Debrecen's medical education is accredited by such an agency. Confirm the current eligibility requirements directly with ECFMG/Intealth before planning this route.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "Will my degree be accepted by my home country's medical council? ",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Most countries require foreign-trained graduates to pass a licensing or screening examination before registration, regardless of where they studied. Contact your national council before you apply, and ask for their rules in writing.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "Does being listed in the World Directory of Medical Schools mean a school is recognised? ",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "No. The directory states that a listing does not denote recognition, accreditation or endorsement. What matters is the accreditation information shown in the listing and the rules of the authority you are applying to.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "Are non-medical degrees from the University of Debrecen recognised? ",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "A state-recognised EU university awards degrees in fields such as engineering, IT and business and are generally straightforward for employers and universities to assess. If your profession is regulated in your target country, a registration process may apply.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "Does the university guarantee that I can practise in my country? ",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "No university can guarantee licensure anywhere. Licensing decisions belong to each country's authority. What the university can provide is accredited education and the documentation you need for your application.",
+          "bullets,": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "title": "University of Debrecen Tuition Fees 2026/27 | Total Cost",
+      "blogTitle": "University of Debrecen Tuition Fees & Total Cost of Study for International Students",
+      "slug": "university-of-debrecen-tuition-fees-and-total-cost-of-study-for-international-students",
+      "author": "Ahsan Naseem",
+      "authorpic": "/A.png",
+      "date": "September 22, 2026",
+      "readTime": "13 min read",
+      "image": "/university-of-debrecen-tuition-fees-2026-27-outside-image.jpg",
+      "innerimage": "/university-of-debrecen-tuition-fees-2026-27-inside-image.jpg",
+      "comments": 4,
+      "SEOdesc": "University of Debrecen tuition fees by program, application and entrance fees, living costs in Debrecen, payment rules and discounts for 2026/27.",
+      "SEOkeywords": "university of debrecen fees for international students, university of debrecen fee structure, cost of studying in hungary, mbbs in hungary fees, university of debrecen mbbs fees",
+      "tags": [],
+      "robots": "index, follow",
+      "content": [
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Cost is usually the deciding factor when choosing where to study abroad. This guide sets out the University of Debrecen tuition fees for international students, the one-time fees you pay when you apply, what those fees already include, and what you should budget for living in Debrecen.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "2026/27 academic year",
+              "url": "https://southasia.edu.unideb.hu/blog/blog-details/university-of-debrecen-2026-2027-admission-requirements-for-international-students/"
+            }
+          },
+          "text": "Everything here is for the [2026/27 academic year](link_1). Fees are reviewed each year, so confirm the current figures with our admissions team before you transfer any money. If you'd like a full breakdown for your program and intake, you can request a personalised cost estimate for free.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "University of Debrecen Fees at a Glance",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "",
+          "columns": [
+            {
+              "title": "Fee",
+              "dataIndex": "fee",
+              "key": "fee"
+            },
+            {
+              "title": "Amount (2026/27)",
+              "dataIndex": "amount",
+              "key": "amount"
+            }
+          ],
+          "tableData": [
+            {
+              "key": "1",
+              "fee": "Application fee (one-time, non-refundable)",
+              "amount": "USD 150"
+            },
+            {
+              "key": "2",
+              "fee": "Entrance procedure fee (one-time)",
+              "amount": "USD 350"
+            },
+            {
+              "key": "3",
+              "fee": "Annual tuition",
+              "amount": "From about USD 6,000 to USD 17,500, depending on the program"
+            },
+            {
+              "key": "4",
+              "fee": "Included in tuition",
+              "amount": "Health insurance, medical check-up, and student card"
+            },
+            {
+              "key": "5",
+              "fee": "Payment method",
+              "amount": "Bank transfer in USD (or the equivalent in HUF or EUR). Cheques and cash aren't accepted."
+            }
+          ],
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "Tuition Fees by Program Level",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Tuition depends on the program, not on your nationality. The figures below are for the 2026/27 academic year and are per year unless stated otherwise.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "Medical and health sciences programs",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "",
+          "columns": [
+            {
+              "title": "Program",
+              "dataIndex": "program",
+              "key": "program"
+            },
+            {
+              "title": "Duration",
+              "dataIndex": "duration",
+              "key": "duration"
+            },
+            {
+              "title": "Tuition per year",
+              "dataIndex": "tuition",
+              "key": "tuition"
+            }
+          ],
+          "tableData": [
+            {
+              "key": "1",
+              "program": "Medicine (MD)",
+              "duration": "12 Semester",
+              "tuition": "USD 16,900 "
+            },
+            {
+              "key": "2",
+              "program": "Dentistry (DMD)",
+              "duration": "12 Semester",
+              "tuition": "USD 17,500 "
+            },
+            {
+              "key": "3",
+              "program": "Pharmacy (PharmD)",
+              "duration": "10 Semester",
+              "tuition": "USD 8,000"
+            },
+            {
+              "key": "4",
+              "program": "Nursing, Physiotherapy and other health sciences BSc",
+              "duration": "8 Semester",
+              "tuition": "USD 6,000-7,500"
+            },
+            {
+              "key": "5",
+              "program": "Basic Medicine Course (preparatory)",
+              "duration": "1–2 semesters",
+              "tuition": "USD 7,000"
+            }
+          ],
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "Non-medical Bachelor's programs",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Engineering, computer science, business, agriculture and science programs generally cost less than medical degrees.",
+          "columns": [
+            {
+              "title": "Program group",
+              "dataIndex": "program",
+              "key": "program"
+            },
+            {
+              "title": "Tuition per year",
+              "dataIndex": "tuition",
+              "key": "tuition"
+            }
+          ],
+          "tableData": [
+            {
+              "key": "1",
+              "program": "Engineering, IT, science and agriculture BSc",
+              "tuition": "USD 7,000"
+            },
+            {
+              "key": "2",
+              "program": "Business and economics BA/BSc",
+              "tuition": "USD 7,000"
+            },
+            {
+              "key": "3",
+              "program": "Professional Pilot BSc",
+              "tuition": "USD 35,000"
+            },
+            {
+              "key": "4",
+              "program": "Foundation Program (preparatory year)",
+              "tuition": "USD 4,800-7,500"
+            }
+          ],
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "Master's and PhD programs",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "",
+          "columns": [
+            {
+              "title": "Program group",
+              "dataIndex": "program",
+              "key": "program"
+            },
+            {
+              "title": "Tuition per year",
+              "dataIndex": "tuition",
+              "key": "tuition"
+            }
+          ],
+          "tableData": [
+            {
+              "key": "1",
+              "program": "Master's (MSc/MA), non-medical",
+              "tuition": "USD 5,500-16,000"
+            },
+            {
+              "key": "2",
+              "program": "Master's in medical and health sciences",
+              "tuition": "USD 5,500-8,000"
+            },
+            {
+              "key": "3",
+              "program": "LLM (European and International Business Law)",
+              "tuition": "USD 7,500"
+            },
+            {
+              "key": "4",
+              "program": "PhD / doctoral programs",
+              "tuition": "USD 16,900"
+            }
+          ],
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Note on intakes: some programs start in September only, while others start in both September and February. Check which applies to your program before planning your finances.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Ask us for the exact fee for your program: it's the one number you shouldn't guess.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "One-Time Fees When You Apply",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Besides tuition, every applicant pays two one-time fees:",
+          "bullets,": [
+            "Application fee: USD 150. Non-refundable, paid when you submit your application.",
+            "Entrance procedure fee: USD 350. This covers your entrance exam and/or interview."
+          ],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "When you pay them differs by program type. For non-medical programs, only the application fee is normally charged at the time of application, with the entrance fee paid alongside tuition. For medical programs, applicants usually pay both fees at the application stage.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Bank charges are paid by the applicant, so transfer a little extra to make sure the full amount arrives. Always include your name, date of birth, and reference number in the transfer details.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "What's Already Included in Your Tuition",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "One reason it's worth comparing full costs rather than headline fees: for 2026/27, University of Debrecen tuition includes health insurance, the medical check-up, and the student card.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "That matters for two reasons:",
+          "bullets,": [
+            "Health insurance is a visa requirement, and students at some universities pay for it separately.",
+            "The medical check-up is required when you arrive, so it's one less cost in your first weeks."
+          ],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Not included: accommodation, food, transport, books and personal expenses, travel to Hungary, visa fees, and any document translation or attestation costs.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "Total Cost of a Degree: How to Calculate It",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Use this formula to estimate the full cost of your studies:",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "(Annual tuition × number of years) + one-time fees + (monthly living costs × months of study) + visa and travel costs",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Example: a six-year medical degree",
+          "columns": [
+            {
+              "title": "Item",
+              "dataIndex": "item",
+              "key": "item"
+            },
+            {
+              "title": "Estimate",
+              "dataIndex": "estimate",
+              "key": "estimate"
+            }
+          ],
+          "tableData": [
+            {
+              "key": "1",
+              "item": "Tuition (USD 16,900 × 6 years)",
+              "estimate": "About USD 101,400, if the fee stays the same"
+            },
+            {
+              "key": "2",
+              "item": "Application + entrance fees",
+              "estimate": "USD 500"
+            },
+            {
+              "key": "3",
+              "item": "Living costs in Debrecen",
+              "estimate": "About USD 48,000"
+            },
+            {
+              "key": "4",
+              "item": "Visa, travel and documents",
+              "estimate": "About USD 600–1,000 (first residence permit about USD 120, five renewals about USD 350, documents and translations USD 100–300), plus flights"
+            },
+            {
+              "key": "5",
+              "item": "Approximate total",
+              "estimate": "About USD 150,000 to 151,000, excluding flights"
+            }
+          ],
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Tuition is reviewed annually, so build in a modest increase each year when planning. Our team can prepare a realistic estimate for your program and intake.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "Living Costs in Debrecen",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Debrecen is Hungary's second-largest city and is more affordable than Budapest. A typical student budget covers:",
+          "bullets,": [
+            "Accommodation: a university dormitory or a shared private flat",
+            "Food and groceries",
+            "Local transport: a monthly student pass",
+            "Mobile phone and internet",
+            "Books and study materials",
+            "Personal expenses"
+          ],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "living costs in Hungary",
+              "url": "https://southasia.edu.unideb.hu/blog/blog-details/Cost-of-Living-in-Debrecen-Budgeting-Tips-for-International-Students/"
+            },
+            "link_2": {
+              "title": "student housing in Debrecen",
+              "url": "https://southasia.edu.unideb.hu/blog/blog-details/Student-Housing-Debrecen-Ultimate-Guide-for-Stress-Free-Living/"
+            }
+          },
+          "text": "Bear in mind that your visa application will require proof that you can cover your living costs for your stay, so a realistic budget helps at the visa stage too. For a detailed breakdown, read our guide to [living costs in Hungary](link_1) for international students and our guide to [student housing in Debrecen](link_2).",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "can you work while studying in Hungary",
+              "url": "https://southasia.edu.unideb.hu/blog/blog-details/Can-You-Work-While-Studying-Abroad-in-Hungary/"
+            }
+          },
+          "text": "Many students also work part-time during their studies to cover some living costs. See [can you work while studying in Hungary](link_1)?",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "Payment Schedule and Deposit Rules",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Knowing when you pay is as important as knowing how much.",
+          "bullets,": [
+            "Tuition is calculated per academic year, and universities may offer an installment option for some programs.",
+            "For programs with tuition under USD 10,000, students must pay the full yearly tuition fee plus a general deposit before receiving their visa supporting documents. In other words, payment comes before the visa application, not after.",
+            "For higher-fee programs such as Medicine and Dentistry, the payment structure differs.",
+            "Payments are made by bank transfer only. Cheques and cash aren't accepted. You can pay in USD, or in HUF using the university's forint account.",
+            "Always keep your payment receipts. You'll need them for your visa application."
+          ],
+          "images": []
+        },
+        {
+          "heading": "Scholarships and Discounts That Reduce the Cost",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Several options can lower what you actually pay:",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "University of Debrecen scholarships. For Medicine and Dentistry, the maximum tuition discount is 30% of the annual fee. For non-medical programs, discounts can be considerably higher, up to 90% of the first-year tuition fee for some scholarship programs.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Merit-based tuition reduction. Students with excellent grade averages can apply for a tuition reduction of up to 20% per year, available from the second year of study. Foundation Year, Basic Medicine Course, and PhD students aren't eligible.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Sibling discount. Available when three siblings study medical or health sciences programs at the university.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Stipendium Hungaricum. This government scholarship covers tuition and provides a monthly stipend for students nominated by their home country. Eligibility depends on your country and the current cycle.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "scholarships page",
+              "url": "https://southasia.edu.unideb.hu/scholarship/"
+            }
+          },
+          "text": "Full details are on our [scholarships page](link_1).",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "What Happens to My Fees If My Visa Is Refused?",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "This is one of the most common questions we get, and it's a fair one: students often pay tuition before the visa decision.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "The university has rules for refunding prepaid tuition where a student's visa or residence permit application is refused, and the refusal is supported by official documents.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "What we can say clearly: the application fee is non-refundable, and refund requests must be supported by the official refusal document. Contact our office as soon as you receive a decision so we can guide you through the correct process.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "Costs Students Often Forget to Budget For",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Tuition and rent are easy to plan for. These smaller costs catch students out, so add them to your first-year budget:",
+          "bullets,": [
+            "Document costs. Translating, notarising or attesting your certificates can add up, especially if several documents need certified translations into English.",
+            "Visa and travel. The visa fee, travel to the consulate for your appointment, and your flight to Hungary.",
+            "Arrival costs. A deposit for private accommodation, bedding and kitchen basics, a winter coat if you're coming from a warm climate, and a local SIM card.",
+            "Bank transfer charges. Bank fees are paid by the applicant, so each transfer costs a little more than the amount itself.",
+            "Proof of funds. Your visa application will require evidence that you can support yourself, so that money needs to be available in a bank account, not only in your budget.",
+            "Books and equipment. Medical students in particular should budget for textbooks and lab or clinical equipment.",
+            "Travel home. Flights during holiday periods cost more, so book early if you plan to visit family."
+          ],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "A good rule of thumb is to add a contingency of a few hundred dollars for your first semester. Most of these costs happen once, at the start, and then your budget settles into the regular monthly pattern described above.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "How University of Debrecen Fees Compare",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "International students often compare Hungary with the UK, the US, Canada, and Australia. Two points are worth keeping in mind:",
+          "bullets,": [
+            "Total cost matters more than tuition alone. Compare tuition plus living costs plus insurance across countries. Health insurance and the student card are already included in the University of Debrecen tuition.",
+            "Program length affects the total. A six-year medical degree costs more overall than a three-year Bachelor's, even when the annual fee looks similar. Calculate the full program cost before comparing."
+          ],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "If you're comparing Hungarian universities, ask each one what's included in the fee, what the payment schedule is, and what the refund rules are if your visa is refused. Those details can make a bigger difference than the headline number.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "Get Your Personalised Cost Breakdown",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Fee tables can only tell you so much. The total depends on your program, your intake, whether you start with a foundation course, and which discounts you qualify for.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Tell us your program and intake, and we'll send you a full cost breakdown: tuition, one-time fees, estimated living costs, and any scholarships or discounts you may be eligible for.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "Contact us today",
+              "url": "https://southasia.edu.unideb.hu/contact/"
+            }
+          },
+          "text": "Prefer to talk it through? [Contact us today](link_1) or visit the University of Debrecen South Asia Regional Office.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "",
+          "links": {
+            "link_1": {
+              "title": "admission requirements",
+              "url": "https://southasia.edu.unideb.hu/blog/blog-details/university-of-debrecen-2026-2027-admission-requirements-for-international-students/"
+            },
+            "link_2": {
+              "title": "application deadlines",
+              "url": "https://southasia.edu.unideb.hu/deadlines/"
+            }
+          },
+          "text": "Ready to apply? Check the [admission requirements](link_1) and the [application deadlines](link_2). For the February 2027 intake, the deadline is 1 November 2026.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "Frequently Asked Questions",
+          "boldtext": "How much are the University of Debrecen tuition fees for international students?",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Tuition depends on the program, and for 2026/27 ranges from around USD 6,000 to USD 17,500 per year. Medicine is USD 16,900 per year. Fees are the same for local and international students.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "How much does MBBS at the University of Debrecen cost in total? ",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Medicine lasts six years. At around USD 16,900 a year, tuition comes to roughly USD 101,400, plus the USD 150 application fee, the USD 350 entrance fee, and living costs in Debrecen.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "What does the tuition fee include? ",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "For 2026/27, tuition includes health insurance, the medical check-up, and the student card. It doesn't include accommodation, food, transport, books, travel, or visa costs.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "When do I pay my tuition fee? ",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "For programs with tuition under USD 10,000, you pay the yearly tuition plus a general deposit before you receive your visa supporting documents. Payment structures differ for higher-fee programs, so confirm with our team.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "Can I pay tuition in installments? ",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Some programs offer an installment option. Check the current terms for your program with our admissions team before applying.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "Are there scholarships to reduce the fee? ",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Yes. Medicine and Dentistry students can receive discounts of up to 30%, non-medical students may qualify for larger reductions, and a merit-based reduction of up to 20% a year is available from the second year. The Stipendium Hungaricum government scholarship is another route.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "Will I get my money back if my visa is refused? ",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "The university has a refund policy for prepaid tuition when a visa is refused, and you can provide official documentation. The application fee is non-refundable. Contact us immediately if you receive a refusal.",
+          "bullets,": [],
+          "images": []
+        },
+        {
+          "heading": "",
+          "boldtext": "Are fees the same for international and Hungarian students? ",
+          "links": {
+            "link_1": {
+              "title": "",
+              "url": ""
+            }
+          },
+          "text": "Tuition for the English-taught programs is the same regardless of nationality.",
+          "bullets,": [],
+          "images": []
+        }
+      ]
+    },
+    {
       "id": 87,
       "title": "University of Debrecen Requirements for International Students",
       "blogTitle": "Hungary Student Visa for International Students: Documents, Timeline & Common Mistakes",
