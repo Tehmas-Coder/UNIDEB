@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "id": "78",
+      "id": "79",
       "date": "15",
       "month": "Nov",
       "year": "2026",
@@ -18,7 +18,7 @@
       "video": ""
     },
     {
-      "id": "77",
+      "id": "78",
       "date": "14-16",
       "month": "Nov",
       "year": "2026",
@@ -35,7 +35,7 @@
       "video": ""
     },
     {
-      "id": "76",
+      "id": "77",
       "date": "14",
       "month": "Nov",
       "year": "2026",
@@ -52,7 +52,7 @@
       "video": ""
     },
     {
-      "id": "75",
+      "id": "76",
       "date": "13",
       "month": "Nov",
       "year": "2026",
@@ -62,6 +62,23 @@
       "country": "UAE",
       "days": "1 Day",
       "venue": "Nord Anglia School Dubai – To Be Confirmed",
+      "time": "",
+      "SEOdesc": "",
+      "SEOkeywords": "",
+      "images": [],
+      "video": ""
+    },
+    {
+      "id": "75",
+      "date": "07",
+      "month": "Nov",
+      "year": "2026",
+      "desc": "Meet the official representative and learn about programmes, admissions, and study opportunities at the University of Debrecen.",
+      "title": "Free Webinar",
+      "city": "UAE",
+      "country": "UAE",
+      "days": "1 Day",
+      "venue": "",
       "time": "",
       "SEOdesc": "",
       "SEOkeywords": "",
@@ -87,23 +104,6 @@
     },
     {
       "id": "73",
-      "date": "01-03",
-      "month": "Nov",
-      "year": "2026",
-      "desc": "Our representative will attend ICEF Berlin to meet education professionals, strengthen international partnerships, and discuss future collaboration opportunities.",
-      "title": "ICEF Berlin",
-      "city": "Berlin",
-      "country": "Germany",
-      "days": "3 Days",
-      "venue": "",
-      "time": "",
-      "SEOdesc": "",
-      "SEOkeywords": "",
-      "images": [],
-      "video": ""
-    },
-    {
-      "id": "72",
       "date": "25-27",
       "month": "Oct",
       "year": "2026",
@@ -120,7 +120,7 @@
       "video": ""
     },
     {
-      "id": "71",
+      "id": "72",
       "date": "18-21",
       "month": "Oct",
       "year": "2026",
@@ -129,6 +129,23 @@
       "city": "Abu Dhabi",
       "country": "UAE",
       "days": "4 Days",
+      "venue": "",
+      "time": "",
+      "SEOdesc": "",
+      "SEOkeywords": "",
+      "images": [],
+      "video": ""
+    },
+    {
+      "id": "71",
+      "date": "10",
+      "month": "Oct",
+      "year": "2026",
+      "desc": "Meet the official representative of the University of Debrecen and get guidance on programmes, admissions, tuition fees, and study opportunities.",
+      "title": "Free Webinar - India",
+      "city": "Abu Dhabi",
+      "country": "India",
+      "days": "1 Day",
       "venue": "",
       "time": "",
       "SEOdesc": "",

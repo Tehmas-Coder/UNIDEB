@@ -9,27 +9,27 @@
 
     "EventsData": [
       {
-        "title": "UniHawk UAE Fair",
-        "description": "Meet our representatives at the UniHawk UAE Fair to learn more about the University of Debrecen, its programmes, admissions, scholarships, and student life.",
-        "year": "2026",
-        "month": "Sep",
-        "date": "08-11",
-        "location": "Abu Dhabi, UAE"
-      },
-      {
-        "title": "SABIS University Fair",
-        "description": "Meet our representatives at SABIS® International School Yas Island Campus to learn more about the University of Debrecen, its academic programmes, admission requirements, scholarships, and student life.",
-        "year": "2026",
-        "month": "Sep",
-        "date": "26-27",
-        "location": "Abu Dhabi, UAE"
-      },
-      {
-        "title": "BMI Dubai High School Visits",
-        "description": "We will visit high schools across Dubai to guide students, answer their questions, and introduce them to study opportunities at the University of Debrecen.",
+        "title": "Free Webinar - India",
+        "description": "Meet the official representative of the University of Debrecen and get guidance on programmes, admissions, tuition fees, and study opportunities.",
         "year": "2026",
         "month": "Oct",
-        "date": "01",
+        "date": "10",
+        "location": "India"
+      },
+      {
+        "title": "Najah Abu Dhabi",
+        "description": "Meet the University of Debrecen team at Najah Abu Dhabi to explore our programmes, admission requirements, scholarships, and student support services.",
+        "year": "2026",
+        "month": "Oct",
+        "date": "18-21",
+        "location": "Abu Dhabi, UAE"
+      },
+      {
+        "title": "Najah Dubai",
+        "description": "Join us at Najah Dubai and speak with our representatives about studying at the University of Debrecen and beginning your application journey.",
+        "year": "2026",
+        "month": "Oct",
+        "date": "25-27",
         "location": "Dubai, UAE"
       }
     ],

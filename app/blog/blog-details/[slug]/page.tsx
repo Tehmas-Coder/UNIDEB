@@ -166,11 +166,7 @@ const ArticleDetailPage = ({ params }: { params: { slug: string } }) => {
                 {section.heading}
               </h2>
             )}
-            <p
-              className={`text-justify text-[24px] ${
-                !section.heading ? "pb-2" : "pb-6"
-              }`}
-            >
+            <p className="text-justify text-[24px] pb-2">
               <strong>
                 <span
                   dangerouslySetInnerHTML={{
@@ -183,7 +179,7 @@ const ArticleDetailPage = ({ params }: { params: { slug: string } }) => {
               </strong>
             </p>
             <p
-              className={`text-justify ${!section.heading ? "pb-2" : "pb-6"}`}
+              className="text-justify pb-2"
               dangerouslySetInnerHTML={{
                 __html: replaceTextWithLinks(section.text, section.links),
               }}
@@ -194,14 +190,14 @@ const ArticleDetailPage = ({ params }: { params: { slug: string } }) => {
                 dataSource={(section as any)?.tableData}
                 columns={(section as any)?.columns}
                 bordered
-                className="mt-5"
+                className=""
                 pagination={false}
               />
             )}
 
             <div className="mx-4">
               {section["bullets,"] && (
-                <ul className="text-[16px] gap-2 lg:text-[18px] flex flex-col list-disc">
+                <ul className="text-[14px] gap-2 lg:text-[16px] flex flex-col list-disc">
                   {Object.values(section["bullets,"]).map(
                     (bullet: string, bulletIndex: number) => (
                       <li
@@ -209,6 +205,7 @@ const ArticleDetailPage = ({ params }: { params: { slug: string } }) => {
                         dangerouslySetInnerHTML={{
                           __html: replaceTextWithLinks(bullet, section.links),
                         }}
+                        className="ml-10"
                       />
                     ),
                   )}
