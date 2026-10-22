@@ -126,24 +126,24 @@ const ArticleDetailPage = ({ params }: { params: { slug: string } }) => {
               </div>
             </div>
             <div className="flex flex-col item-start 1  justify-between gap-y-2">
-              <h1 className="hover:text-[#155744] flex cursor-pointer">
+              <p className="hover:text-[#155744] flex cursor-pointer">
                 <span className="pr-2">
                   <FaUser size={20} />
                 </span>
                 {article.author}
-              </h1>
-              <h1 className="flex hover:text-[#155744] cursor-pointer">
+              </p>
+              <p className="flex hover:text-[#155744] cursor-pointer">
                 <span className="pr-2">
                   <BiTimeFive size={20} />
                 </span>
                 {article.readTime}
-              </h1>
-              <h1 className="flex hover:text-[#155744] cursor-pointer">
+              </p>
+              <p className="flex hover:text-[#155744] cursor-pointer">
                 <span className="pr-2">
                   <LuMessagesSquare size={20} />
                 </span>
                 {article.comments} Comments
-              </h1>
+              </p>
             </div>
           </div>
         </div>
@@ -224,9 +224,9 @@ const ArticleDetailPage = ({ params }: { params: { slug: string } }) => {
         ))}
       </div>
       <div className="lg:mx-[10%] mx-4 pb-10 pt-6 flex flex-col justify-center items-center">
-        <h1 className="text-[35px] pb-8 font-extrabold text-[#f5b418] underline flex justify-center lg:justify-start">
+        <p className="text-[35px] pb-8 font-extrabold text-[#f5b418] underline flex justify-center lg:justify-start">
           Leave a Reply
-        </h1>
+        </p>
         <ContactForm />
       </div>
     </div>
